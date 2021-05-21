@@ -2,8 +2,13 @@
 
 ### source
 https://github.com/msolihinam/tv/tree/main/logo
+
+
 https://github.com/Sppotato/Sppotato.github.io
+
+
 https://github.com/m3u8playlist/tvlogo
+
 
 
 |Icon|Channel|Site|
@@ -1306,7 +1311,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/好莱坞电影.png" width="100" height="50">|好莱坞电影|https://iptv-pro.github.io/logo/好莱坞电影.png|
 |<img src="https://iptv-pro.github.io/logo/安徽人物.png" width="100" height="50">|安徽人物|https://iptv-pro.github.io/logo/安徽人物.png|
 |<img src="https://iptv-pro.github.io/logo/安徽国际.png" width="100" height="50">|安徽国际|https://iptv-pro.github.io/logo/安徽国际.png|
-|<img src="https://iptv-pro.github.io/logo/寰宇新闻台A.png" width="100" height="50">|寰宇新闻台A|https://iptv-pro.github.io/logo/寰宇新闻台A.png|
+|<img src="https://iptv-pro.github.io/logo/寰宇新闻台.png" width="100" height="50">|寰宇新闻台|https://iptv-pro.github.io/logo/寰宇新闻台.png|
 |<img src="https://iptv-pro.github.io/logo/山东体育.png" width="100" height="50">|山东体育|https://iptv-pro.github.io/logo/山东体育.png|
 |<img src="https://iptv-pro.github.io/logo/山东公共.png" width="100" height="50">|山东公共|https://iptv-pro.github.io/logo/山东公共.png|
 |<img src="https://iptv-pro.github.io/logo/山东农科.png" width="100" height="50">|山东农科|https://iptv-pro.github.io/logo/山东农科.png|
