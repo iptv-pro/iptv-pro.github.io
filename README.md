@@ -1,5 +1,11 @@
 ## TV logo list
 
+### source
+https://github.com/msolihinam/tv/tree/main/logo
+https://github.com/Sppotato/Sppotato.github.io
+https://github.com/m3u8playlist/tvlogo
+
+
 |Icon|Channel|Site|
 |:----|:---:|:---:|
 |<img src="https://iptv-pro.github.io/logo/3D電影.png" width="100" height="50">|3D電影|https://iptv-pro.github.io/logo/3D電影.png|
