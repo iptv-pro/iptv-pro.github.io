@@ -1151,6 +1151,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/上海国际.png" width="100" height="50">|上海国际|https://iptv-pro.github.io/logo/上海国际.png|
 |<img src="https://iptv-pro.github.io/logo/上海外语频道.png" width="100" height="50">|上海外语频道|https://iptv-pro.github.io/logo/上海外语频道.png|
 |<img src="https://iptv-pro.github.io/logo/上海幸福彩.png" width="100" height="50">|上海幸福彩|https://iptv-pro.github.io/logo/上海幸福彩.png|
+|<img src="https://iptv-pro.github.io/logo/上海教育电视台.png" width="100" height="50">|上海教育电视台|https://iptv-pro.github.io/logo/上海教育电视台.png|
 |<img src="https://iptv-pro.github.io/logo/上海新视觉.png" width="100" height="50">|上海新视觉|https://iptv-pro.github.io/logo/上海新视觉.png|
 |<img src="https://iptv-pro.github.io/logo/上海新闻综合.png" width="100" height="50">|上海新闻综合|https://iptv-pro.github.io/logo/上海新闻综合.png|
 |<img src="https://iptv-pro.github.io/logo/上海极速汽车.png" width="100" height="50">|上海极速汽车|https://iptv-pro.github.io/logo/上海极速汽车.png|
