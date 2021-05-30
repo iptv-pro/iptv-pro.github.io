@@ -1136,6 +1136,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 上海国际,https://iptv-pro.github.io/logo/上海国际.png
 上海外语频道,https://iptv-pro.github.io/logo/上海外语频道.png
 上海幸福彩,https://iptv-pro.github.io/logo/上海幸福彩.png
+上海教育电视台,https://iptv-pro.github.io/logo/上海教育电视台.png
 上海新视觉,https://iptv-pro.github.io/logo/上海新视觉.png
 上海新闻综合,https://iptv-pro.github.io/logo/上海新闻综合.png
 上海极速汽车,https://iptv-pro.github.io/logo/上海极速汽车.png
