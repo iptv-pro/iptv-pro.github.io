@@ -1343,7 +1343,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E5%B0%91%E5%84%BF.png" width="100" height="50">|广州少儿|https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E5%B0%91%E5%84%BF.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E5%BD%B1%E8%A7%86.png" width="100" height="50">|广州影视|https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E5%BD%B1%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png" width="100" height="50">|广州新闻|https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png|
-|<img src="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E6%B3%95%E5%88%B6.png" width="100" height="50">|广州法制|https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E6%B3%95%E5%88%B6.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E6%B3%95%E6%B2%BB.png" width="100" height="50">|广州法治|https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E6%B3%95%E6%B2%BB.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E7%94%9F%E6%B4%BB.png" width="100" height="50">|广州生活|https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E7%94%9F%E6%B4%BB.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E7%AB%9E%E8%B5%9B.png" width="100" height="50">|广州竞赛|https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E7%AB%9E%E8%B5%9B.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E7%BB%8F%E6%B5%8E.png" width="100" height="50">|广州经济|https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E7%BB%8F%E6%B5%8E.png|
