@@ -1229,6 +1229,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 华纳电视,https://iptv-pro.github.io/logo/%E5%8D%8E%E7%BA%B3%E7%94%B5%E8%A7%86.png
 华视,https://iptv-pro.github.io/logo/%E5%8D%8E%E8%A7%86.png
 华视新闻资讯,https://iptv-pro.github.io/logo/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF.png
+南国都市,https://iptv-pro.github.io/logo/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%82.png
 南国都市4K,https://iptv-pro.github.io/logo/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png
 南方,https://iptv-pro.github.io/logo/%E5%8D%97%E6%96%B9.png
 卡塔尔半岛电视台,https://iptv-pro.github.io/logo/%E5%8D%A1%E5%A1%94%E5%B0%94%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0.png
@@ -1324,7 +1325,6 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 广东英语辅导,https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E8%8B%B1%E8%AF%AD%E8%BE%85%E5%AF%BC.png
 广东高尔夫,https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E9%AB%98%E5%B0%94%E5%A4%AB.png
 广东高清台标,https://iptv-pro.github.io/logo/%E5%B9%BF%E4%B8%9C%E9%AB%98%E6%B8%85%E5%8F%B0%E6%A0%87.png
-广州南国都市,https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%82.png
 广州少儿,https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E5%B0%91%E5%84%BF.png
 广州影视,https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E5%BD%B1%E8%A7%86.png
 广州新闻,https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png
