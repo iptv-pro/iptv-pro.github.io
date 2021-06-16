@@ -173,17 +173,24 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/CIBN%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png" width="100" height="50">|CIBN古装剧场|https://iptv-pro.github.io/logo/CIBN%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E5%96%9C%E5%89%A7%E5%BD%B1%E9%99%A2.png" width="100" height="50">|CIBN喜剧影院|https://iptv-pro.github.io/logo/CIBN%E5%96%9C%E5%89%A7%E5%BD%B1%E9%99%A2.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E5%A5%BD%E8%8E%B1%E5%9D%9E.png" width="100" height="50">|CIBN好莱坞|https://iptv-pro.github.io/logo/CIBN%E5%A5%BD%E8%8E%B1%E5%9D%9E.png|
+|<img src="https://iptv-pro.github.io/logo/CIBN%E5%BE%AE%E7%94%B5%E5%BD%B1.png" width="100" height="50">|CIBN微电影|https://iptv-pro.github.io/logo/CIBN%E5%BE%AE%E7%94%B5%E5%BD%B1.png|
+|<img src="https://iptv-pro.github.io/logo/CIBN%E6%80%A1%E5%AE%B6.png" width="100" height="50">|CIBN怡家|https://iptv-pro.github.io/logo/CIBN%E6%80%A1%E5%AE%B6.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E6%83%85%E6%84%9F%E5%BD%B1%E9%99%A2.png" width="100" height="50">|CIBN情感影院|https://iptv-pro.github.io/logo/CIBN%E6%83%85%E6%84%9F%E5%BD%B1%E9%99%A2.png|
+|<img src="https://iptv-pro.github.io/logo/CIBN%E6%96%B0%E7%9F%A5.png" width="100" height="50">|CIBN新知|https://iptv-pro.github.io/logo/CIBN%E6%96%B0%E7%9F%A5.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E6%B1%BD%E8%BD%A6.png" width="100" height="50">|CIBN汽车|https://iptv-pro.github.io/logo/CIBN%E6%B1%BD%E8%BD%A6.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88.png" width="100" height="50">|CIBN流金岁月|https://iptv-pro.github.io/logo/CIBN%E6%B5%81%E9%87%91%E5%B2%81%E6%9C%88.png|
+|<img src="https://iptv-pro.github.io/logo/CIBN%E7%82%AB%E4%BD%B3%E5%8A%A8%E6%BC%AB.png" width="100" height="50">|CIBN炫佳动漫|https://iptv-pro.github.io/logo/CIBN%E7%82%AB%E4%BD%B3%E5%8A%A8%E6%BC%AB.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E7%94%B5%E5%BD%B1.png" width="100" height="50">|CIBN电影|https://iptv-pro.github.io/logo/CIBN%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E7%95%99%E5%AD%A6%E4%B8%96%E7%95%8C.png" width="100" height="50">|CIBN留学世界|https://iptv-pro.github.io/logo/CIBN%E7%95%99%E5%AD%A6%E4%B8%96%E7%95%8C.png|
+|<img src="https://iptv-pro.github.io/logo/CIBN%E7%9C%9F%E4%BA%BA%E7%A7%80.png" width="100" height="50">|CIBN真人秀|https://iptv-pro.github.io/logo/CIBN%E7%9C%9F%E4%BA%BA%E7%A7%80.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E7%B2%BE%E5%93%81%E5%BD%B1%E9%99%A2.png" width="100" height="50">|CIBN精品影院|https://iptv-pro.github.io/logo/CIBN%E7%B2%BE%E5%93%81%E5%BD%B1%E9%99%A2.png|
+|<img src="https://iptv-pro.github.io/logo/CIBN%E7%BA%AA%E5%BD%95.png" width="100" height="50">|CIBN纪录|https://iptv-pro.github.io/logo/CIBN%E7%BA%AA%E5%BD%95.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E7%BA%AA%E5%BD%95%E7%89%87.png" width="100" height="50">|CIBN纪录片|https://iptv-pro.github.io/logo/CIBN%E7%BA%AA%E5%BD%95%E7%89%87.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E7%BB%8F%E5%85%B8%E5%89%A7%E5%9C%BA.png" width="100" height="50">|CIBN经典剧场|https://iptv-pro.github.io/logo/CIBN%E7%BB%8F%E5%85%B8%E5%89%A7%E5%9C%BA.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E7%BB%BC%E5%90%88.png" width="100" height="50">|CIBN综合|https://iptv-pro.github.io/logo/CIBN%E7%BB%BC%E5%90%88.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E8%89%BA%E6%9C%AF%E9%99%A2%E7%BA%BF.png" width="100" height="50">|CIBN艺术院线|https://iptv-pro.github.io/logo/CIBN%E8%89%BA%E6%9C%AF%E9%99%A2%E7%BA%BF.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E9%99%A2%E7%BA%BF%E5%A4%A7%E7%89%87.png" width="100" height="50">|CIBN院线大片|https://iptv-pro.github.io/logo/CIBN%E9%99%A2%E7%BA%BF%E5%A4%A7%E7%89%87.png|
+|<img src="https://iptv-pro.github.io/logo/CIBN%E9%A3%8E%E5%B0%9A%E8%BF%90%E5%8A%A8.png" width="100" height="50">|CIBN风尚运动|https://iptv-pro.github.io/logo/CIBN%E9%A3%8E%E5%B0%9A%E8%BF%90%E5%8A%A8.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E9%AA%84%E9%98%B3%E5%89%A7%E5%9C%BA.png" width="100" height="50">|CIBN骄阳剧场|https://iptv-pro.github.io/logo/CIBN%E9%AA%84%E9%98%B3%E5%89%A7%E5%9C%BA.png|
 |<img src="https://iptv-pro.github.io/logo/CNBC%20Asia%20%E8%B4%A2%E7%BB%8F%E5%8F%B0.png" width="100" height="50">|CNBC Asia 财经台|https://iptv-pro.github.io/logo/CNBC%20Asia%20%E8%B4%A2%E7%BB%8F%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/CNN%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%E5%8F%B0.png" width="100" height="50">|CNN国际新闻台|https://iptv-pro.github.io/logo/CNN%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%E5%8F%B0.png|
