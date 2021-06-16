@@ -24,6 +24,7 @@ BEINEng2,https://iptv-pro.github.io/logo/BEINEng2.png
 BEINEng3,https://iptv-pro.github.io/logo/BEINEng3.png
 BEINxtra,https://iptv-pro.github.io/logo/BEINxtra.png
 BOOMERANG,https://iptv-pro.github.io/logo/BOOMERANG.png
+BSTV,https://iptv-pro.github.io/logo/BSTV.png
 Berita_RTM,https://iptv-pro.github.io/logo/Berita_RTM.png
 Bernama,https://iptv-pro.github.io/logo/Bernama.png
 BesTV,https://iptv-pro.github.io/logo/BesTV.png
@@ -34,6 +35,7 @@ CBN-幸福剧场,https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%89%A7
 CBN-幸福娱乐,https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%A8%B1%E4%B9%90.png
 CBN-每日影院,https://iptv-pro.github.io/logo/CBN-%E6%AF%8F%E6%97%A5%E5%BD%B1%E9%99%A2.png
 CBN-风尚生活,https://iptv-pro.github.io/logo/CBN-%E9%A3%8E%E5%B0%9A%E7%94%9F%E6%B4%BB.png
+CBSN,https://iptv-pro.github.io/logo/CBSN.png
 CCTV-1,https://iptv-pro.github.io/logo/cn/cctv/CCTV-1.png
 CCTV-10,https://iptv-pro.github.io/logo/cn/cctv/CCTV-10.png
 CCTV-11,https://iptv-pro.github.io/logo/cn/cctv/CCTV-11.png
@@ -99,9 +101,12 @@ CCTV3综艺,https://iptv-pro.github.io/logo/CCTV3%E7%BB%BC%E8%89%BA.png
 CCTV4-欧洲,https://iptv-pro.github.io/logo/CCTV4-%E6%AC%A7%E6%B4%B2.png
 CCTV4-美洲,https://iptv-pro.github.io/logo/CCTV4-%E7%BE%8E%E6%B4%B2.png
 CCTV4,https://iptv-pro.github.io/logo/CCTV4.png
+CCTV4America,https://iptv-pro.github.io/logo/CCTV4America.jpg
+CCTV4Europe,https://iptv-pro.github.io/logo/CCTV4Europe.jpg
 CCTV4K-(1),https://iptv-pro.github.io/logo/CCTV4K-%281%29.png
 CCTV4k,https://iptv-pro.github.io/logo/CCTV4k.png
 CCTV4中文国际,https://iptv-pro.github.io/logo/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png
+CCTV5+,https://iptv-pro.github.io/logo/CCTV5%2B.png
 CCTV5,https://iptv-pro.github.io/logo/CCTV5.png
 CCTV5体育,https://iptv-pro.github.io/logo/CCTV5%E4%BD%93%E8%82%B2.png
 CCTV6,https://iptv-pro.github.io/logo/CCTV6.png
@@ -178,11 +183,15 @@ CIBN院线大片,https://iptv-pro.github.io/logo/CIBN%E9%99%A2%E7%BA%BF%E5%A4%A7
 CIBN风尚运动,https://iptv-pro.github.io/logo/CIBN%E9%A3%8E%E5%B0%9A%E8%BF%90%E5%8A%A8.png
 CIBN骄阳剧场,https://iptv-pro.github.io/logo/CIBN%E9%AA%84%E9%98%B3%E5%89%A7%E5%9C%BA.png
 CNBC Asia 财经台,https://iptv-pro.github.io/logo/CNBC%20Asia%20%E8%B4%A2%E7%BB%8F%E5%8F%B0.png
+CNC,https://iptv-pro.github.io/logo/CNC.png
 CNN国际新闻台,https://iptv-pro.github.io/logo/CNN%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB%E5%8F%B0.png
 CNN头条新闻台,https://iptv-pro.github.io/logo/CNN%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB%E5%8F%B0.png
 CN卡通,https://iptv-pro.github.io/logo/CN%E5%8D%A1%E9%80%9A.png
 CN卡通频道,https://iptv-pro.github.io/logo/CN%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93.png
+CTSIQ,https://iptv-pro.github.io/logo/CTSIQ.png
+CTSNews,https://iptv-pro.github.io/logo/CTSNews.png
 Cable_News,https://iptv-pro.github.io/logo/Cable_News.png
+CanalMacau,https://iptv-pro.github.io/logo/CanalMacau.png
 CartoonNetwork,https://iptv-pro.github.io/logo/CartoonNetwork.png
 Ceria,https://iptv-pro.github.io/logo/Ceria.png
 Cinemax,https://iptv-pro.github.io/logo/Cinemax.png
@@ -193,6 +202,7 @@ DOXTV4K,https://iptv-pro.github.io/logo/DOXTV4K.png
 DOX映画,https://iptv-pro.github.io/logo/DOX%E6%98%A0%E7%94%BB.png
 DOX英伦,https://iptv-pro.github.io/logo/DOX%E8%8B%B1%E4%BC%A6.png
 DOX院线,https://iptv-pro.github.io/logo/DOX%E9%99%A2%E7%BA%BF.png
+DPRKCentralTelevision,https://iptv-pro.github.io/logo/DPRKCentralTelevision.png
 DW德国之声,https://iptv-pro.github.io/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png
 Discovery,https://iptv-pro.github.io/logo/Discovery.png
 Discovery探索日本,https://iptv-pro.github.io/logo/Discovery%E6%8E%A2%E7%B4%A2%E6%97%A5%E6%9C%AC.png
@@ -207,6 +217,8 @@ ELTV生活英语台,https://iptv-pro.github.io/logo/ELTV%E7%94%9F%E6%B4%BB%E8%8B
 E彩虹,https://iptv-pro.github.io/logo/E%E5%BD%A9%E8%99%B9.png
 FOX ACTION MOVIES,https://iptv-pro.github.io/logo/FOX%20ACTION%20MOVIES.png
 FOXMOVIES,https://iptv-pro.github.io/logo/FOXMOVIES.png
+FOXSports,https://iptv-pro.github.io/logo/FOXSports.png
+FOXSports2,https://iptv-pro.github.io/logo/FOXSports2.png
 First Moives,https://iptv-pro.github.io/logo/First%20Moives.png
 Food,https://iptv-pro.github.io/logo/Food.png
 Fox,https://iptv-pro.github.io/logo/Fox.png
@@ -227,6 +239,7 @@ HBOFamily,https://iptv-pro.github.io/logo/HBOFamily.png
 HBOHits,https://iptv-pro.github.io/logo/HBOHits.png
 HBOSign,https://iptv-pro.github.io/logo/HBOSign.png
 HISTORY2-历史频道2,https://iptv-pro.github.io/logo/HISTORY2-%E5%8E%86%E5%8F%B2%E9%A2%91%E9%81%932.png
+HK01,https://iptv-pro.github.io/logo/HK01.png
 HKIBC,https://iptv-pro.github.io/logo/HKIBC.png
 HOLLYWOOD MOVIE,https://iptv-pro.github.io/logo/HOLLYWOOD%20MOVIE.png
 HelloTV,https://iptv-pro.github.io/logo/HelloTV.png
@@ -281,6 +294,7 @@ Mandarin,https://iptv-pro.github.io/logo/Mandarin.png
 NEWTV怡伴健康,https://iptv-pro.github.io/logo/NEWTV%E6%80%A1%E4%BC%B4%E5%81%A5%E5%BA%B7.png
 NEWTV武搏世界,https://iptv-pro.github.io/logo/NEWTV%E6%AD%A6%E6%90%8F%E4%B8%96%E7%95%8C.png
 NHK WORLD PREMIUM,https://iptv-pro.github.io/logo/NHK%20WORLD%20PREMIUM.png
+NHKChinese,https://iptv-pro.github.io/logo/NHKChinese.png
 NOW TV,https://iptv-pro.github.io/logo/NOW%20TV.png
 NOW新闻,https://iptv-pro.github.io/logo/NOW%E6%96%B0%E9%97%BB.png
 NTV7,https://iptv-pro.github.io/logo/NTV7.png
@@ -288,6 +302,7 @@ NatGeo,https://iptv-pro.github.io/logo/NatGeo.png
 NatGeoPeople,https://iptv-pro.github.io/logo/NatGeoPeople.png
 NatGeoWild,https://iptv-pro.github.io/logo/NatGeoWild.png
 Naura,https://iptv-pro.github.io/logo/Naura.png
+NewTV,https://iptv-pro.github.io/logo/NewTV.png
 NewTV东北热剧,https://iptv-pro.github.io/logo/NewTV%E4%B8%9C%E5%8C%97%E7%83%AD%E5%89%A7.png
 NewTV中国功夫,https://iptv-pro.github.io/logo/NewTV%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB.png
 NewTV云南,https://iptv-pro.github.io/logo/NewTV%E4%BA%91%E5%8D%97.png
@@ -332,10 +347,16 @@ Parlimen,https://iptv-pro.github.io/logo/Parlimen.png
 Pertiwi,https://iptv-pro.github.io/logo/Pertiwi.png
 Pesona,https://iptv-pro.github.io/logo/Pesona.png
 Prima,https://iptv-pro.github.io/logo/Prima.png
+RFA,https://iptv-pro.github.io/logo/RFA.png
+RFI,https://iptv-pro.github.io/logo/RFI.png
+RTHK,https://iptv-pro.github.io/logo/RTHK.png
 RTHK31,https://iptv-pro.github.io/logo/RTHK31.png
 RTHK32,https://iptv-pro.github.io/logo/RTHK32.png
+RTHK33,https://iptv-pro.github.io/logo/RTHK33.png
+RTHKPTHRadio,https://iptv-pro.github.io/logo/RTHKPTHRadio.png
 RTM_Sports,https://iptv-pro.github.io/logo/RTM_Sports.png
 Rania,https://iptv-pro.github.io/logo/Rania.png
+RegionalEmblemOfMacau,https://iptv-pro.github.io/logo/RegionalEmblemOfMacau.png
 Ria,https://iptv-pro.github.io/logo/Ria.png
 Ruuma,https://iptv-pro.github.io/logo/Ruuma.png
 SBN全球财经台,https://iptv-pro.github.io/logo/SBN%E5%85%A8%E7%90%83%E8%B4%A2%E7%BB%8F%E5%8F%B0.png
@@ -345,6 +366,11 @@ SuperSport,https://iptv-pro.github.io/logo/SuperSport.png
 SuperSport2,https://iptv-pro.github.io/logo/SuperSport2.png
 SuperSport3,https://iptv-pro.github.io/logo/SuperSport3.png
 SuperSport4,https://iptv-pro.github.io/logo/SuperSport4.png
+TDMEntertainment,https://iptv-pro.github.io/logo/TDMEntertainment.png
+TDMInformação,https://iptv-pro.github.io/logo/TDMInforma%C3%A7%C3%A3o.png
+TDMMacauSatéllite,https://iptv-pro.github.io/logo/TDMMacauSat%C3%A9llite.png
+TDMOuMun,https://iptv-pro.github.io/logo/TDMOuMun.png
+TDMSport,https://iptv-pro.github.io/logo/TDMSport.png
 TLC旅游生活,https://iptv-pro.github.io/logo/TLC%E6%97%85%E6%B8%B8%E7%94%9F%E6%B4%BB.png
 TRACE SPORT STARS white,https://iptv-pro.github.io/logo/TRACE%20SPORT%20STARS%20white.png
 TRACE URBAN,https://iptv-pro.github.io/logo/TRACE%20URBAN.png
@@ -369,6 +395,8 @@ TVNMovies,https://iptv-pro.github.io/logo/TVNMovies.png
 Thrill,https://iptv-pro.github.io/logo/Thrill.png
 Travel,https://iptv-pro.github.io/logo/Travel.png
 VIU6,https://iptv-pro.github.io/logo/VIU6.png
+VOA,https://iptv-pro.github.io/logo/VOA.png
+VOAChina,https://iptv-pro.github.io/logo/VOAChina.png
 VOA美国之音,https://iptv-pro.github.io/logo/VOA%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3.png
 Vaanavil,https://iptv-pro.github.io/logo/Vaanavil.png
 Vasantham,https://iptv-pro.github.io/logo/Vasantham.png
@@ -480,6 +508,7 @@ chc2,https://iptv-pro.github.io/logo/chc2.png
 chc3,https://iptv-pro.github.io/logo/chc3.png
 chengdu1,https://iptv-pro.github.io/logo/chengdu1.png
 chengdu2,https://iptv-pro.github.io/logo/chengdu2.png
+china,https://iptv-pro.github.io/logo/china.png
 cinemax,https://iptv-pro.github.io/logo/cinemax.png
 cjdsj,https://iptv-pro.github.io/logo/cjdsj.png
 cjdy,https://iptv-pro.github.io/logo/cjdy.png
@@ -738,6 +767,12 @@ hxjc,https://iptv-pro.github.io/logo/hxjc.png
 hxtv,https://iptv-pro.github.io/logo/hxtv.png
 hyxw,https://iptv-pro.github.io/logo/hyxw.png
 i-CABLE Live News Channel,https://iptv-pro.github.io/logo/i-CABLE%20Live%20News%20Channel.png
+iCABLEChannel18,https://iptv-pro.github.io/logo/iCABLEChannel18.png
+iCABLEFamilyEntertainmentChannelHD,https://iptv-pro.github.io/logo/iCABLEFamilyEntertainmentChannelHD.png
+iCABLEFinanceInfoChannelHD,https://iptv-pro.github.io/logo/iCABLEFinanceInfoChannelHD.png
+iCABLELiveNewsChannel,https://iptv-pro.github.io/logo/iCABLELiveNewsChannel.png
+iCABLENewsChannelHD,https://iptv-pro.github.io/logo/iCABLENewsChannelHD.png
+iCABLESportsPlus,https://iptv-pro.github.io/logo/iCABLESportsPlus.png
 iHOT,https://iptv-pro.github.io/logo/iHOT.jpg
 ibsports,https://iptv-pro.github.io/logo/ibsports.png
 ics,https://iptv-pro.github.io/logo/ics.png
@@ -928,7 +963,10 @@ nhk2,https://iptv-pro.github.io/logo/nhk2.png
 nhkp,https://iptv-pro.github.io/logo/nhkp.png
 nick,https://iptv-pro.github.io/logo/nick.png
 nmgtv,https://iptv-pro.github.io/logo/nmgtv.png
+nowdirect,https://iptv-pro.github.io/logo/nowdirect.png
 nownew,https://iptv-pro.github.io/logo/nownew.png
+nownews,https://iptv-pro.github.io/logo/nownews.png
+nowsportsprime,https://iptv-pro.github.io/logo/nowsportsprime.png
 nxss,https://iptv-pro.github.io/logo/nxss.png
 nxtv,https://iptv-pro.github.io/logo/nxtv.png
 nyzf,https://iptv-pro.github.io/logo/nyzf.png
@@ -938,6 +976,7 @@ ocnmovie2,https://iptv-pro.github.io/logo/ocnmovie2.png
 ogn,https://iptv-pro.github.io/logo/ogn.png
 olive,https://iptv-pro.github.io/logo/olive.png
 olympic,https://iptv-pro.github.io/logo/other/olympic.png
+oncc,https://iptv-pro.github.io/logo/oncc.png
 al-jazeera,https://iptv-pro.github.io/logo/other/al-jazeera.png
 皇马足球台,https://iptv-pro.github.io/logo/other/%E7%9A%87%E9%A9%AC%E8%B6%B3%E7%90%83%E5%8F%B0.png
 美国俄勒冈州立大学,https://iptv-pro.github.io/logo/other/%E7%BE%8E%E5%9B%BD%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6.png
@@ -993,6 +1032,7 @@ sdtv6,https://iptv-pro.github.io/logo/sdtv6.png
 sdtv7,https://iptv-pro.github.io/logo/sdtv7.png
 sdtv8,https://iptv-pro.github.io/logo/sdtv8.png
 sdtv9,https://iptv-pro.github.io/logo/sdtv9.png
+setlivenews,https://iptv-pro.github.io/logo/setlivenews.png
 sexhot,https://iptv-pro.github.io/logo/sexhot.png
 sexp,https://iptv-pro.github.io/logo/sexp.png
 asantham,https://iptv-pro.github.io/logo/sg/asantham.png
