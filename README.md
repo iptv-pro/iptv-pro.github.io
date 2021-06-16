@@ -1670,7 +1670,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E9%A2%91%E9%81%93HD.png" width="100" height="50">|金色频道HD|https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E9%A2%91%E9%81%93HD.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" width="100" height="50">|金鹰卡通|https://iptv-pro.github.io/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" width="100" height="50">|金鹰纪实|https://iptv-pro.github.io/logo/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png|
-|<img src="https://iptv-pro.github.io/logo/%E9%92%B1%E6%B1%9F%E7%94%B5%E8%A7%86.png" width="100" height="50">|钱江电视|https://iptv-pro.github.io/logo/%E9%92%B1%E6%B1%9F%E7%94%B5%E8%A7%86.png|
+|<img src="https://iptv-pro.github.io/logo/%E9%92%B1%E6%B1%9F%E9%83%BD%E5%B8%82.png" width="100" height="50">|钱江都市|https://iptv-pro.github.io/logo/%E9%92%B1%E6%B1%9F%E9%83%BD%E5%B8%82.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%99%95%E8%A5%BFlogo.png" width="100" height="50">|陕西logo|https://iptv-pro.github.io/logo/%E9%99%95%E8%A5%BFlogo.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%99%B6%E7%93%B7%E9%A2%91%E9%81%93.png" width="100" height="50">|陶瓷频道|https://iptv-pro.github.io/logo/%E9%99%B6%E7%93%B7%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%99%B6%E7%93%B7%E9%A2%91%E9%81%93HD.png" width="100" height="50">|陶瓷频道HD|https://iptv-pro.github.io/logo/%E9%99%B6%E7%93%B7%E9%A2%91%E9%81%93HD.png|
