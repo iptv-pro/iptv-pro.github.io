@@ -1506,6 +1506,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%9B%BD%E9%99%85.png" width="100" height="50">|安徽国际|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%9B%BD%E9%99%85.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86.webp" width="100" height="50">|安徽影视|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86.webp|
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%A7%91%E6%95%99.png" width="100" height="50">|安徽科教|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%A7%91%E6%95%99.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%A7%BB%E5%8A%A8.webp" width="100" height="50">|安徽移动|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%A7%BB%E5%8A%A8.webp|
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E.png" width="100" height="50">|安徽经济|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%BB%BC%E8%89%BA.webp" width="100" height="50">|安徽综艺|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%BB%BC%E8%89%BA.webp|
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|客家电视台|https://iptv-pro.github.io/logo/%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0.png|
