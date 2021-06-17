@@ -333,6 +333,7 @@ NewTV精彩搏击,https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%BD%A9%E6%90%
 NewTV超级体育,https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png
 NewTV超级电影,https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png
 NewTV超级电视,https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86.png
+NewTV超级电视剧,https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png
 NewTV超级综艺,https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png
 NewTV金牌综艺,https://iptv-pro.github.io/logo/NewTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png
 NewTV魅力潇湘,https://iptv-pro.github.io/logo/NewTV%E9%AD%85%E5%8A%9B%E6%BD%87%E6%B9%98.png
@@ -509,7 +510,6 @@ chengdu1,https://iptv-pro.github.io/logo/chengdu1.png
 chengdu2,https://iptv-pro.github.io/logo/chengdu2.png
 china,https://iptv-pro.github.io/logo/china.png
 cinemax,https://iptv-pro.github.io/logo/cinemax.png
-cjdsj,https://iptv-pro.github.io/logo/cjdsj.png
 cjdy,https://iptv-pro.github.io/logo/cjdy.png
 cjty,https://iptv-pro.github.io/logo/cjty.png
 cjzy,https://iptv-pro.github.io/logo/cjzy.png

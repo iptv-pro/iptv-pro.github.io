@@ -348,6 +348,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png" width="100" height="50">|NewTV超级体育|https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png" width="100" height="50">|NewTV超级电影|https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86.png" width="100" height="50">|NewTV超级电视|https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86.png|
+|<img src="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png" width="100" height="50">|NewTV超级电视剧|https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png" width="100" height="50">|NewTV超级综艺|https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png" width="100" height="50">|NewTV金牌综艺|https://iptv-pro.github.io/logo/NewTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E9%AD%85%E5%8A%9B%E6%BD%87%E6%B9%98.png" width="100" height="50">|NewTV魅力潇湘|https://iptv-pro.github.io/logo/NewTV%E9%AD%85%E5%8A%9B%E6%BD%87%E6%B9%98.png|
@@ -524,7 +525,6 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/chengdu2.png" width="100" height="50">|chengdu2|https://iptv-pro.github.io/logo/chengdu2.png|
 |<img src="https://iptv-pro.github.io/logo/china.png" width="100" height="50">|china|https://iptv-pro.github.io/logo/china.png|
 |<img src="https://iptv-pro.github.io/logo/cinemax.png" width="100" height="50">|cinemax|https://iptv-pro.github.io/logo/cinemax.png|
-|<img src="https://iptv-pro.github.io/logo/cjdsj.png" width="100" height="50">|cjdsj|https://iptv-pro.github.io/logo/cjdsj.png|
 |<img src="https://iptv-pro.github.io/logo/cjdy.png" width="100" height="50">|cjdy|https://iptv-pro.github.io/logo/cjdy.png|
 |<img src="https://iptv-pro.github.io/logo/cjty.png" width="100" height="50">|cjty|https://iptv-pro.github.io/logo/cjty.png|
 |<img src="https://iptv-pro.github.io/logo/cjzy.png" width="100" height="50">|cjzy|https://iptv-pro.github.io/logo/cjzy.png|
