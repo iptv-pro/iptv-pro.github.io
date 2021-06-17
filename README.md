@@ -1503,7 +1503,12 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0.png" width="100" height="50">|好消息2台|https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1.png" width="100" height="50">|好莱坞电影|https://iptv-pro.github.io/logo/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E4%BA%BA%E7%89%A9.png" width="100" height="50">|安徽人物|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E4%BA%BA%E7%89%A9.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1.webp" width="100" height="50">|安徽公共.webp|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1.webp|
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%9B%BD%E9%99%85.png" width="100" height="50">|安徽国际|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%9B%BD%E9%99%85.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86.webp" width="100" height="50">|安徽影视.webp|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86.webp|
+|<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%A7%91%E6%95%99.png" width="100" height="50">|安徽科教|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%A7%91%E6%95%99.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E.png" width="100" height="50">|安徽经济|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%BB%BC%E8%89%BA.webp" width="100" height="50">|安徽综艺.webp|https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E7%BB%BC%E8%89%BA.webp|
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|客家电视台|https://iptv-pro.github.io/logo/%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png" width="100" height="50">|家有购物|https://iptv-pro.github.io/logo/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.png" width="100" height="50">|寰宇新闻台|https://iptv-pro.github.io/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0.png|
