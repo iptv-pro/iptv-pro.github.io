@@ -125,7 +125,7 @@ rtsp://124.75.34.37/PLTV/88888888/224/3221226351/1000010000000006000000000254404
 rtsp://124.75.34.37/PLTV/88888888/224/3221226090/00000100000000060000000000007689_0.smil
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
 rtsp://124.75.34.37/PLTV/88888888/224/3221226183/00000100000000060000000000087278_2.smil
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卡通",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://iptv-pro.github.io/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="卡通",金鹰卡通
 rtsp://124.75.34.37/PLTV/88888888/224/3221226229/10000100000000060000000000734085_0.smil
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道 FHD
 rtsp://124.75.34.37/PLTV/88888888/224/3221226219/10000100000000060000000000522063_0.smil

@@ -183,7 +183,7 @@ http://192.168.190.1:4022/udp/239.45.3.242:5140
 http://192.168.190.1:4022/udp/239.45.1.251:5140
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卡通",卡酷动画 FHD
 http://192.168.190.1:4022/udp/239.45.0.8:5140
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卡通",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://iptv-pro.github.io/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="卡通",金鹰卡通
 http://192.168.190.1:4022/udp/239.45.3.118:5140
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卡通",嘉佳卡通
 http://192.168.190.1:4022/udp/239.45.1.48:5140
@@ -221,9 +221,9 @@ http://192.168.190.1:4022/udp/239.45.3.136:5140
 http://192.168.190.1:4022/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="上海",法国时尚台 FHD
 http://192.168.190.1:4022/udp/239.45.3.22:5140
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="上海",中数茶频道 FHD
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://iptv-pro.github.io/logo/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="上海",中数茶频道 FHD
 http://192.168.190.1:4022/udp/239.45.3.18:5140
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="上海",中数快乐垂钓 FHD
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://iptv-pro.github.io/logo/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="上海",中数快乐垂钓 FHD
 http://192.168.190.1:4022/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场 " tvg-logo="https://iptv-pro.github.io/logo/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="上海",动漫秀场  FHD
 http://192.168.190.1:4022/udp/239.45.3.134:5140
