@@ -197,7 +197,7 @@ http://192.168.190.1:4022/udp/239.45.1.51:5140
 http://192.168.190.1:4022/udp/239.45.1.52:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="教育台",教育4台
 http://192.168.190.1:4022/udp/239.45.1.50:5140
-#EXTINF:-1 tvg-id="" tvg-name="法治天地 " tvg-logo="https://iptv-pro.github.io/logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="上海",法治天地  FHD
+#EXTINF:-1 tvg-id="" tvg-name="法治天地 " tvg-logo="https://iptv-pro.github.io/logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.jpg" group-title="上海",法治天地  FHD
 http://192.168.190.1:4022/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道 FHD
 http://192.168.190.1:4022/udp/239.45.3.236:5140
@@ -269,7 +269,7 @@ http://192.168.190.1:4022/udp/239.45.3.249:5140
 http://192.168.190.1:4022/udp/239.45.3.252:5140
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
 http://192.168.190.1:4022/udp/239.45.1.112:5140
-#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://iptv-pro.github.io/logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="上海",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://iptv-pro.github.io/logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.jpg" group-title="上海",法治天地
 http://192.168.190.1:4022/udp/239.45.1.192:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.190.1:4022/udp/239.45.3.64:5140

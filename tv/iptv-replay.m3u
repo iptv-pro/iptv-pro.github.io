@@ -169,7 +169,7 @@ rtsp://124.75.34.37/PLTV/88888888/224/3221226097/0000010000000006000000000000769
 rtsp://124.75.34.37/PLTV/88888888/224/3221226088/00000100000000060000000000007667_0.smil
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
 rtsp://124.75.34.37/PLTV/88888888/224/3221226347/10000100000000060000000002544035_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://iptv-pro.github.io/logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="上海",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://iptv-pro.github.io/logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.jpg" group-title="上海",法治天地
 rtsp://124.75.34.37/PLTV/88888888/224/3221226162/00000100000000060000000000087194_0.smil
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 rtsp://124.75.34.37/PLTV/88888888/224/0/3221225478/00000000010t.smil
