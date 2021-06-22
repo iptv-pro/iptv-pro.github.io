@@ -112,14 +112,14 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/CCTV2%E8%B4%A2%E7%BB%8F.png" width="100" height="50">|CCTV2财经|https://iptv-pro.github.io/logo/CCTV2%E8%B4%A2%E7%BB%8F.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV3.png" width="100" height="50">|CCTV3|https://iptv-pro.github.io/logo/CCTV3.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV3%E7%BB%BC%E8%89%BA.png" width="100" height="50">|CCTV3综艺|https://iptv-pro.github.io/logo/CCTV3%E7%BB%BC%E8%89%BA.png|
-|<img src="https://iptv-pro.github.io/logo/CCTV4-%E6%AC%A7%E6%B4%B2.png" width="100" height="50">|CCTV4-欧洲|https://iptv-pro.github.io/logo/CCTV4-%E6%AC%A7%E6%B4%B2.png|
-|<img src="https://iptv-pro.github.io/logo/CCTV4-%E7%BE%8E%E6%B4%B2.png" width="100" height="50">|CCTV4-美洲|https://iptv-pro.github.io/logo/CCTV4-%E7%BE%8E%E6%B4%B2.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV4.png" width="100" height="50">|CCTV4|https://iptv-pro.github.io/logo/CCTV4.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV4America.jpg" width="100" height="50">|CCTV4America|https://iptv-pro.github.io/logo/CCTV4America.jpg|
 |<img src="https://iptv-pro.github.io/logo/CCTV4Europe.jpg" width="100" height="50">|CCTV4Europe|https://iptv-pro.github.io/logo/CCTV4Europe.jpg|
 |<img src="https://iptv-pro.github.io/logo/CCTV4K-%281%29.png" width="100" height="50">|CCTV4K-(1)|https://iptv-pro.github.io/logo/CCTV4K-%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV4k.png" width="100" height="50">|CCTV4k|https://iptv-pro.github.io/logo/CCTV4k.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png" width="100" height="50">|CCTV4中文国际|https://iptv-pro.github.io/logo/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png|
+|<img src="https://iptv-pro.github.io/logo/CCTV4%E6%AC%A7%E6%B4%B2.png" width="100" height="50">|CCTV4欧洲|https://iptv-pro.github.io/logo/CCTV4%E6%AC%A7%E6%B4%B2.png|
+|<img src="https://iptv-pro.github.io/logo/CCTV4%E7%BE%8E%E6%B4%B2.png" width="100" height="50">|CCTV4美洲|https://iptv-pro.github.io/logo/CCTV4%E7%BE%8E%E6%B4%B2.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV5%2B.png" width="100" height="50">|CCTV5+|https://iptv-pro.github.io/logo/CCTV5%2B.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV5.png" width="100" height="50">|CCTV5|https://iptv-pro.github.io/logo/CCTV5.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV5%E4%BD%93%E8%82%B2.png" width="100" height="50">|CCTV5体育|https://iptv-pro.github.io/logo/CCTV5%E4%BD%93%E8%82%B2.png|

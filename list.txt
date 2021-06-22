@@ -97,14 +97,14 @@ CCTV2,https://iptv-pro.github.io/logo/CCTV2.png
 CCTV2财经,https://iptv-pro.github.io/logo/CCTV2%E8%B4%A2%E7%BB%8F.png
 CCTV3,https://iptv-pro.github.io/logo/CCTV3.png
 CCTV3综艺,https://iptv-pro.github.io/logo/CCTV3%E7%BB%BC%E8%89%BA.png
-CCTV4-欧洲,https://iptv-pro.github.io/logo/CCTV4-%E6%AC%A7%E6%B4%B2.png
-CCTV4-美洲,https://iptv-pro.github.io/logo/CCTV4-%E7%BE%8E%E6%B4%B2.png
 CCTV4,https://iptv-pro.github.io/logo/CCTV4.png
 CCTV4America,https://iptv-pro.github.io/logo/CCTV4America.jpg
 CCTV4Europe,https://iptv-pro.github.io/logo/CCTV4Europe.jpg
 CCTV4K-(1),https://iptv-pro.github.io/logo/CCTV4K-%281%29.png
 CCTV4k,https://iptv-pro.github.io/logo/CCTV4k.png
 CCTV4中文国际,https://iptv-pro.github.io/logo/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png
+CCTV4欧洲,https://iptv-pro.github.io/logo/CCTV4%E6%AC%A7%E6%B4%B2.png
+CCTV4美洲,https://iptv-pro.github.io/logo/CCTV4%E7%BE%8E%E6%B4%B2.png
 CCTV5+,https://iptv-pro.github.io/logo/CCTV5%2B.png
 CCTV5,https://iptv-pro.github.io/logo/CCTV5.png
 CCTV5体育,https://iptv-pro.github.io/logo/CCTV5%E4%BD%93%E8%82%B2.png
