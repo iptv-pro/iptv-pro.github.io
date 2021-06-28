@@ -1675,6 +1675,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" width="100" height="50">|湖南国际|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png" width="100" height="50">|湖南娱乐|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%AF%BC%E8%A7%86.png" width="100" height="50">|湖南导视|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%AF%BC%E8%A7%86.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%8F%B0.png" width="100" height="50">|湖南教育台|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png" width="100" height="50">|湖南电影|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" width="100" height="50">|湖南电视剧|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" width="100" height="50">|湖南都市|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png|
