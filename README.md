@@ -246,6 +246,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/FoxSports2.png" width="100" height="50">|FoxSports2|https://iptv-pro.github.io/logo/FoxSports2.png|
 |<img src="https://iptv-pro.github.io/logo/FoxSports3.png" width="100" height="50">|FoxSports3|https://iptv-pro.github.io/logo/FoxSports3.png|
 |<img src="https://iptv-pro.github.io/logo/GEM.png" width="100" height="50">|GEM|https://iptv-pro.github.io/logo/GEM.png|
+|<img src="https://iptv-pro.github.io/logo/GTV%E6%B8%B8%E6%88%8F%E7%AB%9E%E6%8A%80.png" width="100" height="50">|GTV游戏竞技|https://iptv-pro.github.io/logo/GTV%E6%B8%B8%E6%88%8F%E7%AB%9E%E6%8A%80.png|
 |<img src="https://iptv-pro.github.io/logo/Gaaya.png" width="100" height="50">|Gaaya|https://iptv-pro.github.io/logo/Gaaya.png|
 |<img src="https://iptv-pro.github.io/logo/GoShop.png" width="100" height="50">|GoShop|https://iptv-pro.github.io/logo/GoShop.png|
 |<img src="https://iptv-pro.github.io/logo/HBO.png" width="100" height="50">|HBO|https://iptv-pro.github.io/logo/HBO.png|
@@ -1582,6 +1583,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%96%B0%E7%96%86%E7%BB%BC%E8%89%BA.png" width="100" height="50">|新疆综艺|https://iptv-pro.github.io/logo/%E6%96%B0%E7%96%86%E7%BB%BC%E8%89%BA.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%96%B0%E8%A7%86%E8%A7%89.png" width="100" height="50">|新视觉|https://iptv-pro.github.io/logo/%E6%96%B0%E8%A7%86%E8%A7%89.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png" width="100" height="50">|早期教育|https://iptv-pro.github.io/logo/%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%97%B6%E4%BB%A3%E5%87%BA%E8%A1%8C.png" width="100" height="50">|时代出行|https://iptv-pro.github.io/logo/%E6%97%B6%E4%BB%A3%E5%87%BA%E8%A1%8C.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%97%B6%E4%BB%A3%E7%BE%8E%E9%A3%9F.png" width="100" height="50">|时代美食|https://iptv-pro.github.io/logo/%E6%97%B6%E4%BB%A3%E7%BE%8E%E9%A3%9F.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%97%B6%E5%B0%9A%E8%BF%90%E5%8A%A8X.png" width="100" height="50">|时尚运动X|https://iptv-pro.github.io/logo/%E6%97%B6%E5%B0%9A%E8%BF%90%E5%8A%A8X.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" width="100" height="50">|明珠台|https://iptv-pro.github.io/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0.png|
@@ -1666,13 +1668,13 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93.png" width="100" height="50">|深圳电视剧频道|https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3%E8%B4%A2%E7%BB%8F%E9%A2%91%E9%81%93.png" width="100" height="50">|深圳财经频道|https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3%E8%B4%A2%E7%BB%8F%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png" width="100" height="50">|深圳都市频道|https://iptv-pro.github.io/logo/%E6%B7%B1%E5%9C%B3%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png|
-|<img src="https://iptv-pro.github.io/logo/%E6%B8%B8%E6%88%8F%E7%AB%9E%E6%8A%80.png" width="100" height="50">|游戏竞技|https://iptv-pro.github.io/logo/%E6%B8%B8%E6%88%8F%E7%AB%9E%E6%8A%80.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" width="100" height="50">|游戏风云|https://iptv-pro.github.io/logo/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E5%85%AC%E5%85%B1.png" width="100" height="50">|湖北公共|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E5%85%AC%E5%85%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E7%BB%8F%E8%A7%86.png" width="100" height="50">|湖北经视|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E7%BB%8F%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%85%AC%E5%85%B1.png" width="100" height="50">|湖南公共|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%85%AC%E5%85%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" width="100" height="50">|湖南国际|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png|
-|<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1%281%29.png" width="100" height="50">|湖南电影(1)|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1%281%29.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png" width="100" height="50">|湖南娱乐|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%AF%BC%E8%A7%86.png" width="100" height="50">|湖南导视|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E5%AF%BC%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png" width="100" height="50">|湖南电影|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" width="100" height="50">|湖南电视剧|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" width="100" height="50">|湖南都市|https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png|
