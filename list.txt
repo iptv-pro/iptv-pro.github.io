@@ -453,6 +453,7 @@ Now财经台,https://iptv-pro.github.io/logo/Now%E8%B4%A2%E7%BB%8F%E5%8F%B0.png
 ONE,https://iptv-pro.github.io/logo/ONE.png
 Oasis,https://iptv-pro.github.io/logo/Oasis.png
 Okey,https://iptv-pro.github.io/logo/Okey.png
+Olympic Channel TV,https://iptv-pro.github.io/logo/Olympic%20Channel%20TV.png
 One,https://iptv-pro.github.io/logo/One.png
 Parlimen,https://iptv-pro.github.io/logo/Parlimen.png
 Pertiwi,https://iptv-pro.github.io/logo/Pertiwi.png

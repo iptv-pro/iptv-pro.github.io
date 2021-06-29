@@ -468,6 +468,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/ONE.png" width="100" height="50">|ONE|https://iptv-pro.github.io/logo/ONE.png|
 |<img src="https://iptv-pro.github.io/logo/Oasis.png" width="100" height="50">|Oasis|https://iptv-pro.github.io/logo/Oasis.png|
 |<img src="https://iptv-pro.github.io/logo/Okey.png" width="100" height="50">|Okey|https://iptv-pro.github.io/logo/Okey.png|
+|<img src="https://iptv-pro.github.io/logo/Olympic%20Channel%20TV.png" width="100" height="50">|Olympic Channel TV|https://iptv-pro.github.io/logo/Olympic%20Channel%20TV.png|
 |<img src="https://iptv-pro.github.io/logo/One.png" width="100" height="50">|One|https://iptv-pro.github.io/logo/One.png|
 |<img src="https://iptv-pro.github.io/logo/Parlimen.png" width="100" height="50">|Parlimen|https://iptv-pro.github.io/logo/Parlimen.png|
 |<img src="https://iptv-pro.github.io/logo/Pertiwi.png" width="100" height="50">|Pertiwi|https://iptv-pro.github.io/logo/Pertiwi.png|
