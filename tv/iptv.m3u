@@ -219,7 +219,7 @@ http://192.168.190.1:4022/udp/239.45.1.55:5140
 http://192.168.190.1:4022/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场 FHD
 http://192.168.190.1:4022/udp/239.45.3.196:5140
-#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="上海",法国时尚台 FHD
+#EXTINF:-1 tvg-id="701" tvg-name="FTV足球频道" tvg-logo="https://iptv-pro.github.io/logo/FTV%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93.webp" group-title="上海",FTV足球频道 FHD
 http://192.168.190.1:4022/udp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://iptv-pro.github.io/logo/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="上海",中数茶频道 FHD
 http://192.168.190.1:4022/udp/239.45.3.18:5140
