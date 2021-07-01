@@ -1618,6 +1618,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%92%AA%E5%92%95%E4%BD%93%E8%82%B2.png" width="100" height="50">|咪咕体育|https://iptv-pro.github.io/logo/%E5%92%AA%E5%92%95%E4%BD%93%E8%82%B2.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png" width="100" height="50">|哈哈炫动|https://iptv-pro.github.io/logo/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" width="100" height="50">|嘉佳卡通|https://iptv-pro.github.io/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%98%89%E5%AE%9A%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|嘉定电视台|https://iptv-pro.github.io/logo/%E5%98%89%E5%AE%9A%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%85%AC%E5%85%B1%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png" width="100" height="50">|四川公共乡村频道|https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%85%AC%E5%85%B1%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%9B%BD%E9%99%85.png" width="100" height="50">|四川国际|https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%9B%BD%E9%99%85.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93.png" width="100" height="50">|四川妇女儿童频道|https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93.png|
@@ -1705,6 +1706,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%B1%B1%E4%B8%9C%E9%BD%90%E9%B2%81.png" width="100" height="50">|山东齐鲁|https://iptv-pro.github.io/logo/%E5%B1%B1%E4%B8%9C%E9%BD%90%E9%B2%81.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1-%E7%BA%A2%E6%A0%87.png" width="100" height="50">|峨眉电影-红标|https://iptv-pro.github.io/logo/%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1-%E7%BA%A2%E6%A0%87.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1.png" width="100" height="50">|峨眉电影|https://iptv-pro.github.io/logo/%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%B4%87%E6%98%8E%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|崇明电视台|https://iptv-pro.github.io/logo/%E5%B4%87%E6%98%8E%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B8%8C%E6%9C%9B%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|希望电视台|https://iptv-pro.github.io/logo/%E5%B8%8C%E6%9C%9B%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B9%B8%E7%A6%8F%E5%BD%A9.png" width="100" height="50">|幸福彩|https://iptv-pro.github.io/logo/%E5%B9%B8%E7%A6%8F%E5%BD%A9.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%97%B4%E5%B1%85%E5%AE%B6%E5%8F%B0.png" width="100" height="50">|幸福空间居家台|https://iptv-pro.github.io/logo/%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%97%B4%E5%B1%85%E5%AE%B6%E5%8F%B0.png|
@@ -1784,6 +1786,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%9F%E6%B4%BB.png" width="100" height="50">|杭州生活|https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%9F%E6%B4%BB.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%B5%E8%A7%86%E5%8F%B0%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png" width="100" height="50">|杭州电视台生活频道|https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%B5%E8%A7%86%E5%8F%B0%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%98%8E%E7%8F%A0%E9%A2%91%E9%81%93.png" width="100" height="50">|杭州西湖明珠频道|https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%98%8E%E7%8F%A0%E9%A2%91%E9%81%93.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%9D%BE%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|松江电视台|https://iptv-pro.github.io/logo/%E6%9D%BE%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png" width="100" height="50">|梨园频道|https://iptv-pro.github.io/logo/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%A6%95%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|榕江电视台|https://iptv-pro.github.io/logo/%E6%A6%95%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" width="100" height="50">|欢笑剧场|https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png|
