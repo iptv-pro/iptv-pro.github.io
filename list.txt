@@ -1603,7 +1603,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 哈哈炫动,https://iptv-pro.github.io/logo/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png
 嘉佳卡通,https://iptv-pro.github.io/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png
 嘉定电视台,https://iptv-pro.github.io/logo/%E5%98%89%E5%AE%9A%E7%94%B5%E8%A7%86%E5%8F%B0.png
-四川公共乡村频道,https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%85%AC%E5%85%B1%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png
+四川乡村频道,https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png
 四川国际,https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%9B%BD%E9%99%85.png
 四川妇女儿童频道,https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93.png
 四川峨眉电影,https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1.png
