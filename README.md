@@ -1439,13 +1439,10 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/zjdy.png" width="100" height="50">|zjdy|https://iptv-pro.github.io/logo/zjdy.png|
 |<img src="https://iptv-pro.github.io/logo/zjgg.png" width="100" height="50">|zjgg|https://iptv-pro.github.io/logo/zjgg.png|
 |<img src="https://iptv-pro.github.io/logo/zjgj.png" width="100" height="50">|zjgj|https://iptv-pro.github.io/logo/zjgj.png|
-|<img src="https://iptv-pro.github.io/logo/zjjj.png" width="100" height="50">|zjjj|https://iptv-pro.github.io/logo/zjjj.png|
-|<img src="https://iptv-pro.github.io/logo/zjjtv1.png" width="100" height="50">|zjjtv1|https://iptv-pro.github.io/logo/zjjtv1.png|
 |<img src="https://iptv-pro.github.io/logo/zjjy.png" width="100" height="50">|zjjy|https://iptv-pro.github.io/logo/zjjy.png|
 |<img src="https://iptv-pro.github.io/logo/zjlx.png" width="100" height="50">|zjlx|https://iptv-pro.github.io/logo/zjlx.png|
 |<img src="https://iptv-pro.github.io/logo/zjms.png" width="100" height="50">|zjms|https://iptv-pro.github.io/logo/zjms.png|
 |<img src="https://iptv-pro.github.io/logo/zjqj.png" width="100" height="50">|zjqj|https://iptv-pro.github.io/logo/zjqj.png|
-|<img src="https://iptv-pro.github.io/logo/zjse.png" width="100" height="50">|zjse|https://iptv-pro.github.io/logo/zjse.png|
 |<img src="https://iptv-pro.github.io/logo/zjsm.png" width="100" height="50">|zjsm|https://iptv-pro.github.io/logo/zjsm.png|
 |<img src="https://iptv-pro.github.io/logo/zjtv.png" width="100" height="50">|zjtv|https://iptv-pro.github.io/logo/zjtv.png|
 |<img src="https://iptv-pro.github.io/logo/zjyd.png" width="100" height="50">|zjyd|https://iptv-pro.github.io/logo/zjyd.png|
@@ -1735,6 +1732,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88.png" width="100" height="50">|广州综合|https://iptv-pro.github.io/logo/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png" width="100" height="50">|康巴卫视|https://iptv-pro.github.io/logo/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" width="100" height="50">|延边卫视|https://iptv-pro.github.io/logo/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%96%B0%E9%97%BB.png" width="100" height="50">|张家界新闻|https://iptv-pro.github.io/logo/%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%96%B0%E9%97%BB.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%BD%A9%E8%99%B9%E7%94%B5%E5%BD%B1.png" width="100" height="50">|彩虹电影|https://iptv-pro.github.io/logo/%E5%BD%A9%E8%99%B9%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%BD%B1%E8%BF%B7%E6%95%B0%E4%BD%8D%E7%94%B5%E5%BD%B1%E5%8F%B0.png" width="100" height="50">|影迷数位电影台|https://iptv-pro.github.io/logo/%E5%BD%B1%E8%BF%B7%E6%95%B0%E4%BD%8D%E7%94%B5%E5%BD%B1%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%BD%B1%E8%BF%B7%E6%95%B0%E4%BD%8D%E7%BA%AA%E5%AE%9E%E5%8F%B0.png" width="100" height="50">|影迷数位纪实台|https://iptv-pro.github.io/logo/%E5%BD%B1%E8%BF%B7%E6%95%B0%E4%BD%8D%E7%BA%AA%E5%AE%9E%E5%8F%B0.png|
@@ -1826,10 +1824,12 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%B3%B0%E5%9B%BD7%E5%8F%B0HD.png" width="100" height="50">|泰国7台HD|https://iptv-pro.github.io/logo/%E6%B3%B0%E5%9B%BD7%E5%8F%B0HD.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%8E%E5%8D%97%E5%BD%B1%E8%A7%86.png" width="100" height="50">|济南影视|https://iptv-pro.github.io/logo/%E6%B5%8E%E5%8D%97%E5%BD%B1%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%8E%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" width="100" height="50">|济南新闻综合|https://iptv-pro.github.io/logo/%E6%B5%8E%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png|
-|<img src="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%85%AC%E5%85%B1.png" width="100" height="50">|浙江公共|https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%85%AC%E5%85%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png" width="100" height="50">|浙江国际|https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%9B%BD%E9%99%85.png|
-|<img src="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png" width="100" height="50">|浙江影视|https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%BD%B1%E8%A7%86.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png" width="100" height="50">|浙江少儿|https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E6%95%99%E7%A7%91.png" width="100" height="50">|浙江教科|https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E6%95%99%E7%A7%91.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E6%95%B0%E7%A0%81.png" width="100" height="50">|浙江数码|https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E6%95%B0%E7%A0%81.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png" width="100" height="50">|浙江新闻|https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E6%96%B0%E9%97%BB.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E.png" width="100" height="50">|浙江经济|https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1.png" width="100" height="50">|海南公共|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86png.png" width="100" height="50">|海南卫视png|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86png.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF.png" width="100" height="50">|海南少儿|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF.png|
