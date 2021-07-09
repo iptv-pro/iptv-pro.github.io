@@ -17,6 +17,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/4K%E8%8A%B1%E5%9B%AD.jpg" width="100" height="50">|4K花园|https://iptv-pro.github.io/logo/4K%E8%8A%B1%E5%9B%AD.jpg|
 |<img src="https://iptv-pro.github.io/logo/8TV.png" width="100" height="50">|8TV|https://iptv-pro.github.io/logo/8TV.png|
 |<img src="https://iptv-pro.github.io/logo/ABC%20Australia.png" width="100" height="50">|ABC Australia|https://iptv-pro.github.io/logo/ABC%20Australia.png|
+|<img src="https://iptv-pro.github.io/logo/ABC%20News.jpg" width="100" height="50">|ABC News|https://iptv-pro.github.io/logo/ABC%20News.jpg|
 |<img src="https://iptv-pro.github.io/logo/AEC.png" width="100" height="50">|AEC|https://iptv-pro.github.io/logo/AEC.png|
 |<img src="https://iptv-pro.github.io/logo/AFN.png" width="100" height="50">|AFN|https://iptv-pro.github.io/logo/AFN.png|
 |<img src="https://iptv-pro.github.io/logo/AKC-%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png" width="100" height="50">|AKC-狗狗宠物|https://iptv-pro.github.io/logo/AKC-%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png|
@@ -412,6 +413,8 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/Medici-arts.png" width="100" height="50">|Medici-arts|https://iptv-pro.github.io/logo/Medici-arts.png|
 |<img src="https://iptv-pro.github.io/logo/Mezzo%20Live%20HD.png" width="100" height="50">|Mezzo Live HD|https://iptv-pro.github.io/logo/Mezzo%20Live%20HD.png|
 |<img src="https://iptv-pro.github.io/logo/My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AC%A7%E6%B4%B2%E7%94%B5%E5%BD%B1.png" width="100" height="50">|My Cinema Europe HD 我的欧洲电影|https://iptv-pro.github.io/logo/My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AC%A7%E6%B4%B2%E7%94%B5%E5%BD%B1.png|
+|<img src="https://iptv-pro.github.io/logo/NBC%20News.jpg" width="100" height="50">|NBC News|https://iptv-pro.github.io/logo/NBC%20News.jpg|
+|<img src="https://iptv-pro.github.io/logo/NBC2.png" width="100" height="50">|NBC2|https://iptv-pro.github.io/logo/NBC2.png|
 |<img src="https://iptv-pro.github.io/logo/NEWTV%E6%80%A1%E4%BC%B4%E5%81%A5%E5%BA%B7.png" width="100" height="50">|NEWTV怡伴健康|https://iptv-pro.github.io/logo/NEWTV%E6%80%A1%E4%BC%B4%E5%81%A5%E5%BA%B7.png|
 |<img src="https://iptv-pro.github.io/logo/NEWTV%E6%AD%A6%E6%90%8F%E4%B8%96%E7%95%8C.png" width="100" height="50">|NEWTV武搏世界|https://iptv-pro.github.io/logo/NEWTV%E6%AD%A6%E6%90%8F%E4%B8%96%E7%95%8C.png|
 |<img src="https://iptv-pro.github.io/logo/NHK%20WORLD%20PREMIUM.png" width="100" height="50">|NHK WORLD PREMIUM|https://iptv-pro.github.io/logo/NHK%20WORLD%20PREMIUM.png|
@@ -1380,7 +1383,6 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/uk/qvc-style.png" width="100" height="50">|qvc-style|https://iptv-pro.github.io/logo/uk/qvc-style.png|
 |<img src="https://iptv-pro.github.io/logo/uk/rt-uk.png" width="100" height="50">|rt-uk|https://iptv-pro.github.io/logo/uk/rt-uk.png|
 |<img src="https://iptv-pro.github.io/logo/uk/sky-news.png" width="100" height="50">|sky-news|https://iptv-pro.github.io/logo/uk/sky-news.png|
-|<img src="https://iptv-pro.github.io/logo/us/abc-news.png" width="100" height="50">|abc-news|https://iptv-pro.github.io/logo/us/abc-news.png|
 |<img src="https://iptv-pro.github.io/logo/us/arise-news.png" width="100" height="50">|arise-news|https://iptv-pro.github.io/logo/us/arise-news.png|
 |<img src="https://iptv-pro.github.io/logo/us/bloomberg.png" width="100" height="50">|bloomberg|https://iptv-pro.github.io/logo/us/bloomberg.png|
 |<img src="https://iptv-pro.github.io/logo/us/cbs-news.png" width="100" height="50">|cbs-news|https://iptv-pro.github.io/logo/us/cbs-news.png|
