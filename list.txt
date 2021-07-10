@@ -3,7 +3,7 @@
 8TV,https://iptv-pro.github.io/logo/8TV.png
 ABC Australia(1),https://iptv-pro.github.io/logo/ABC%20Australia%281%29.png
 ABC Australia,https://iptv-pro.github.io/logo/ABC%20Australia.png
-ABC News,https://iptv-pro.github.io/logo/ABC%20News.jpg
+ABC News,https://iptv-pro.github.io/logo/ABC%20News.png
 AEC,https://iptv-pro.github.io/logo/AEC.png
 AFN,https://iptv-pro.github.io/logo/AFN.png
 AKC-狗狗宠物,https://iptv-pro.github.io/logo/AKC-%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png
@@ -399,7 +399,7 @@ Mandarin,https://iptv-pro.github.io/logo/Mandarin.png
 Medici-arts,https://iptv-pro.github.io/logo/Medici-arts.png
 Mezzo Live HD,https://iptv-pro.github.io/logo/Mezzo%20Live%20HD.png
 My Cinema Europe HD 我的欧洲电影,https://iptv-pro.github.io/logo/My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AC%A7%E6%B4%B2%E7%94%B5%E5%BD%B1.png
-NBC News,https://iptv-pro.github.io/logo/NBC%20News.jpg
+NBC News,https://iptv-pro.github.io/logo/NBC%20News.png
 NBC2,https://iptv-pro.github.io/logo/NBC2.png
 NEWTV怡伴健康,https://iptv-pro.github.io/logo/NEWTV%E6%80%A1%E4%BC%B4%E5%81%A5%E5%BA%B7.png
 NEWTV武搏世界,https://iptv-pro.github.io/logo/NEWTV%E6%AD%A6%E6%90%8F%E4%B8%96%E7%95%8C.png
