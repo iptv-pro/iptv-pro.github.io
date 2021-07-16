@@ -171,7 +171,6 @@ CGTN纪录,https://iptv-pro.github.io/logo/CGTN%E7%BA%AA%E5%BD%95.png
 CGTN英语,https://iptv-pro.github.io/logo/CGTN%E8%8B%B1%E8%AF%AD.png
 CGTN西,https://iptv-pro.github.io/logo/CGTN%E8%A5%BF.png
 CGTN阿,https://iptv-pro.github.io/logo/CGTN%E9%98%BF.png
-CHANNELV中国,https://iptv-pro.github.io/logo/CHANNELV%E4%B8%AD%E5%9B%BD.png
 CHC动作电影,https://iptv-pro.github.io/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png
 CHC家庭影院,https://iptv-pro.github.io/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png
 CHC高清电影,https://iptv-pro.github.io/logo/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png
@@ -225,6 +224,7 @@ CatchPlay电影台,https://iptv-pro.github.io/logo/CatchPlay%E7%94%B5%E5%BD%B1%E
 Ceria,https://iptv-pro.github.io/logo/Ceria.png
 Channel NewsAsia频道,https://iptv-pro.github.io/logo/Channel%20NewsAsia%E9%A2%91%E9%81%93.png
 Channel V国际娱乐台HD,https://iptv-pro.github.io/logo/Channel%20V%E5%9B%BD%E9%99%85%E5%A8%B1%E4%B9%90%E5%8F%B0HD.png
+Channel [V] 中国,https://iptv-pro.github.io/logo/Channel%20%5BV%5D%20%E4%B8%AD%E5%9B%BD.png
 Channel [V] 国际,https://iptv-pro.github.io/logo/Channel%20%5BV%5D%20%E5%9B%BD%E9%99%85.png
 CinemaWorld,https://iptv-pro.github.io/logo/CinemaWorld.png
 Cinemax,https://iptv-pro.github.io/logo/Cinemax.png
