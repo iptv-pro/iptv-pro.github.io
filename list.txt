@@ -3,6 +3,7 @@
 8TV,https://iptv-pro.github.io/logo/8TV.png
 ABC Australia(1),https://iptv-pro.github.io/logo/ABC%20Australia%281%29.png
 ABC Australia,https://iptv-pro.github.io/logo/ABC%20Australia.png
+ABC News Live,https://iptv-pro.github.io/logo/ABC%20News%20Live.png
 ABC News,https://iptv-pro.github.io/logo/ABC%20News.png
 AEC,https://iptv-pro.github.io/logo/AEC.png
 AFN,https://iptv-pro.github.io/logo/AFN.png
@@ -805,6 +806,7 @@ foxsport1,https://iptv-pro.github.io/logo/foxsport1.png
 foxsport2,https://iptv-pro.github.io/logo/foxsport2.png
 foxsport3,https://iptv-pro.github.io/logo/foxsport3.png
 foxsportnew,https://iptv-pro.github.io/logo/foxsportnew.png
+france24,https://iptv-pro.github.io/logo/france24.png
 ftv,https://iptv-pro.github.io/logo/ftv.png
 fx,https://iptv-pro.github.io/logo/fx.png
 fxmovie,https://iptv-pro.github.io/logo/fxmovie.png

@@ -18,6 +18,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/8TV.png" width="100" height="50">|8TV|https://iptv-pro.github.io/logo/8TV.png|
 |<img src="https://iptv-pro.github.io/logo/ABC%20Australia%281%29.png" width="100" height="50">|ABC Australia(1)|https://iptv-pro.github.io/logo/ABC%20Australia%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/ABC%20Australia.png" width="100" height="50">|ABC Australia|https://iptv-pro.github.io/logo/ABC%20Australia.png|
+|<img src="https://iptv-pro.github.io/logo/ABC%20News%20Live.png" width="100" height="50">|ABC News Live|https://iptv-pro.github.io/logo/ABC%20News%20Live.png|
 |<img src="https://iptv-pro.github.io/logo/ABC%20News.png" width="100" height="50">|ABC News|https://iptv-pro.github.io/logo/ABC%20News.png|
 |<img src="https://iptv-pro.github.io/logo/AEC.png" width="100" height="50">|AEC|https://iptv-pro.github.io/logo/AEC.png|
 |<img src="https://iptv-pro.github.io/logo/AFN.png" width="100" height="50">|AFN|https://iptv-pro.github.io/logo/AFN.png|
@@ -820,6 +821,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/foxsport2.png" width="100" height="50">|foxsport2|https://iptv-pro.github.io/logo/foxsport2.png|
 |<img src="https://iptv-pro.github.io/logo/foxsport3.png" width="100" height="50">|foxsport3|https://iptv-pro.github.io/logo/foxsport3.png|
 |<img src="https://iptv-pro.github.io/logo/foxsportnew.png" width="100" height="50">|foxsportnew|https://iptv-pro.github.io/logo/foxsportnew.png|
+|<img src="https://iptv-pro.github.io/logo/france24.png" width="100" height="50">|france24|https://iptv-pro.github.io/logo/france24.png|
 |<img src="https://iptv-pro.github.io/logo/ftv.png" width="100" height="50">|ftv|https://iptv-pro.github.io/logo/ftv.png|
 |<img src="https://iptv-pro.github.io/logo/fx.png" width="100" height="50">|fx|https://iptv-pro.github.io/logo/fx.png|
 |<img src="https://iptv-pro.github.io/logo/fxmovie.png" width="100" height="50">|fxmovie|https://iptv-pro.github.io/logo/fxmovie.png|
