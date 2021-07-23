@@ -86,7 +86,7 @@ BOO,https://iptv-pro.github.io/logo/BOO.png
 BOOMERANG,https://iptv-pro.github.io/logo/BOOMERANG.png
 BSTV,https://iptv-pro.github.io/logo/BSTV.png
 Baby TV,https://iptv-pro.github.io/logo/Baby%20TV.png
-Berita_RTM,https://iptv-pro.github.io/logo/Berita_RTM.png
+Berita RTM,https://iptv-pro.github.io/logo/Berita%20RTM.png
 Bernama,https://iptv-pro.github.io/logo/Bernama.png
 BesTV,https://iptv-pro.github.io/logo/BesTV.png
 BesTV4K,https://iptv-pro.github.io/logo/BesTV4K.png
@@ -315,6 +315,7 @@ Disney Channel,https://iptv-pro.github.io/logo/Disney%20Channel.png
 Disney Junior,https://iptv-pro.github.io/logo/Disney%20Junior.png
 Disney,https://iptv-pro.github.io/logo/Disney.png
 DisneyJr,https://iptv-pro.github.io/logo/DisneyJr.png
+Drama Sangat,https://iptv-pro.github.io/logo/Drama%20Sangat.jpg
 DramaSangat,https://iptv-pro.github.io/logo/DramaSangat.png
 DreamWorks 频道,https://iptv-pro.github.io/logo/DreamWorks%20%E9%A2%91%E9%81%93.png
 DuniaSinema,https://iptv-pro.github.io/logo/DuniaSinema.png
@@ -672,6 +673,7 @@ TRACE Urban,https://iptv-pro.github.io/logo/TRACE%20Urban.png
 TRAXX FM,https://iptv-pro.github.io/logo/TRAXX%20FM.png
 TRT WORLD,https://iptv-pro.github.io/logo/TRT%20WORLD.png
 TV Okey,https://iptv-pro.github.io/logo/TV%20Okey.png
+TV Sukan,https://iptv-pro.github.io/logo/TV%20Sukan.png
 TV1,https://iptv-pro.github.io/logo/TV1.png
 TV2,https://iptv-pro.github.io/logo/TV2.png
 TV3,https://iptv-pro.github.io/logo/TV3.png
