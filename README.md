@@ -319,6 +319,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" width="100" height="50">|DW德国之声|https://iptv-pro.github.io/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png|
 |<img src="https://iptv-pro.github.io/logo/Da%20Vinci.png" width="100" height="50">|Da Vinci|https://iptv-pro.github.io/logo/Da%20Vinci.png|
 |<img src="https://iptv-pro.github.io/logo/DaVinCi%20Learning%E8%BE%BE%E8%8A%AC%E5%A5%87%E9%A2%91%E9%81%93.png" width="100" height="50">|DaVinCi Learning达芬奇频道|https://iptv-pro.github.io/logo/DaVinCi%20Learning%E8%BE%BE%E8%8A%AC%E5%A5%87%E9%A2%91%E9%81%93.png|
+|<img src="https://iptv-pro.github.io/logo/DidikTV%20KPM.png" width="100" height="50">|DidikTV KPM|https://iptv-pro.github.io/logo/DidikTV%20KPM.png|
 |<img src="https://iptv-pro.github.io/logo/Discovery%20Asia.png" width="100" height="50">|Discovery Asia|https://iptv-pro.github.io/logo/Discovery%20Asia.png|
 |<img src="https://iptv-pro.github.io/logo/Discovery%20Channel.png" width="100" height="50">|Discovery Channel|https://iptv-pro.github.io/logo/Discovery%20Channel.png|
 |<img src="https://iptv-pro.github.io/logo/Discovery%20Science.png" width="100" height="50">|Discovery Science|https://iptv-pro.github.io/logo/Discovery%20Science.png|
@@ -663,6 +664,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/Star%20Movies%20HD.png" width="100" height="50">|Star Movies HD|https://iptv-pro.github.io/logo/Star%20Movies%20HD.png|
 |<img src="https://iptv-pro.github.io/logo/Star%20Vijay.png" width="100" height="50">|Star Vijay|https://iptv-pro.github.io/logo/Star%20Vijay.png|
 |<img src="https://iptv-pro.github.io/logo/StarSports.png" width="100" height="50">|StarSports|https://iptv-pro.github.io/logo/StarSports.png|
+|<img src="https://iptv-pro.github.io/logo/Sukan%20RTM.png" width="100" height="50">|Sukan RTM|https://iptv-pro.github.io/logo/Sukan%20RTM.png|
 |<img src="https://iptv-pro.github.io/logo/Sun%20Music.png" width="100" height="50">|Sun Music|https://iptv-pro.github.io/logo/Sun%20Music.png|
 |<img src="https://iptv-pro.github.io/logo/SuperSport.png" width="100" height="50">|SuperSport|https://iptv-pro.github.io/logo/SuperSport.png|
 |<img src="https://iptv-pro.github.io/logo/SuperSport2.png" width="100" height="50">|SuperSport2|https://iptv-pro.github.io/logo/SuperSport2.png|
@@ -687,8 +689,8 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/TRACE%20Urban.png" width="100" height="50">|TRACE Urban|https://iptv-pro.github.io/logo/TRACE%20Urban.png|
 |<img src="https://iptv-pro.github.io/logo/TRAXX%20FM.png" width="100" height="50">|TRAXX FM|https://iptv-pro.github.io/logo/TRAXX%20FM.png|
 |<img src="https://iptv-pro.github.io/logo/TRT%20WORLD.png" width="100" height="50">|TRT WORLD|https://iptv-pro.github.io/logo/TRT%20WORLD.png|
+|<img src="https://iptv-pro.github.io/logo/TV%20Alhijrah.png" width="100" height="50">|TV Alhijrah|https://iptv-pro.github.io/logo/TV%20Alhijrah.png|
 |<img src="https://iptv-pro.github.io/logo/TV%20Okey.png" width="100" height="50">|TV Okey|https://iptv-pro.github.io/logo/TV%20Okey.png|
-|<img src="https://iptv-pro.github.io/logo/TV%20Sukan.png" width="100" height="50">|TV Sukan|https://iptv-pro.github.io/logo/TV%20Sukan.png|
 |<img src="https://iptv-pro.github.io/logo/TV1.png" width="100" height="50">|TV1|https://iptv-pro.github.io/logo/TV1.png|
 |<img src="https://iptv-pro.github.io/logo/TV2.png" width="100" height="50">|TV2|https://iptv-pro.github.io/logo/TV2.png|
 |<img src="https://iptv-pro.github.io/logo/TV3.png" width="100" height="50">|TV3|https://iptv-pro.github.io/logo/TV3.png|

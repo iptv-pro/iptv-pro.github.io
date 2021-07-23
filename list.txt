@@ -304,6 +304,7 @@ DW(Deutsch),https://iptv-pro.github.io/logo/DW%28Deutsch%29.png
 DW德国之声,https://iptv-pro.github.io/logo/DW%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0.png
 Da Vinci,https://iptv-pro.github.io/logo/Da%20Vinci.png
 DaVinCi Learning达芬奇频道,https://iptv-pro.github.io/logo/DaVinCi%20Learning%E8%BE%BE%E8%8A%AC%E5%A5%87%E9%A2%91%E9%81%93.png
+DidikTV KPM,https://iptv-pro.github.io/logo/DidikTV%20KPM.png
 Discovery Asia,https://iptv-pro.github.io/logo/Discovery%20Asia.png
 Discovery Channel,https://iptv-pro.github.io/logo/Discovery%20Channel.png
 Discovery Science,https://iptv-pro.github.io/logo/Discovery%20Science.png
@@ -648,6 +649,7 @@ Star Gold,https://iptv-pro.github.io/logo/Star%20Gold.png
 Star Movies HD,https://iptv-pro.github.io/logo/Star%20Movies%20HD.png
 Star Vijay,https://iptv-pro.github.io/logo/Star%20Vijay.png
 StarSports,https://iptv-pro.github.io/logo/StarSports.png
+Sukan RTM,https://iptv-pro.github.io/logo/Sukan%20RTM.png
 Sun Music,https://iptv-pro.github.io/logo/Sun%20Music.png
 SuperSport,https://iptv-pro.github.io/logo/SuperSport.png
 SuperSport2,https://iptv-pro.github.io/logo/SuperSport2.png
@@ -672,8 +674,8 @@ TRACE URBAN,https://iptv-pro.github.io/logo/TRACE%20URBAN.png
 TRACE Urban,https://iptv-pro.github.io/logo/TRACE%20Urban.png
 TRAXX FM,https://iptv-pro.github.io/logo/TRAXX%20FM.png
 TRT WORLD,https://iptv-pro.github.io/logo/TRT%20WORLD.png
+TV Alhijrah,https://iptv-pro.github.io/logo/TV%20Alhijrah.png
 TV Okey,https://iptv-pro.github.io/logo/TV%20Okey.png
-TV Sukan,https://iptv-pro.github.io/logo/TV%20Sukan.png
 TV1,https://iptv-pro.github.io/logo/TV1.png
 TV2,https://iptv-pro.github.io/logo/TV2.png
 TV3,https://iptv-pro.github.io/logo/TV3.png
