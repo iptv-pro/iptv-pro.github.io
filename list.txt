@@ -1,5 +1,6 @@
 3D電影,https://iptv-pro.github.io/logo/3D%E9%9B%BB%E5%BD%B1.png
 4K花园,https://iptv-pro.github.io/logo/4K%E8%8A%B1%E5%9B%AD.jpg
+4K超高清电影,https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png
 8TV,https://iptv-pro.github.io/logo/8TV.png
 ABC Australia(1),https://iptv-pro.github.io/logo/ABC%20Australia%281%29.png
 ABC Australia,https://iptv-pro.github.io/logo/ABC%20Australia.png
@@ -171,6 +172,7 @@ CCTV4,https://iptv-pro.github.io/logo/CCTV4.png
 CCTV4America,https://iptv-pro.github.io/logo/CCTV4America.jpg
 CCTV4Europe,https://iptv-pro.github.io/logo/CCTV4Europe.jpg
 CCTV4K-(1),https://iptv-pro.github.io/logo/CCTV4K-%281%29.png
+CCTV4K-(2),https://iptv-pro.github.io/logo/CCTV4K-%282%29.png
 CCTV4k,https://iptv-pro.github.io/logo/CCTV4k.png
 CCTV4中文国际,https://iptv-pro.github.io/logo/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png
 CCTV4欧洲,https://iptv-pro.github.io/logo/CCTV4%E6%AC%A7%E6%B4%B2.png
@@ -783,6 +785,7 @@ beINextra,https://iptv-pro.github.io/logo/beINextra.png
 beINsports,https://iptv-pro.github.io/logo/beINsports.png
 bein1,https://iptv-pro.github.io/logo/bein1.png
 bein2,https://iptv-pro.github.io/logo/bein2.png
+best4k(1),https://iptv-pro.github.io/logo/best4k%281%29.png
 bestv1,https://iptv-pro.github.io/logo/bestv1.png
 bestv2,https://iptv-pro.github.io/logo/bestv2.png
 bestv4k,https://iptv-pro.github.io/logo/bestv4k.png
@@ -848,6 +851,7 @@ chc3,https://iptv-pro.github.io/logo/chc3.png
 chengdu1,https://iptv-pro.github.io/logo/chengdu1.png
 chengdu2,https://iptv-pro.github.io/logo/chengdu2.png
 china,https://iptv-pro.github.io/logo/china.png
+chunxiang4k,https://iptv-pro.github.io/logo/chunxiang4k.png
 cinemax,https://iptv-pro.github.io/logo/cinemax.png
 cjdy,https://iptv-pro.github.io/logo/cjdy.png
 cjty,https://iptv-pro.github.io/logo/cjty.png

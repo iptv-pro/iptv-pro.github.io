@@ -15,6 +15,7 @@ https://github.com/m3u8playlist/tvlogo
 |:----|:---:|:---:|
 |<img src="https://iptv-pro.github.io/logo/3D%E9%9B%BB%E5%BD%B1.png" width="100" height="50">|3D電影|https://iptv-pro.github.io/logo/3D%E9%9B%BB%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/4K%E8%8A%B1%E5%9B%AD.jpg" width="100" height="50">|4K花园|https://iptv-pro.github.io/logo/4K%E8%8A%B1%E5%9B%AD.jpg|
+|<img src="https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" width="100" height="50">|4K超高清电影|https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/8TV.png" width="100" height="50">|8TV|https://iptv-pro.github.io/logo/8TV.png|
 |<img src="https://iptv-pro.github.io/logo/ABC%20Australia%281%29.png" width="100" height="50">|ABC Australia(1)|https://iptv-pro.github.io/logo/ABC%20Australia%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/ABC%20Australia.png" width="100" height="50">|ABC Australia|https://iptv-pro.github.io/logo/ABC%20Australia.png|
@@ -186,6 +187,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/CCTV4America.jpg" width="100" height="50">|CCTV4America|https://iptv-pro.github.io/logo/CCTV4America.jpg|
 |<img src="https://iptv-pro.github.io/logo/CCTV4Europe.jpg" width="100" height="50">|CCTV4Europe|https://iptv-pro.github.io/logo/CCTV4Europe.jpg|
 |<img src="https://iptv-pro.github.io/logo/CCTV4K-%281%29.png" width="100" height="50">|CCTV4K-(1)|https://iptv-pro.github.io/logo/CCTV4K-%281%29.png|
+|<img src="https://iptv-pro.github.io/logo/CCTV4K-%282%29.png" width="100" height="50">|CCTV4K-(2)|https://iptv-pro.github.io/logo/CCTV4K-%282%29.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV4k.png" width="100" height="50">|CCTV4k|https://iptv-pro.github.io/logo/CCTV4k.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png" width="100" height="50">|CCTV4中文国际|https://iptv-pro.github.io/logo/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV4%E6%AC%A7%E6%B4%B2.png" width="100" height="50">|CCTV4欧洲|https://iptv-pro.github.io/logo/CCTV4%E6%AC%A7%E6%B4%B2.png|
@@ -798,6 +800,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/beINsports.png" width="100" height="50">|beINsports|https://iptv-pro.github.io/logo/beINsports.png|
 |<img src="https://iptv-pro.github.io/logo/bein1.png" width="100" height="50">|bein1|https://iptv-pro.github.io/logo/bein1.png|
 |<img src="https://iptv-pro.github.io/logo/bein2.png" width="100" height="50">|bein2|https://iptv-pro.github.io/logo/bein2.png|
+|<img src="https://iptv-pro.github.io/logo/best4k%281%29.png" width="100" height="50">|best4k(1)|https://iptv-pro.github.io/logo/best4k%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/bestv1.png" width="100" height="50">|bestv1|https://iptv-pro.github.io/logo/bestv1.png|
 |<img src="https://iptv-pro.github.io/logo/bestv2.png" width="100" height="50">|bestv2|https://iptv-pro.github.io/logo/bestv2.png|
 |<img src="https://iptv-pro.github.io/logo/bestv4k.png" width="100" height="50">|bestv4k|https://iptv-pro.github.io/logo/bestv4k.png|
@@ -863,6 +866,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/chengdu1.png" width="100" height="50">|chengdu1|https://iptv-pro.github.io/logo/chengdu1.png|
 |<img src="https://iptv-pro.github.io/logo/chengdu2.png" width="100" height="50">|chengdu2|https://iptv-pro.github.io/logo/chengdu2.png|
 |<img src="https://iptv-pro.github.io/logo/china.png" width="100" height="50">|china|https://iptv-pro.github.io/logo/china.png|
+|<img src="https://iptv-pro.github.io/logo/chunxiang4k.png" width="100" height="50">|chunxiang4k|https://iptv-pro.github.io/logo/chunxiang4k.png|
 |<img src="https://iptv-pro.github.io/logo/cinemax.png" width="100" height="50">|cinemax|https://iptv-pro.github.io/logo/cinemax.png|
 |<img src="https://iptv-pro.github.io/logo/cjdy.png" width="100" height="50">|cjdy|https://iptv-pro.github.io/logo/cjdy.png|
 |<img src="https://iptv-pro.github.io/logo/cjty.png" width="100" height="50">|cjty|https://iptv-pro.github.io/logo/cjty.png|
