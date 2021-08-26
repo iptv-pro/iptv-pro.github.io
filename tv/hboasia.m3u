@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Signature.png" group-title="",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Hits.png" group-title="",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://iptv-pro.github.io/logo/HBO%20Family.png" group-title="",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Red" tvg-logo="https://iptv-pro.github.io/logo/hbored.png" group-title="",HBO Red
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
