@@ -456,6 +456,7 @@ JAZZ,https://iptv-pro.github.io/logo/JAZZ.png
 KBS World,https://iptv-pro.github.io/logo/KBS%20World.png
 KBS1,https://iptv-pro.github.io/logo/KBS1.png
 KBS2,https://iptv-pro.github.io/logo/KBS2.png
+KBS24,https://iptv-pro.github.io/logo/KBS24.png
 KBSDrama,https://iptv-pro.github.io/logo/KBSDrama.png
 KBSJOY,https://iptv-pro.github.io/logo/KBSJOY.png
 KBSKids,https://iptv-pro.github.io/logo/KBSKids.png
@@ -839,7 +840,6 @@ cgtn,https://iptv-pro.github.io/logo/cgtn.png
 cgtnd,https://iptv-pro.github.io/logo/cgtnd.png
 ch_t_kbs1,https://iptv-pro.github.io/logo/ch_t_kbs1.png
 ch_t_kbs2,https://iptv-pro.github.io/logo/ch_t_kbs2.png
-ch_t_kbs24news,https://iptv-pro.github.io/logo/ch_t_kbs24news.png
 ch_t_kbsdrama,https://iptv-pro.github.io/logo/ch_t_kbsdrama.png
 ch_t_kbsjoy,https://iptv-pro.github.io/logo/ch_t_kbsjoy.png
 ch_t_kbskids,https://iptv-pro.github.io/logo/ch_t_kbskids.png
@@ -1125,6 +1125,7 @@ kbs2,https://iptv-pro.github.io/logo/kbs2.png
 kbs3,https://iptv-pro.github.io/logo/kbs3.png
 kbsjoy,https://iptv-pro.github.io/logo/kbsjoy.png
 kbsn,https://iptv-pro.github.io/logo/kbsn.png
+kbsstory,https://iptv-pro.github.io/logo/kbsstory.png
 kbsw,https://iptv-pro.github.io/logo/kbsw.png
 kbtv,https://iptv-pro.github.io/logo/kbtv.png
 kchina1,https://iptv-pro.github.io/logo/kchina1.png
@@ -1243,12 +1244,13 @@ rthk33,https://iptv-pro.github.io/logo/rthk33.png
 sanliinew,https://iptv-pro.github.io/logo/sanliinew.png
 sanlinew,https://iptv-pro.github.io/logo/sanlinew.png
 sbs,https://iptv-pro.github.io/logo/sbs.png
+sbsbiz,https://iptv-pro.github.io/logo/sbsbiz.png
 sbsfune,https://iptv-pro.github.io/logo/sbsfune.png
 sbsgolf,https://iptv-pro.github.io/logo/sbsgolf.png
 sbsmtv,https://iptv-pro.github.io/logo/sbsmtv.png
 sbsnew,https://iptv-pro.github.io/logo/sbsnew.png
 sbsplus,https://iptv-pro.github.io/logo/sbsplus.png
-sbssport,https://iptv-pro.github.io/logo/sbssport.png
+sbssports,https://iptv-pro.github.io/logo/sbssports.png
 screen,https://iptv-pro.github.io/logo/screen.png
 sctv,https://iptv-pro.github.io/logo/sctv.png
 sctv2,https://iptv-pro.github.io/logo/sctv2.png

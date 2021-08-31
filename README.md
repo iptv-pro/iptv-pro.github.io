@@ -471,6 +471,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/KBS%20World.png" width="100" height="50">|KBS World|https://iptv-pro.github.io/logo/KBS%20World.png|
 |<img src="https://iptv-pro.github.io/logo/KBS1.png" width="100" height="50">|KBS1|https://iptv-pro.github.io/logo/KBS1.png|
 |<img src="https://iptv-pro.github.io/logo/KBS2.png" width="100" height="50">|KBS2|https://iptv-pro.github.io/logo/KBS2.png|
+|<img src="https://iptv-pro.github.io/logo/KBS24.png" width="100" height="50">|KBS24|https://iptv-pro.github.io/logo/KBS24.png|
 |<img src="https://iptv-pro.github.io/logo/KBSDrama.png" width="100" height="50">|KBSDrama|https://iptv-pro.github.io/logo/KBSDrama.png|
 |<img src="https://iptv-pro.github.io/logo/KBSJOY.png" width="100" height="50">|KBSJOY|https://iptv-pro.github.io/logo/KBSJOY.png|
 |<img src="https://iptv-pro.github.io/logo/KBSKids.png" width="100" height="50">|KBSKids|https://iptv-pro.github.io/logo/KBSKids.png|
@@ -854,7 +855,6 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/cgtnd.png" width="100" height="50">|cgtnd|https://iptv-pro.github.io/logo/cgtnd.png|
 |<img src="https://iptv-pro.github.io/logo/ch_t_kbs1.png" width="100" height="50">|ch_t_kbs1|https://iptv-pro.github.io/logo/ch_t_kbs1.png|
 |<img src="https://iptv-pro.github.io/logo/ch_t_kbs2.png" width="100" height="50">|ch_t_kbs2|https://iptv-pro.github.io/logo/ch_t_kbs2.png|
-|<img src="https://iptv-pro.github.io/logo/ch_t_kbs24news.png" width="100" height="50">|ch_t_kbs24news|https://iptv-pro.github.io/logo/ch_t_kbs24news.png|
 |<img src="https://iptv-pro.github.io/logo/ch_t_kbsdrama.png" width="100" height="50">|ch_t_kbsdrama|https://iptv-pro.github.io/logo/ch_t_kbsdrama.png|
 |<img src="https://iptv-pro.github.io/logo/ch_t_kbsjoy.png" width="100" height="50">|ch_t_kbsjoy|https://iptv-pro.github.io/logo/ch_t_kbsjoy.png|
 |<img src="https://iptv-pro.github.io/logo/ch_t_kbskids.png" width="100" height="50">|ch_t_kbskids|https://iptv-pro.github.io/logo/ch_t_kbskids.png|
@@ -1140,6 +1140,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/kbs3.png" width="100" height="50">|kbs3|https://iptv-pro.github.io/logo/kbs3.png|
 |<img src="https://iptv-pro.github.io/logo/kbsjoy.png" width="100" height="50">|kbsjoy|https://iptv-pro.github.io/logo/kbsjoy.png|
 |<img src="https://iptv-pro.github.io/logo/kbsn.png" width="100" height="50">|kbsn|https://iptv-pro.github.io/logo/kbsn.png|
+|<img src="https://iptv-pro.github.io/logo/kbsstory.png" width="100" height="50">|kbsstory|https://iptv-pro.github.io/logo/kbsstory.png|
 |<img src="https://iptv-pro.github.io/logo/kbsw.png" width="100" height="50">|kbsw|https://iptv-pro.github.io/logo/kbsw.png|
 |<img src="https://iptv-pro.github.io/logo/kbtv.png" width="100" height="50">|kbtv|https://iptv-pro.github.io/logo/kbtv.png|
 |<img src="https://iptv-pro.github.io/logo/kchina1.png" width="100" height="50">|kchina1|https://iptv-pro.github.io/logo/kchina1.png|
@@ -1258,12 +1259,13 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/sanliinew.png" width="100" height="50">|sanliinew|https://iptv-pro.github.io/logo/sanliinew.png|
 |<img src="https://iptv-pro.github.io/logo/sanlinew.png" width="100" height="50">|sanlinew|https://iptv-pro.github.io/logo/sanlinew.png|
 |<img src="https://iptv-pro.github.io/logo/sbs.png" width="100" height="50">|sbs|https://iptv-pro.github.io/logo/sbs.png|
+|<img src="https://iptv-pro.github.io/logo/sbsbiz.png" width="100" height="50">|sbsbiz|https://iptv-pro.github.io/logo/sbsbiz.png|
 |<img src="https://iptv-pro.github.io/logo/sbsfune.png" width="100" height="50">|sbsfune|https://iptv-pro.github.io/logo/sbsfune.png|
 |<img src="https://iptv-pro.github.io/logo/sbsgolf.png" width="100" height="50">|sbsgolf|https://iptv-pro.github.io/logo/sbsgolf.png|
 |<img src="https://iptv-pro.github.io/logo/sbsmtv.png" width="100" height="50">|sbsmtv|https://iptv-pro.github.io/logo/sbsmtv.png|
 |<img src="https://iptv-pro.github.io/logo/sbsnew.png" width="100" height="50">|sbsnew|https://iptv-pro.github.io/logo/sbsnew.png|
 |<img src="https://iptv-pro.github.io/logo/sbsplus.png" width="100" height="50">|sbsplus|https://iptv-pro.github.io/logo/sbsplus.png|
-|<img src="https://iptv-pro.github.io/logo/sbssport.png" width="100" height="50">|sbssport|https://iptv-pro.github.io/logo/sbssport.png|
+|<img src="https://iptv-pro.github.io/logo/sbssports.png" width="100" height="50">|sbssports|https://iptv-pro.github.io/logo/sbssports.png|
 |<img src="https://iptv-pro.github.io/logo/screen.png" width="100" height="50">|screen|https://iptv-pro.github.io/logo/screen.png|
 |<img src="https://iptv-pro.github.io/logo/sctv.png" width="100" height="50">|sctv|https://iptv-pro.github.io/logo/sctv.png|
 |<img src="https://iptv-pro.github.io/logo/sctv2.png" width="100" height="50">|sctv2|https://iptv-pro.github.io/logo/sctv2.png|
