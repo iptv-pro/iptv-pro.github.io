@@ -396,6 +396,7 @@ HBO Hits,https://iptv-pro.github.io/logo/HBO%20Hits.png
 HBO Signature,https://iptv-pro.github.io/logo/HBO%20Signature.png
 HBO,https://iptv-pro.github.io/logo/HBO.png
 HBOFamily,https://iptv-pro.github.io/logo/HBOFamily.png
+HBOHD,https://iptv-pro.github.io/logo/HBOHD.png
 HBOHits,https://iptv-pro.github.io/logo/HBOHits.png
 HBOSign,https://iptv-pro.github.io/logo/HBOSign.png
 HGTV 居家乐活频道,https://iptv-pro.github.io/logo/HGTV%20%E5%B1%85%E5%AE%B6%E4%B9%90%E6%B4%BB%E9%A2%91%E9%81%93.png
@@ -453,6 +454,13 @@ INDIA BEAT,https://iptv-pro.github.io/logo/INDIA%20BEAT.png
 IP电影,https://iptv-pro.github.io/logo/IP%E7%94%B5%E5%BD%B1.png
 JAZZ,https://iptv-pro.github.io/logo/JAZZ.png
 KBS World,https://iptv-pro.github.io/logo/KBS%20World.png
+KBS1,https://iptv-pro.github.io/logo/KBS1.png
+KBS2,https://iptv-pro.github.io/logo/KBS2.png
+KBSDrama,https://iptv-pro.github.io/logo/KBSDrama.png
+KBSJOY,https://iptv-pro.github.io/logo/KBSJOY.png
+KBSKids,https://iptv-pro.github.io/logo/KBSKids.png
+KBSNLife,https://iptv-pro.github.io/logo/KBSNLife.png
+KBSNSports,https://iptv-pro.github.io/logo/KBSNSports.png
 KBSWorld,https://iptv-pro.github.io/logo/KBSWorld.png
 KENYALANG,https://iptv-pro.github.io/logo/KENYALANG.png
 KIX,https://iptv-pro.github.io/logo/KIX.png
@@ -1151,6 +1159,7 @@ mbcdrama,https://iptv-pro.github.io/logo/mbcdrama.png
 mbcdrama2,https://iptv-pro.github.io/logo/mbcdrama2.png
 mbcevery1,https://iptv-pro.github.io/logo/mbcevery1.png
 mbciraq,https://iptv-pro.github.io/logo/mbciraq.png
+mbcm,https://iptv-pro.github.io/logo/mbcm.png
 mbcmax,https://iptv-pro.github.io/logo/mbcmax.png
 mbcon,https://iptv-pro.github.io/logo/mbcon.png
 mbcsport,https://iptv-pro.github.io/logo/mbcsport.png

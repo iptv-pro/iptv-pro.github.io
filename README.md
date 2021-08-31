@@ -411,6 +411,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/HBO%20Signature.png" width="100" height="50">|HBO Signature|https://iptv-pro.github.io/logo/HBO%20Signature.png|
 |<img src="https://iptv-pro.github.io/logo/HBO.png" width="100" height="50">|HBO|https://iptv-pro.github.io/logo/HBO.png|
 |<img src="https://iptv-pro.github.io/logo/HBOFamily.png" width="100" height="50">|HBOFamily|https://iptv-pro.github.io/logo/HBOFamily.png|
+|<img src="https://iptv-pro.github.io/logo/HBOHD.png" width="100" height="50">|HBOHD|https://iptv-pro.github.io/logo/HBOHD.png|
 |<img src="https://iptv-pro.github.io/logo/HBOHits.png" width="100" height="50">|HBOHits|https://iptv-pro.github.io/logo/HBOHits.png|
 |<img src="https://iptv-pro.github.io/logo/HBOSign.png" width="100" height="50">|HBOSign|https://iptv-pro.github.io/logo/HBOSign.png|
 |<img src="https://iptv-pro.github.io/logo/HGTV%20%E5%B1%85%E5%AE%B6%E4%B9%90%E6%B4%BB%E9%A2%91%E9%81%93.png" width="100" height="50">|HGTV 居家乐活频道|https://iptv-pro.github.io/logo/HGTV%20%E5%B1%85%E5%AE%B6%E4%B9%90%E6%B4%BB%E9%A2%91%E9%81%93.png|
@@ -468,6 +469,13 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/IP%E7%94%B5%E5%BD%B1.png" width="100" height="50">|IP电影|https://iptv-pro.github.io/logo/IP%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/JAZZ.png" width="100" height="50">|JAZZ|https://iptv-pro.github.io/logo/JAZZ.png|
 |<img src="https://iptv-pro.github.io/logo/KBS%20World.png" width="100" height="50">|KBS World|https://iptv-pro.github.io/logo/KBS%20World.png|
+|<img src="https://iptv-pro.github.io/logo/KBS1.png" width="100" height="50">|KBS1|https://iptv-pro.github.io/logo/KBS1.png|
+|<img src="https://iptv-pro.github.io/logo/KBS2.png" width="100" height="50">|KBS2|https://iptv-pro.github.io/logo/KBS2.png|
+|<img src="https://iptv-pro.github.io/logo/KBSDrama.png" width="100" height="50">|KBSDrama|https://iptv-pro.github.io/logo/KBSDrama.png|
+|<img src="https://iptv-pro.github.io/logo/KBSJOY.png" width="100" height="50">|KBSJOY|https://iptv-pro.github.io/logo/KBSJOY.png|
+|<img src="https://iptv-pro.github.io/logo/KBSKids.png" width="100" height="50">|KBSKids|https://iptv-pro.github.io/logo/KBSKids.png|
+|<img src="https://iptv-pro.github.io/logo/KBSNLife.png" width="100" height="50">|KBSNLife|https://iptv-pro.github.io/logo/KBSNLife.png|
+|<img src="https://iptv-pro.github.io/logo/KBSNSports.png" width="100" height="50">|KBSNSports|https://iptv-pro.github.io/logo/KBSNSports.png|
 |<img src="https://iptv-pro.github.io/logo/KBSWorld.png" width="100" height="50">|KBSWorld|https://iptv-pro.github.io/logo/KBSWorld.png|
 |<img src="https://iptv-pro.github.io/logo/KENYALANG.png" width="100" height="50">|KENYALANG|https://iptv-pro.github.io/logo/KENYALANG.png|
 |<img src="https://iptv-pro.github.io/logo/KIX.png" width="100" height="50">|KIX|https://iptv-pro.github.io/logo/KIX.png|
@@ -1166,6 +1174,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/mbcdrama2.png" width="100" height="50">|mbcdrama2|https://iptv-pro.github.io/logo/mbcdrama2.png|
 |<img src="https://iptv-pro.github.io/logo/mbcevery1.png" width="100" height="50">|mbcevery1|https://iptv-pro.github.io/logo/mbcevery1.png|
 |<img src="https://iptv-pro.github.io/logo/mbciraq.png" width="100" height="50">|mbciraq|https://iptv-pro.github.io/logo/mbciraq.png|
+|<img src="https://iptv-pro.github.io/logo/mbcm.png" width="100" height="50">|mbcm|https://iptv-pro.github.io/logo/mbcm.png|
 |<img src="https://iptv-pro.github.io/logo/mbcmax.png" width="100" height="50">|mbcmax|https://iptv-pro.github.io/logo/mbcmax.png|
 |<img src="https://iptv-pro.github.io/logo/mbcon.png" width="100" height="50">|mbcon|https://iptv-pro.github.io/logo/mbcon.png|
 |<img src="https://iptv-pro.github.io/logo/mbcsport.png" width="100" height="50">|mbcsport|https://iptv-pro.github.io/logo/mbcsport.png|
