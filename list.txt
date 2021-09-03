@@ -11,6 +11,7 @@ AEC,https://iptv-pro.github.io/logo/AEC.png
 AFN,https://iptv-pro.github.io/logo/AFN.png
 AI FM,https://iptv-pro.github.io/logo/AI%20FM.png
 AKC-狗狗宠物,https://iptv-pro.github.io/logo/AKC-%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png
+ALL THE K-POP,https://iptv-pro.github.io/logo/ALL%20THE%20K-POP.jpg
 AOD,https://iptv-pro.github.io/logo/AOD.png
 ARIRANG阿里郎频道,https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png
 ASYIK FM,https://iptv-pro.github.io/logo/ASYIK%20FM.png
@@ -474,6 +475,8 @@ Lifetime 娱乐频道,https://iptv-pro.github.io/logo/Lifetime%20%E5%A8%B1%E4%B9
 Lifetime,https://iptv-pro.github.io/logo/Lifetime.png
 LiveABC互动英语频道,https://iptv-pro.github.io/logo/LiveABC%E4%BA%92%E5%8A%A8%E8%8B%B1%E8%AF%AD%E9%A2%91%E9%81%93.png
 Love Nature,https://iptv-pro.github.io/logo/Love%20Nature.png
+MBC,https://iptv-pro.github.io/logo/MBC.png
+MBCNet,https://iptv-pro.github.io/logo/MBCNet.png
 MELODY FM,https://iptv-pro.github.io/logo/MELODY%20FM.png
 MINNAL FM,https://iptv-pro.github.io/logo/MINNAL%20FM.png
 MIX FM,https://iptv-pro.github.io/logo/MIX%20FM.png
@@ -1148,7 +1151,6 @@ lszh,https://iptv-pro.github.io/logo/lszh.png
 lytv,https://iptv-pro.github.io/logo/lytv.png
 lytv1,https://iptv-pro.github.io/logo/lytv1.png
 lyxw,https://iptv-pro.github.io/logo/lyxw.png
-mbc,https://iptv-pro.github.io/logo/mbc.png
 mbc1,https://iptv-pro.github.io/logo/mbc1.png
 mbc2,https://iptv-pro.github.io/logo/mbc2.png
 mbc3,https://iptv-pro.github.io/logo/mbc3.png
@@ -1159,6 +1161,7 @@ mbcbollywood,https://iptv-pro.github.io/logo/mbcbollywood.png
 mbcdrama,https://iptv-pro.github.io/logo/mbcdrama.png
 mbcdrama2,https://iptv-pro.github.io/logo/mbcdrama2.png
 mbcevery1,https://iptv-pro.github.io/logo/mbcevery1.png
+mbchd,https://iptv-pro.github.io/logo/mbchd.png
 mbciraq,https://iptv-pro.github.io/logo/mbciraq.png
 mbcm,https://iptv-pro.github.io/logo/mbcm.png
 mbcmax,https://iptv-pro.github.io/logo/mbcmax.png

@@ -26,6 +26,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/AFN.png" width="100" height="50">|AFN|https://iptv-pro.github.io/logo/AFN.png|
 |<img src="https://iptv-pro.github.io/logo/AI%20FM.png" width="100" height="50">|AI FM|https://iptv-pro.github.io/logo/AI%20FM.png|
 |<img src="https://iptv-pro.github.io/logo/AKC-%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png" width="100" height="50">|AKC-狗狗宠物|https://iptv-pro.github.io/logo/AKC-%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png|
+|<img src="https://iptv-pro.github.io/logo/ALL%20THE%20K-POP.jpg" width="100" height="50">|ALL THE K-POP|https://iptv-pro.github.io/logo/ALL%20THE%20K-POP.jpg|
 |<img src="https://iptv-pro.github.io/logo/AOD.png" width="100" height="50">|AOD|https://iptv-pro.github.io/logo/AOD.png|
 |<img src="https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png" width="100" height="50">|ARIRANG阿里郎频道|https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/ASYIK%20FM.png" width="100" height="50">|ASYIK FM|https://iptv-pro.github.io/logo/ASYIK%20FM.png|
@@ -489,6 +490,8 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/Lifetime.png" width="100" height="50">|Lifetime|https://iptv-pro.github.io/logo/Lifetime.png|
 |<img src="https://iptv-pro.github.io/logo/LiveABC%E4%BA%92%E5%8A%A8%E8%8B%B1%E8%AF%AD%E9%A2%91%E9%81%93.png" width="100" height="50">|LiveABC互动英语频道|https://iptv-pro.github.io/logo/LiveABC%E4%BA%92%E5%8A%A8%E8%8B%B1%E8%AF%AD%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/Love%20Nature.png" width="100" height="50">|Love Nature|https://iptv-pro.github.io/logo/Love%20Nature.png|
+|<img src="https://iptv-pro.github.io/logo/MBC.png" width="100" height="50">|MBC|https://iptv-pro.github.io/logo/MBC.png|
+|<img src="https://iptv-pro.github.io/logo/MBCNet.png" width="100" height="50">|MBCNet|https://iptv-pro.github.io/logo/MBCNet.png|
 |<img src="https://iptv-pro.github.io/logo/MELODY%20FM.png" width="100" height="50">|MELODY FM|https://iptv-pro.github.io/logo/MELODY%20FM.png|
 |<img src="https://iptv-pro.github.io/logo/MINNAL%20FM.png" width="100" height="50">|MINNAL FM|https://iptv-pro.github.io/logo/MINNAL%20FM.png|
 |<img src="https://iptv-pro.github.io/logo/MIX%20FM.png" width="100" height="50">|MIX FM|https://iptv-pro.github.io/logo/MIX%20FM.png|
@@ -1163,7 +1166,6 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/lytv.png" width="100" height="50">|lytv|https://iptv-pro.github.io/logo/lytv.png|
 |<img src="https://iptv-pro.github.io/logo/lytv1.png" width="100" height="50">|lytv1|https://iptv-pro.github.io/logo/lytv1.png|
 |<img src="https://iptv-pro.github.io/logo/lyxw.png" width="100" height="50">|lyxw|https://iptv-pro.github.io/logo/lyxw.png|
-|<img src="https://iptv-pro.github.io/logo/mbc.png" width="100" height="50">|mbc|https://iptv-pro.github.io/logo/mbc.png|
 |<img src="https://iptv-pro.github.io/logo/mbc1.png" width="100" height="50">|mbc1|https://iptv-pro.github.io/logo/mbc1.png|
 |<img src="https://iptv-pro.github.io/logo/mbc2.png" width="100" height="50">|mbc2|https://iptv-pro.github.io/logo/mbc2.png|
 |<img src="https://iptv-pro.github.io/logo/mbc3.png" width="100" height="50">|mbc3|https://iptv-pro.github.io/logo/mbc3.png|
@@ -1174,6 +1176,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/mbcdrama.png" width="100" height="50">|mbcdrama|https://iptv-pro.github.io/logo/mbcdrama.png|
 |<img src="https://iptv-pro.github.io/logo/mbcdrama2.png" width="100" height="50">|mbcdrama2|https://iptv-pro.github.io/logo/mbcdrama2.png|
 |<img src="https://iptv-pro.github.io/logo/mbcevery1.png" width="100" height="50">|mbcevery1|https://iptv-pro.github.io/logo/mbcevery1.png|
+|<img src="https://iptv-pro.github.io/logo/mbchd.png" width="100" height="50">|mbchd|https://iptv-pro.github.io/logo/mbchd.png|
 |<img src="https://iptv-pro.github.io/logo/mbciraq.png" width="100" height="50">|mbciraq|https://iptv-pro.github.io/logo/mbciraq.png|
 |<img src="https://iptv-pro.github.io/logo/mbcm.png" width="100" height="50">|mbcm|https://iptv-pro.github.io/logo/mbcm.png|
 |<img src="https://iptv-pro.github.io/logo/mbcmax.png" width="100" height="50">|mbcmax|https://iptv-pro.github.io/logo/mbcmax.png|
