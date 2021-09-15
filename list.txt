@@ -11,7 +11,7 @@ AEC,https://iptv-pro.github.io/logo/AEC.png
 AFN,https://iptv-pro.github.io/logo/AFN.png
 AI FM,https://iptv-pro.github.io/logo/AI%20FM.png
 AKC-狗狗宠物,https://iptv-pro.github.io/logo/AKC-%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png
-ALL THE K-POP,https://iptv-pro.github.io/logo/ALL%20THE%20K-POP.jpg
+ALL THE K-POP,https://iptv-pro.github.io/logo/ALL%20THE%20K-POP.png
 AOD,https://iptv-pro.github.io/logo/AOD.png
 ARIRANG阿里郎频道,https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png
 ASYIK FM,https://iptv-pro.github.io/logo/ASYIK%20FM.png
@@ -677,6 +677,7 @@ TDMOuMun,https://iptv-pro.github.io/logo/TDMOuMun.png
 TDMSport,https://iptv-pro.github.io/logo/TDMSport.png
 TFC(ABS-CBN),https://iptv-pro.github.io/logo/TFC%28ABS-CBN%29.png
 TFC,https://iptv-pro.github.io/logo/TFC.png
+THE K-POP,https://iptv-pro.github.io/logo/THE%20K-POP.png
 THR GEGAR,https://iptv-pro.github.io/logo/THR%20GEGAR.png
 THR RAAGA,https://iptv-pro.github.io/logo/THR%20RAAGA.png
 TLC,https://iptv-pro.github.io/logo/TLC.png

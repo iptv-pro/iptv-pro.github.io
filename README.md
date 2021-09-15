@@ -26,7 +26,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/AFN.png" width="100" height="50">|AFN|https://iptv-pro.github.io/logo/AFN.png|
 |<img src="https://iptv-pro.github.io/logo/AI%20FM.png" width="100" height="50">|AI FM|https://iptv-pro.github.io/logo/AI%20FM.png|
 |<img src="https://iptv-pro.github.io/logo/AKC-%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png" width="100" height="50">|AKC-狗狗宠物|https://iptv-pro.github.io/logo/AKC-%E7%8B%97%E7%8B%97%E5%AE%A0%E7%89%A9.png|
-|<img src="https://iptv-pro.github.io/logo/ALL%20THE%20K-POP.jpg" width="100" height="50">|ALL THE K-POP|https://iptv-pro.github.io/logo/ALL%20THE%20K-POP.jpg|
+|<img src="https://iptv-pro.github.io/logo/ALL%20THE%20K-POP.png" width="100" height="50">|ALL THE K-POP|https://iptv-pro.github.io/logo/ALL%20THE%20K-POP.png|
 |<img src="https://iptv-pro.github.io/logo/AOD.png" width="100" height="50">|AOD|https://iptv-pro.github.io/logo/AOD.png|
 |<img src="https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png" width="100" height="50">|ARIRANG阿里郎频道|https://iptv-pro.github.io/logo/ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/ASYIK%20FM.png" width="100" height="50">|ASYIK FM|https://iptv-pro.github.io/logo/ASYIK%20FM.png|
@@ -692,6 +692,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/TDMSport.png" width="100" height="50">|TDMSport|https://iptv-pro.github.io/logo/TDMSport.png|
 |<img src="https://iptv-pro.github.io/logo/TFC%28ABS-CBN%29.png" width="100" height="50">|TFC(ABS-CBN)|https://iptv-pro.github.io/logo/TFC%28ABS-CBN%29.png|
 |<img src="https://iptv-pro.github.io/logo/TFC.png" width="100" height="50">|TFC|https://iptv-pro.github.io/logo/TFC.png|
+|<img src="https://iptv-pro.github.io/logo/THE%20K-POP.png" width="100" height="50">|THE K-POP|https://iptv-pro.github.io/logo/THE%20K-POP.png|
 |<img src="https://iptv-pro.github.io/logo/THR%20GEGAR.png" width="100" height="50">|THR GEGAR|https://iptv-pro.github.io/logo/THR%20GEGAR.png|
 |<img src="https://iptv-pro.github.io/logo/THR%20RAAGA.png" width="100" height="50">|THR RAAGA|https://iptv-pro.github.io/logo/THR%20RAAGA.png|
 |<img src="https://iptv-pro.github.io/logo/TLC.png" width="100" height="50">|TLC|https://iptv-pro.github.io/logo/TLC.png|
