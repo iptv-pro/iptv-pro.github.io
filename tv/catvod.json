@@ -74,15 +74,6 @@
             "filterable": 1
         },
         {
-            "key": "极品影视",
-            "name": "极品影视_M",
-            "type": 0,
-            "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 0
-        },
-        {
             "key": "One影视",
             "name": "One影视_M",
             "type": 0,
@@ -691,6 +682,14 @@
             "categories": []
         },
         {
+            "key": "天堂福利",
+            "name": "天堂18X",
+            "type": 0,
+            "api": "https://bttcj.com/inc/sapi.php",
+            "playUrl": "https://lyw28.com/m3u8/?url=",
+            "searchable": 0
+        },
+        {
             "key": "X8资源",
             "name": "X8资源_MB",
             "type": 0,
@@ -1220,6 +1219,7 @@
         },
         {
             "name": "M3U8蓝光直解",
+            "type": 1,
             "url": "https://iptv.delphi9.com/play/json.php?url="
         },
         {
