@@ -682,14 +682,6 @@
             "categories": []
         },
         {
-            "key": "玺娜影视",
-            "name": "玺娜影视_M",
-            "type": 0,
-            "api": "https://www.yuxidy.cn/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-        },
-        {
             "key": "博天堂",
             "name": "博天堂18x",
             "type": 0,
