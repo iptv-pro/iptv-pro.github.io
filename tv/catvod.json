@@ -98,14 +98,6 @@
             "categories": []
         },
         {
-            "key": "迷你库",
-            "name": "迷你库",
-            "type": 0,
-            "api": "https://www.miniku.cc/api.php/provide/vod/at/xml",
-            "playUrl": "https://jx.renrenmi.cc/?url=",
-            "categories": []
-        },
-        {
             "key": "竹嘎蓝光",
             "name": "竹嘎蓝光",
             "type": 0,
@@ -484,14 +476,6 @@
             "categories": []
         },
         {
-            "key": "迪加(*Φ皿Φ*)",
-            "name": "迪加(*Φ皿Φ*)_M",
-            "type": 0,
-            "api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-        },
-        {
             "key": "橘猫影视",
             "name": "橘猫影视_M",
             "type": 0,
@@ -591,13 +575,6 @@
             ]
         },
         {
-            "key": "影派资源",
-            "name": "影派资源_M",
-            "type": 0,
-            "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-            "playUrl": ""
-        },
-        {
             "key": "韩剧资源",
             "name": "韩剧资源_M",
             "type": 0,
@@ -610,13 +587,6 @@
             "type": 0,
             "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
             "playUrl": "https://vip.bljiex.com/?v="
-        },
-        {
-            "key": "9875资源",
-            "name": "9875资源_M",
-            "type": 0,
-            "api": "https://www.9875.xyz/api.php/provide/vod/at/xml",
-            "playUrl": ""
         },
         {
             "key": "爱看1080",
@@ -667,8 +637,8 @@
         {
             "key": "欧宝资源",
             "name": "欧宝资源",
-            "type": 0,
-            "api": "http://obaowl.cn/api.php/provide/vod/at/xml",
+            "type": 1,
+            "api": "http://obaowl.cn/api.php/provide/vod",
             "playUrl": "",
             "categories": []
         },
@@ -680,14 +650,6 @@
             "playUrl": "",
             "searchable": 0,
             "categories": []
-        },
-        {
-            "key": "天堂福利",
-            "name": "天堂18X",
-            "type": 0,
-            "api": "https://bttcj.com/inc/sapi.php",
-            "playUrl": "https://lyw28.com/m3u8/?url=",
-            "searchable": 0
         },
         {
             "key": "X8资源",
@@ -772,14 +734,6 @@
             "name": "3号港剧_M&J",
             "type": 0,
             "api": "https://www.hktv03.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "J8电影",
-            "name": "J8电影_MB",
-            "type": 0,
-            "api": "https://www.j8dy.org/api.php/provide/vod/at/xml",
             "playUrl": "",
             "categories": []
         },
