@@ -74,6 +74,15 @@
             "filterable": 1
         },
         {
+            "key": "csp_EPangApp",
+            "name": "阿房影视App",
+            "type": 3,
+            "api": "csp_EPangApp",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
             "key": "One影视",
             "name": "One影视_M",
             "type": 0,
@@ -640,15 +649,6 @@
             "type": 1,
             "api": "http://obaowl.cn/api.php/provide/vod",
             "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "博天堂",
-            "name": "博天堂18x",
-            "type": 0,
-            "api": "http://bttcj.com/inc/sapi.php",
-            "playUrl": "",
-            "searchable": 0,
             "categories": []
         },
         {
