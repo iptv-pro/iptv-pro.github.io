@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+    "spider": "https://gitlab.com/tzhlzt/CatVodTVSpider/-/raw/master/jar/custom_spider.jar",
     "sites": [
         {
             "key": "csp_Aidi",
@@ -43,6 +43,15 @@
             "type": 3,
             "api": "csp_Buka",
             "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Zjdr",
+            "name": "追剧达人",
+            "type": 3,
+            "api": "csp_Zjdr",
+            "searchable": 1,
             "quickSearch": 0,
             "filterable": 1
         },
@@ -652,6 +661,15 @@
             "categories": []
         },
         {
+            "key": "博天堂",
+            "name": "博天堂18x",
+            "type": 0,
+            "api": "http://bttcj.com/inc/sapi.php",
+            "playUrl": "",
+            "searchable": 0,
+            "categories": []
+        },
+        {
             "key": "X8资源",
             "name": "X8资源_MB",
             "type": 0,
@@ -1020,73 +1038,73 @@
                 {
                     "name": "蜡笔小新",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=11352970"
+                        "http://ye23.win/iptv/huya.php?id=11352970"
                     ]
                 },
                 {
                     "name": "发哥经典",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=11342387"
+                        "http://ye23.win/iptv/huya.php?id=11342387"
                     ]
                 },
                 {
                     "name": "恐怖将映轮播",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=21059551"
+                        "http://ye23.win/iptv/huya.php?id=21059551"
                     ]
                 },
                 {
                     "name": "丧失系列轮播",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=21059552"
+                        "http://ye23.win/iptv/huya.php?id=21059552"
                     ]
                 },
                 {
                     "name": "生化危机轮播",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=21059553"
+                        "http://ye23.win/iptv/huya.php?id=21059553"
                     ]
                 },
                 {
                     "name": "恐怖系列轮播",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=21059554"
+                        "http://ye23.win/iptv/huya.php?id=21059554"
                     ]
                 },
                 {
                     "name": "Man vs. Wild系列轮播",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=21059555"
+                        "http://ye23.win/iptv/huya.php?id=21059555"
                     ]
                 },
                 {
                     "name": "漫威系列轮播",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=21059556"
+                        "http://ye23.win/iptv/huya.php?id=21059556"
                     ]
                 },
                 {
                     "name": "死神来了轮播",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=11352903"
+                        "http://ye23.win/iptv/huya.php?id=11352903"
                     ]
                 },
                 {
                     "name": "成龙经典",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=11342386"
+                        "http://ye23.win/iptv/huya.php?id=11342386"
                     ]
                 },
                 {
                     "name": "牛得化经典",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=11342424"
+                        "http://ye23.win/iptv/huya.php?id=11342424"
                     ]
                 },
                 {
                     "name": "周星星老湿",
                     "urls": [
-                        "http://107.148.254.201:13164/v/huya.php?id=11342412"
+                        "http://ye23.win/iptv/huya.php?id=11342412"
                     ]
                 }
             ]
@@ -1104,11 +1122,6 @@
             "url": "Sequence"
         },
         {
-            "name": "jsonptygx",
-            "type": 1,
-            "url": "https://jhjx.ptygx.com/?url="
-        },
-        {
             "name": "jsonzhaikanys",
             "type": 1,
             "url": "http://www.zhaikanys.com/jx.php?url="
@@ -1117,11 +1130,6 @@
             "name": "jsonmouliuk",
             "type": 1,
             "url": "https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="
-        },
-        {
-            "name": "json973",
-            "type": 1,
-            "url": "https://973.cuan.la:5901/973/api/api_best.php?pltfrom=1100&key=973&url="
         },
         {
             "name": "灵智云",
