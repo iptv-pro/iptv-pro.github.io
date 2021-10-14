@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitlab.com/tzhlzt/CatVodTVSpider/-/raw/master/jar/custom_spider.jar",
+    "spider": "https://gitlab.com/tzhlzt/CatVodTVSpider/-/raw/master/jar/custom_spider_s.jar",
     "sites": [
         {
             "key": "csp_Aidi",
@@ -43,15 +43,6 @@
             "type": 3,
             "api": "csp_Buka",
             "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Zjdr",
-            "name": "追剧达人",
-            "type": 3,
-            "api": "csp_Zjdr",
-            "searchable": 1,
             "quickSearch": 0,
             "filterable": 1
         },
@@ -100,10 +91,26 @@
             "categories": []
         },
         {
+            "key": "若惜影视",
+            "name": "若惜影视_M",
+            "type": 0,
+            "api": "https://vip.ruoxinew.com/api.php/provide/vod/at/xml/",
+            "playUrl": "https://www.ckplayer.vip/jiexi/?url=",
+            "categories": []
+        },
+        {
             "key": "灵智",
             "name": "灵智云_M",
             "type": 0,
             "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "无尽",
+            "name": "无尽资源_M",
+            "type": 0,
+            "api": "https://wuzy9.com/api.php/provide/vod/at/xml",
             "playUrl": "",
             "categories": []
         },
@@ -1122,14 +1129,54 @@
             "url": "Sequence"
         },
         {
-            "name": "jsonzhaikanys",
+            "name": "Jsongbxy",
+            "type": 1,
+            "url": "https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="
+        },
+        {
+            "name": "Jsonvipmv",
+            "type": 1,
+            "url": "http://jx.vipmv.co/json3/?url="
+        },
+        {
+            "name": "Jsonzhaikanys",
             "type": 1,
             "url": "http://www.zhaikanys.com/jx.php?url="
         },
         {
-            "name": "jsonmouliuk",
+            "name": "Jsonmouliuk",
             "type": 1,
             "url": "https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="
+        },
+        {
+            "name": "Jsonbyteamone",
+            "type": 1,
+            "url": "https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="
+        },
+        {
+            "name": "zy8解析",
+            "type": 1,
+            "url": "https://w7.xszy8.com/tvmovie/jsonc/293jx1.php?url="
+        },
+        {
+            "name": "zy8解析2",
+            "type": 1,
+            "url": "https://w7.xszy8.com/tvmovie/jsonc/293jx1.php?url="
+        },
+        {
+            "name": "Jsonvodjx1",
+            "type": 1,
+            "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="
+        },
+        {
+            "name": "Jsonvodjx2",
+            "type": 1,
+            "url": "http://admin.vodjx.top/json.php?url="
+        },
+        {
+            "name": "json52nn",
+            "type": 1,
+            "url": "https://www.52nn.online/home/api?type=ys&uid=10086&key=dhjrtvwAGJLSTVWZ19&url="
         },
         {
             "name": "灵智云",
