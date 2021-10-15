@@ -99,6 +99,15 @@
             "categories": []
         },
         {
+            "key": "灰猫资源",
+            "name": "灰猫资源",
+            "type": 1,
+            "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 0
+        },
+        {
             "key": "灵智",
             "name": "灵智云_M",
             "type": 0,
@@ -415,7 +424,7 @@
             "name": "柚子资源",
             "type": 0,
             "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-            "playUrl": "https://vip.bljiex.com/?v=",
+            "playUrl": "https://jiexi.linzhiyuan.xyz/jiexi/?url=",
             "categories": [
                 "综艺",
                 "动漫",
@@ -611,7 +620,7 @@
             "name": "任我云资源",
             "type": 0,
             "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
-            "playUrl": "https://vip.bljiex.com/?v="
+            "playUrl": "https://jiexi.linzhiyuan.xyz/jiexi/?url="
         },
         {
             "key": "爱看1080",
@@ -706,6 +715,15 @@
             "api": "https://www.vp1127.com/api.php/provide/vod/?ac=list",
             "playUrl": "https://ss.wyhdj.com/k5/?url=",
             "categories": []
+        },
+        {
+            "key": "百姓的免费影视",
+            "name": "SPOOO影视",
+            "type": 1,
+            "api": "http://www.sp.ooo/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 0
         },
         {
             "key": "555TV",
@@ -1152,26 +1170,6 @@
             "name": "Jsonbyteamone",
             "type": 1,
             "url": "https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="
-        },
-        {
-            "name": "zy8解析",
-            "type": 1,
-            "url": "https://w7.xszy8.com/tvmovie/jsonc/293jx1.php?url="
-        },
-        {
-            "name": "zy8解析2",
-            "type": 1,
-            "url": "https://w7.xszy8.com/tvmovie/jsonc/293jx1.php?url="
-        },
-        {
-            "name": "Jsonvodjx1",
-            "type": 1,
-            "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="
-        },
-        {
-            "name": "Jsonvodjx2",
-            "type": 1,
-            "url": "http://admin.vodjx.top/json.php?url="
         },
         {
             "name": "json52nn",
