@@ -1236,7 +1236,8 @@
         },
         {
             "name": "月亮",
-            "url": "https://vip.jianjians.com/?url="
+            "url": "http://api.yueliangjx.com/?url=",
+            "type": 1
         },
         {
             "name": "2Ajx",
