@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+    "spider": "https://gitlab.com/tzhlzt/CatVodTVSpider/-/raw/master/jar/custom_spider.jar",
     "sites": [
         {
             "key": "csp_Aidi",
