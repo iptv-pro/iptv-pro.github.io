@@ -212,6 +212,16 @@
             "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
         },
         {
+            "key": "csp_yysdali",
+            "name": "YYDS影视",
+            "type": 3,
+            "api": "csp_YydsAli",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
+        },
+        {
             "key": "One影视",
             "name": "One影视_M",
             "type": 0,
@@ -2347,5 +2357,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "update": "2021-10-24"
+    "update": "2021-10-25"
 }
