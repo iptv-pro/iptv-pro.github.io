@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>web parser</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+		<meta name="renderer" content="webkit|ie-comp|ie-stand">
+		<meta name="viewport" content="width=device-width">
+	</head>
+	<body>
+	<script>
+		var apiArray=[
+			"https://player.maqq.cn/?url=",                                                                                 
+			"https://vip.jianjians.com/?url=",                                                                              
+			"https://jx.renrenmi.cc/?url=",                                                                                 
+			"https://api.jhdyw.vip/?url=",                                                                                  
+			"https://dmku.dijiaxia.com/?url=",                                                                              
+			"https://titan.mgtv.com.jumi.tv/player/?url=",                                                                  
+			"https://cdn.yangju.vip/k/?url=",                                                                               
+			"https://jx.mmkv.cn/tv.php/?url=",                                                                              
+			"https://egwang186.gitee.io/?url="];
+var origin=document.location.href.split("url=")[1];
+var iframeHtml="";
+for(var i=0;i<apiArray.length;i++){
+	var URL=apiArray[i]+origin;
+	iframeHtml=iframeHtml+"<iframe sandbox='allow-scripts allow-same-origin allow-forms' frameborder='0' allowfullscreen='true' referrerPolicy='no-referrer' src="+URL+"></iframe>";
+}
+document.write(iframeHtml);
+	</script>
+	</body>
+</html>
