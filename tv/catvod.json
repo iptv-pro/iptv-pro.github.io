@@ -92,6 +92,33 @@
             "filterable": 1
         },
         {
+            "key": "csp_Djx",
+            "name": "瓜皮TV(爬虫)",
+            "type": 3,
+            "api": "csp_Djx",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Imaple",
+            "name": "枫林网(爬虫)",
+            "type": 3,
+            "api": "csp_Imaple",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Jumi",
+            "name": "剧迷(爬虫)",
+            "type": 3,
+            "api": "csp_Jumi",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
             "key": "csp_xpath_94sm",
             "name": "94神马(XPath)",
             "type": 3,
@@ -222,26 +249,43 @@
             "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
         },
         {
+            "key": "csp_xpath_fantuan",
+            "name": "饭团(XPath)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitee.com/tzhlzt/mo/raw/master/wain/fantuan.json"
+        },
+        {
+            "key": "csp_xpath_98net ",
+            "name": "98net(XPath)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitee.com/tzhlzt/mo/raw/master/wain/98net%20.json"
+        },
+        {
             "key": "One影视",
             "name": "One影视_M",
             "type": 0,
-            "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
+            "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml"
         },
         {
             "key": "若惜影视",
             "name": "若惜影视_M",
             "type": 0,
             "api": "https://vip.ruoxinew.com/api.php/provide/vod/at/xml/",
-            "playUrl": "https://www.ckplayer.vip/jiexi/?url=",
-            "categories": []
+            "playUrl": "https://api.xxctzy.com/1.php?vid="
         },
         {
             "key": "奈菲迷",
             "name": "奈菲迷",
-            "type": 0,
-            "api": "https://vip.naifeimi.com/api.php/provide/vod/from/m3u8/at/xml/",
+            "type": 1,
+            "api": "https://zy.naifeimi.com/api.php/provide/vod/?ac=list",
             "playUrl": ""
         },
         {
@@ -2357,5 +2401,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "update": "2021-10-25"
+    "update": "2021-10-26"
 }
