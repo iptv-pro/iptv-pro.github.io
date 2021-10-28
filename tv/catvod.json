@@ -864,13 +864,6 @@
             ]
         },
         {
-            "key": "X8资源",
-            "name": "X8资源_M",
-            "type": 0,
-            "api": "https://www.x8x8-vip-2.ru/api.php/provide/vod/at/xml",
-            "playUrl": ""
-        },
-        {
             "key": "8k影视",
             "name": "8K影视_M",
             "type": 0,
@@ -1823,5 +1816,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "update": "2021-10-27"
+    "update": "2021-10-28"
 }
