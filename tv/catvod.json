@@ -279,6 +279,16 @@
             "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
         },
         {
+            "key": "csp_xpath_555tv",
+            "name": "555电影(XPath)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitee.com/tzhlzt/mo/raw/master/wain/555tv.json"
+        },
+        {
             "key": "One影视",
             "name": "One影视_M",
             "type": 0,
@@ -293,10 +303,10 @@
         },
         {
             "key": "奈菲迷",
-            "name": "奈菲迷（需要授权个人免费站长优惠）",
+            "name": "奈菲迷（个人免费站长优惠）",
             "type": 1,
-            "api": "https://zy.naifeimi.com/api.php/provide/vod/?ac=list",
-            "playUrl": ""
+            "api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "https://svip.naifeimi.com/nfm/?url="
         },
         {
             "key": "UVN.INK影视",
@@ -1816,5 +1826,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "update": "2021-10-28"
+    "update": "2021-10-29"
 }
