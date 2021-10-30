@@ -302,13 +302,6 @@
             "playUrl": "https://api.xxctzy.com/1.php?vid="
         },
         {
-            "key": "奈菲迷",
-            "name": "奈菲迷（个人免费站长优惠）",
-            "type": 1,
-            "api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "https://svip.naifeimi.com/nfm/?url="
-        },
-        {
             "key": "UVN.INK影视",
             "name": "UVN.INK影视(需要授权个人免费站长优惠)",
             "type": 1,
@@ -1826,5 +1819,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "update": "2021-10-29"
+    "update": "2021-10-30"
 }
