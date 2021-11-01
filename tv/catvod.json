@@ -1,6 +1,13 @@
 {
-    "spider": "https://gitlab.com/tzhlzt/CatVodTVSpider/-/raw/master/jar/custom_spider.jar?raw=true",
+    "spider": "https://gitee.com/tzhlzt/mo/raw/master/test/custom_spider.jar?raw=true",
     "sites": [
+        {
+            "key": "奈菲迷作者授权",
+            "name": "奈菲迷(奈菲群专享)",
+            "type": 1,
+            "api": "https://zyplayer.naifeimi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "https://svip.naifeimi.com/nfm/?url="
+        },
         {
             "key": "csp_EPangApp",
             "name": "阿房影视爬源",
@@ -287,6 +294,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitee.com/tzhlzt/mo/raw/master/wain/555tv.json"
+        },
+        {
+            "key": "csp_xpath_sky4k",
+            "name": "天空4K(XPath)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/sky4k.json"
         },
         {
             "key": "One影视",
@@ -834,39 +851,6 @@
             "categories": []
         },
         {
-            "key": "博天堂",
-            "name": "博天堂18x",
-            "type": 0,
-            "api": "http://bttcj.com/inc/sapi.php",
-            "playUrl": "",
-            "searchable": 0,
-            "categories": []
-        },
-        {
-            "key": "伦理（18X）",
-            "name": "伦理（18X）",
-            "type": 0,
-            "api": "http://bttcj.com/inc/sapi.php",
-            "playUrl": "",
-            "searchable": 0,
-            "categories": [
-                "香港伦理",
-                "韩国伦理"
-            ]
-        },
-        {
-            "key": "芒果（18X）",
-            "name": "芒果（18X）",
-            "type": 0,
-            "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "searchable": 0,
-            "categories": [
-                "动漫馆",
-                "三级馆"
-            ]
-        },
-        {
             "key": "8k影视",
             "name": "8K影视_M",
             "type": 0,
@@ -970,13 +954,128 @@
             "playUrl": ""
         },
         {
-            "key": "csp_ysdq_555电影",
-            "name": "555电影(搜)",
-            "type": 3,
-            "api": "csp_Ysdq",
-            "searchable": 1,
-            "quickSearch": 0,
-            "ext": "555电影"
+            "key": "影视之光",
+            "name": "影视之光",
+            "type": 0,
+            "api": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml"
+        },
+        {
+            "key": "爱搜影院",
+            "name": "爱搜影院",
+            "type": 0,
+            "api": "https://www.yunbangcheng.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "西门影视",
+            "name": "西门影视",
+            "type": 0,
+            "api": "https://ximenys.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "新影采集",
+            "name": "新影采集",
+            "type": 0,
+            "api": "https://api.xinyingcaiji.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "百度伦理",
+            "name": "百度伦理18x",
+            "type": 1,
+            "api": "http://llbdzy.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 0
+        },
+        {
+            "key": "博天堂",
+            "name": "博天堂（18X）",
+            "type": 0,
+            "api": "http://bttcj.com/inc/sapi.php",
+            "playUrl": "",
+            "searchable": 0,
+            "categories": [
+                "香港伦理",
+                "韩国伦理"
+            ]
+        },
+        {
+            "key": "芒果（18X）",
+            "name": "芒果（18X）",
+            "type": 0,
+            "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "searchable": 0,
+            "categories": [
+                "动漫馆",
+                "三级馆"
+            ]
+        },
+        {
+            "key": "写真",
+            "name": "写真18x",
+            "type": 1,
+            "api": "https://api.fengapp.xyz/api.php/provide/vod",
+            "playUrl": "",
+            "searchable": 0,
+            "categories": []
+        },
+        {
+            "key": "CK",
+            "name": "CK_18x",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+            "playUrl": "",
+            "searchable": 0,
+            "categories": []
+        },
+        {
+            "key": "爱播G",
+            "name": "爱播18x",
+            "type": 1,
+            "api": "https://api.aibozyapi.com/vod/",
+            "playUrl": "",
+            "searchable": 0,
+            "categories": [
+                "三级伦理",
+                "成人动漫"
+            ]
+        },
+        {
+            "key": "奶茶",
+            "name": "奶茶18x",
+            "type": 1,
+            "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+            "playUrl": "",
+            "searchable": 0,
+            "categories": [
+                "港台剧情",
+                "日韩剧情",
+                "欧美剧情",
+                "动漫肉番"
+            ]
+        },
+        {
+            "key": "速射",
+            "name": "速射18x",
+            "type": 1,
+            "api": "https://api.suboapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 0,
+            "categories": [
+                "三级伦理",
+                "成人动漫"
+            ]
+        },
+        {
+            "key": "天堂伦理",
+            "name": "天堂伦理18x",
+            "type": 1,
+            "api": "http://www.njxinli.com/inc/apijson.php",
+            "playUrl": "",
+            "searchable": 0,
+            "categories": [
+                "伦理影片",
+                "卡通动画"
+            ]
         },
         {
             "key": "csp_ysdq_畅视影视",
@@ -1152,6 +1251,13 @@
                     "name": "CCTV-15音乐高清",
                     "urls": [
                         "http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8"
+                    ]
+                },
+                {
+                    "name": "CCTV-16奥林匹克高清",
+                    "urls": [
+                        "http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8",
+                        "http://113.142.75.96/tc.cdn.hunancatv.com/live/CCTV16HD.m3u8"
                     ]
                 },
                 {
