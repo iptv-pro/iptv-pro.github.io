@@ -374,7 +374,7 @@
         },
         {
             "key": "csp_appys_xiaogui_one影视",
-            "name": "one影视(M)",
+            "name": "One影视(M)",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
@@ -963,10 +963,10 @@
             "ext": "gctv_555TV"
         },
         {
-            "key": "One影视",
-            "name": "One影视_M",
-            "type": 0,
-            "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml"
+            "key": "瓜皮影视",
+            "name": "瓜皮影视",
+            "type": 1,
+            "api": "https://www.dijiaxia.com/api.php/provide/vod/?ac=list"
         },
         {
             "key": "若惜影视",
@@ -983,12 +983,6 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
-        },
-        {
-            "key": "瓜皮影视",
-            "name": "瓜皮影视",
-            "type": 1,
-            "api": "https://www.dijiaxia.com/api.php/provide/vod/?ac=list"
         },
         {
             "key": "灰猫资源",
@@ -2145,17 +2139,18 @@
             "url": "https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="
         },
         {
-            "name": "json52nn",
+            "name": "Jsonptygx2",
             "type": 1,
-            "url": "https://www.52nn.online/home/api?type=ys&uid=10086&key=dhjrtvwAGJLSTVWZ19&url="
+            "url": "https://zajx.ptygx.com/?url="
+        },
+        {
+            "name": "Jsonbdjxfw2",
+            "type": 1,
+            "url": "https://jiexi.bdjxfw.com/home/api?type=ys&uid=168882504&key=adfhjknyzACDFJOQU9&url="
         },
         {
             "name": "灵智云",
             "url": "https://jiexi.linzhiyuan.xyz/jiexi/?url="
-        },
-        {
-            "name": "5ZNN",
-            "url": "https://player.5znn.pro/jiexi.php?url="
         },
         {
             "name": "BL",
@@ -2196,16 +2191,6 @@
         {
             "name": "M3u8云",
             "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "M3U8蓝光直解",
-            "type": 1,
-            "url": "https://iptv.delphi9.com/play/json.php?url="
-        },
-        {
-            "name": "Json.VodJX通用",
-            "url": "http://admin.vodjx.top/json.php?url=",
-            "type": 1
         },
         {
             "name": "月亮",
@@ -2269,6 +2254,7 @@
         "sohu",
         "tudou",
         "pptv",
+        "bilibili",
         "mgtv",
         "wasu"
     ],
@@ -2493,5 +2479,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "update": "2021-11-03"
+    "update": "2021-11-04"
 }
