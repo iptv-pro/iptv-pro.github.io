@@ -2030,73 +2030,73 @@
                 {
                     "name": "蜡笔小新",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=11352970"
+                        "http://1.117.152.239:39000/huya.php?id=11352970"
                     ]
                 },
                 {
                     "name": "发哥经典",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=11342387"
+                        "http://1.117.152.239:39000/huya.php?id=11342387"
                     ]
                 },
                 {
                     "name": "恐怖将映轮播",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=21059551"
+                        "http://1.117.152.239:39000/huya.php?id=21059551"
                     ]
                 },
                 {
                     "name": "丧失系列轮播",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=21059552"
+                        "http://1.117.152.239:39000/huya.php?id=21059552"
                     ]
                 },
                 {
                     "name": "生化危机轮播",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=21059553"
+                        "http://1.117.152.239:39000/huya.php?id=21059553"
                     ]
                 },
                 {
                     "name": "恐怖系列轮播",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=21059554"
+                        "http://1.117.152.239:39000/huya.php?id=21059554"
                     ]
                 },
                 {
                     "name": "Man vs. Wild系列轮播",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=21059555"
+                        "http://1.117.152.239:39000/huya.php?id=21059555"
                     ]
                 },
                 {
                     "name": "漫威系列轮播",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=21059556"
+                        "http://1.117.152.239:39000/huya.php?id=21059556"
                     ]
                 },
                 {
                     "name": "死神来了轮播",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=11352903"
+                        "http://1.117.152.239:39000/huya.php?id=11352903"
                     ]
                 },
                 {
                     "name": "成龙经典",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=11342386"
+                        "http://1.117.152.239:39000/huya.php?id=11342386"
                     ]
                 },
                 {
                     "name": "牛得化经典",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=11342424"
+                        "http://1.117.152.239:39000/huya.php?id=11342424"
                     ]
                 },
                 {
                     "name": "周星星老湿",
                     "urls": [
-                        "http://ye23.win/iptv/huya.php?id=11342412"
+                        "http://1.117.152.239:39000/huya.php?id=11342412&type=.m3u8"
                     ]
                 }
             ]
@@ -2479,5 +2479,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "update": "2021-11-04"
+    "update": "2021-11-05"
 }
