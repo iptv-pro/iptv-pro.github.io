@@ -282,6 +282,26 @@
             "ext": "https://gitee.com/tzhlzt/mo/raw/master/wain/jsons/dd520.json"
         },
         {
+            "key": "csp_xpath_yanetflix",
+            "name": "鸭奈菲",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tt.naifeimi.com/json/yanetflix.json"
+        },
+        {
+            "key": "csp_xpath_tvfans",
+            "name": "tvfans",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://tt.naifeimi.com/json/yanetflix.json"
+        },
+        {
             "key": "------M浏览器------",
             "name": "------⬇M爬虫⬇------",
             "type": 1,
@@ -1878,5 +1898,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "update": "2021-11-06"
+    "update": "2021-11-07"
 }
