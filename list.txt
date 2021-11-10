@@ -1866,6 +1866,8 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 有綫財經資訊台_I-CABLE_Finance,https://iptv-pro.github.io/logo/%E6%9C%89%E7%B6%AB%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A%E5%8F%B0_I-CABLE_Finance.png
 有線新聞_Cable_News,https://iptv-pro.github.io/logo/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E_Cable_News.png
 有线直播新闻台,https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E7%9B%B4%E6%92%AD%E6%96%B0%E9%97%BB%E5%8F%B0.png
+有线综合娱乐台,https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0.png
+有线财经资讯台,https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%8F%B0.png
 朝鲜电视台,https://iptv-pro.github.io/logo/%E6%9C%9D%E9%B2%9C%E7%94%B5%E8%A7%86%E5%8F%B0.png
 杭州生活,https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%9F%E6%B4%BB.png
 杭州电视台生活频道,https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%B5%E8%A7%86%E5%8F%B0%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png
@@ -2071,6 +2073,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 香港卫视,https://iptv-pro.github.io/logo/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86.png
 香港卫视综合台,https://iptv-pro.github.io/logo/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86%E7%BB%BC%E5%90%88%E5%8F%B0.png
 香港国际,https://iptv-pro.github.io/logo/%E9%A6%99%E6%B8%AF%E5%9B%BD%E9%99%85.png
+香港开电视,https://iptv-pro.github.io/logo/%E9%A6%99%E6%B8%AF%E5%BC%80%E7%94%B5%E8%A7%86.png
 香蕉台,https://iptv-pro.github.io/logo/%E9%A6%99%E8%95%89%E5%8F%B0.png
 高清HD卡通剧场,https://iptv-pro.github.io/logo/%E9%AB%98%E6%B8%85HD%E5%8D%A1%E9%80%9A%E5%89%A7%E5%9C%BA.png
 高清HD大众影视,https://iptv-pro.github.io/logo/%E9%AB%98%E6%B8%85HD%E5%A4%A7%E4%BC%97%E5%BD%B1%E8%A7%86.png
