@@ -97,6 +97,7 @@ Bloomberg Television,https://iptv-pro.github.io/logo/Bloomberg%20Television.png
 BollyOne,https://iptv-pro.github.io/logo/BollyOne.png
 Boo,https://iptv-pro.github.io/logo/Boo.png
 Boomerang,https://iptv-pro.github.io/logo/Boomerang.png
+C+频道,https://iptv-pro.github.io/logo/C%2B%E9%A2%91%E9%81%93.jpg
 CATCHPLAY Beyond,https://iptv-pro.github.io/logo/CATCHPLAY%20Beyond.png
 CATCHPLAY电影台,https://iptv-pro.github.io/logo/CATCHPLAY%E7%94%B5%E5%BD%B1%E5%8F%B0.png
 CBN-幸福剧场,https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%89%A7%E5%9C%BA.png
@@ -113,6 +114,7 @@ CCTV-12,https://iptv-pro.github.io/logo/CCTV-12.png
 CCTV-13,https://iptv-pro.github.io/logo/CCTV-13.png
 CCTV-14,https://iptv-pro.github.io/logo/CCTV-14.png
 CCTV-15,https://iptv-pro.github.io/logo/CCTV-15.png
+CCTV-16(1),https://iptv-pro.github.io/logo/CCTV-16%281%29.png
 CCTV-16,https://iptv-pro.github.io/logo/CCTV-16.png
 CCTV-17,https://iptv-pro.github.io/logo/CCTV-17.png
 CCTV-2,https://iptv-pro.github.io/logo/CCTV-2.png

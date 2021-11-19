@@ -112,6 +112,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/BollyOne.png" width="100" height="50">|BollyOne|https://iptv-pro.github.io/logo/BollyOne.png|
 |<img src="https://iptv-pro.github.io/logo/Boo.png" width="100" height="50">|Boo|https://iptv-pro.github.io/logo/Boo.png|
 |<img src="https://iptv-pro.github.io/logo/Boomerang.png" width="100" height="50">|Boomerang|https://iptv-pro.github.io/logo/Boomerang.png|
+|<img src="https://iptv-pro.github.io/logo/C%2B%E9%A2%91%E9%81%93.jpg" width="100" height="50">|C+频道|https://iptv-pro.github.io/logo/C%2B%E9%A2%91%E9%81%93.jpg|
 |<img src="https://iptv-pro.github.io/logo/CATCHPLAY%20Beyond.png" width="100" height="50">|CATCHPLAY Beyond|https://iptv-pro.github.io/logo/CATCHPLAY%20Beyond.png|
 |<img src="https://iptv-pro.github.io/logo/CATCHPLAY%E7%94%B5%E5%BD%B1%E5%8F%B0.png" width="100" height="50">|CATCHPLAY电影台|https://iptv-pro.github.io/logo/CATCHPLAY%E7%94%B5%E5%BD%B1%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%89%A7%E5%9C%BA.png" width="100" height="50">|CBN-幸福剧场|https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%89%A7%E5%9C%BA.png|
@@ -128,6 +129,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/CCTV-13.png" width="100" height="50">|CCTV-13|https://iptv-pro.github.io/logo/CCTV-13.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-14.png" width="100" height="50">|CCTV-14|https://iptv-pro.github.io/logo/CCTV-14.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-15.png" width="100" height="50">|CCTV-15|https://iptv-pro.github.io/logo/CCTV-15.png|
+|<img src="https://iptv-pro.github.io/logo/CCTV-16%281%29.png" width="100" height="50">|CCTV-16(1)|https://iptv-pro.github.io/logo/CCTV-16%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-16.png" width="100" height="50">|CCTV-16|https://iptv-pro.github.io/logo/CCTV-16.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-17.png" width="100" height="50">|CCTV-17|https://iptv-pro.github.io/logo/CCTV-17.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-2.png" width="100" height="50">|CCTV-2|https://iptv-pro.github.io/logo/CCTV-2.png|
