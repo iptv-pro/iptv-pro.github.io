@@ -102,6 +102,14 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/BOO.png" width="100" height="50">|BOO|https://iptv-pro.github.io/logo/BOO.png|
 |<img src="https://iptv-pro.github.io/logo/BOOMERANG.png" width="100" height="50">|BOOMERANG|https://iptv-pro.github.io/logo/BOOMERANG.png|
 |<img src="https://iptv-pro.github.io/logo/BSTV.png" width="100" height="50">|BSTV|https://iptv-pro.github.io/logo/BSTV.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" width="100" height="50">|BTV卡酷少儿|https://iptv-pro.github.io/logo/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E5%BD%B1%E8%A7%86.png" width="100" height="50">|BTV影视|https://iptv-pro.github.io/logo/BTV%E5%BD%B1%E8%A7%86.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E6%96%87%E8%89%BA.png" width="100" height="50">|BTV文艺|https://iptv-pro.github.io/logo/BTV%E6%96%87%E8%89%BA.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E6%96%B0%E9%97%BB.png" width="100" height="50">|BTV新闻|https://iptv-pro.github.io/logo/BTV%E6%96%B0%E9%97%BB.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E7%94%9F%E6%B4%BB.png" width="100" height="50">|BTV生活|https://iptv-pro.github.io/logo/BTV%E7%94%9F%E6%B4%BB.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E7%A7%91%E6%95%99.png" width="100" height="50">|BTV科教|https://iptv-pro.github.io/logo/BTV%E7%A7%91%E6%95%99.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E8%B4%A2%E7%BB%8F.png" width="100" height="50">|BTV财经|https://iptv-pro.github.io/logo/BTV%E8%B4%A2%E7%BB%8F.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E9%9D%92%E5%B9%B4.png" width="100" height="50">|BTV青年|https://iptv-pro.github.io/logo/BTV%E9%9D%92%E5%B9%B4.png|
 |<img src="https://iptv-pro.github.io/logo/Baby%20TV.png" width="100" height="50">|Baby TV|https://iptv-pro.github.io/logo/Baby%20TV.png|
 |<img src="https://iptv-pro.github.io/logo/Berita%20RTM.png" width="100" height="50">|Berita RTM|https://iptv-pro.github.io/logo/Berita%20RTM.png|
 |<img src="https://iptv-pro.github.io/logo/Bernama.png" width="100" height="50">|Bernama|https://iptv-pro.github.io/logo/Bernama.png|

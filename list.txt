@@ -87,6 +87,14 @@ BLUE ANT Entertainment,https://iptv-pro.github.io/logo/BLUE%20ANT%20Entertainmen
 BOO,https://iptv-pro.github.io/logo/BOO.png
 BOOMERANG,https://iptv-pro.github.io/logo/BOOMERANG.png
 BSTV,https://iptv-pro.github.io/logo/BSTV.png
+BTV卡酷少儿,https://iptv-pro.github.io/logo/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png
+BTV影视,https://iptv-pro.github.io/logo/BTV%E5%BD%B1%E8%A7%86.png
+BTV文艺,https://iptv-pro.github.io/logo/BTV%E6%96%87%E8%89%BA.png
+BTV新闻,https://iptv-pro.github.io/logo/BTV%E6%96%B0%E9%97%BB.png
+BTV生活,https://iptv-pro.github.io/logo/BTV%E7%94%9F%E6%B4%BB.png
+BTV科教,https://iptv-pro.github.io/logo/BTV%E7%A7%91%E6%95%99.png
+BTV财经,https://iptv-pro.github.io/logo/BTV%E8%B4%A2%E7%BB%8F.png
+BTV青年,https://iptv-pro.github.io/logo/BTV%E9%9D%92%E5%B9%B4.png
 Baby TV,https://iptv-pro.github.io/logo/Baby%20TV.png
 Berita RTM,https://iptv-pro.github.io/logo/Berita%20RTM.png
 Bernama,https://iptv-pro.github.io/logo/Bernama.png
