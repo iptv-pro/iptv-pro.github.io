@@ -130,6 +130,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/CBSN.png" width="100" height="50">|CBSN|https://iptv-pro.github.io/logo/CBSN.png|
 |<img src="https://iptv-pro.github.io/logo/CBeebies.png" width="100" height="50">|CBeebies|https://iptv-pro.github.io/logo/CBeebies.png|
 |<img src="https://iptv-pro.github.io/logo/CCM.png" width="100" height="50">|CCM|https://iptv-pro.github.io/logo/CCM.png|
+|<img src="https://iptv-pro.github.io/logo/CCTV%20News.png" width="100" height="50">|CCTV News|https://iptv-pro.github.io/logo/CCTV%20News.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-1.png" width="100" height="50">|CCTV-1|https://iptv-pro.github.io/logo/CCTV-1.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-10.png" width="100" height="50">|CCTV-10|https://iptv-pro.github.io/logo/CCTV-10.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-11.png" width="100" height="50">|CCTV-11|https://iptv-pro.github.io/logo/CCTV-11.png|
@@ -1896,6 +1897,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%9B%BC%E8%BF%AA%E6%97%A5%E6%9C%AC%E5%8F%B0.png" width="100" height="50">|曼迪日本台|https://iptv-pro.github.io/logo/%E6%9B%BC%E8%BF%AA%E6%97%A5%E6%9C%AC%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9C%89%E7%B6%AB%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A%E5%8F%B0_I-CABLE_Finance.png" width="100" height="50">|有綫財經資訊台_I-CABLE_Finance|https://iptv-pro.github.io/logo/%E6%9C%89%E7%B6%AB%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A%E5%8F%B0_I-CABLE_Finance.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E_Cable_News.png" width="100" height="50">|有線新聞_Cable_News|https://iptv-pro.github.io/logo/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E_Cable_News.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" width="100" height="50">|有线新闻台|https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E7%9B%B4%E6%92%AD%E6%96%B0%E9%97%BB%E5%8F%B0.png" width="100" height="50">|有线直播新闻台|https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E7%9B%B4%E6%92%AD%E6%96%B0%E9%97%BB%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0.png" width="100" height="50">|有线综合娱乐台|https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%8F%B0.png" width="100" height="50">|有线财经资讯台|https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%8F%B0.png|
