@@ -14,6 +14,7 @@ https://github.com/m3u8playlist/tvlogo
 |Icon|Channel|Site|
 |:----|:---:|:---:|
 |<img src="https://iptv-pro.github.io/logo/3D%E9%9B%BB%E5%BD%B1.png" width="100" height="50">|3D電影|https://iptv-pro.github.io/logo/3D%E9%9B%BB%E5%BD%B1.png|
+|<img src="https://iptv-pro.github.io/logo/4K.png" width="100" height="50">|4K|https://iptv-pro.github.io/logo/4K.png|
 |<img src="https://iptv-pro.github.io/logo/4K%E8%8A%B1%E5%9B%AD.jpg" width="100" height="50">|4K花园|https://iptv-pro.github.io/logo/4K%E8%8A%B1%E5%9B%AD.jpg|
 |<img src="https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" width="100" height="50">|4K超高清电影|https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/8TV.png" width="100" height="50">|8TV|https://iptv-pro.github.io/logo/8TV.png|
