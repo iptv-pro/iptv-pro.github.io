@@ -796,6 +796,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/Warna.png" width="100" height="50">|Warna|https://iptv-pro.github.io/logo/Warna.png|
 |<img src="https://iptv-pro.github.io/logo/Warner%20TV.png" width="100" height="50">|Warner TV|https://iptv-pro.github.io/logo/Warner%20TV.png|
 |<img src="https://iptv-pro.github.io/logo/WarnerTV.png" width="100" height="50">|WarnerTV|https://iptv-pro.github.io/logo/WarnerTV.png|
+|<img src="https://iptv-pro.github.io/logo/Y%2B.png" width="100" height="50">|Y+|https://iptv-pro.github.io/logo/Y%2B.png|
 |<img src="https://iptv-pro.github.io/logo/Y%2B%E5%BD%B1%E8%A7%86.png" width="100" height="50">|Y+影视|https://iptv-pro.github.io/logo/Y%2B%E5%BD%B1%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/ZAYAN.png" width="100" height="50">|ZAYAN|https://iptv-pro.github.io/logo/ZAYAN.png|
 |<img src="https://iptv-pro.github.io/logo/Zee%20Cinema%20International.png" width="100" height="50">|Zee Cinema International|https://iptv-pro.github.io/logo/Zee%20Cinema%20International.png|
@@ -1930,7 +1931,6 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%8F%B0.png" width="100" height="50">|有线财经资讯台|https://iptv-pro.github.io/logo/%E6%9C%89%E7%BA%BF%E8%B4%A2%E7%BB%8F%E8%B5%84%E8%AE%AF%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9C%9D%E9%B2%9C%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|朝鲜电视台|https://iptv-pro.github.io/logo/%E6%9C%9D%E9%B2%9C%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%9F%E6%B4%BB.png" width="100" height="50">|杭州生活|https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%9F%E6%B4%BB.png|
-|<img src="https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%B5%E8%A7%86%E5%8F%B0%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png" width="100" height="50">|杭州电视台生活频道|https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%B5%E8%A7%86%E5%8F%B0%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%98%8E%E7%8F%A0%E9%A2%91%E9%81%93.png" width="100" height="50">|杭州西湖明珠频道|https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%98%8E%E7%8F%A0%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9D%BE%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|松江电视台|https://iptv-pro.github.io/logo/%E6%9D%BE%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%9E%81%E9%80%9F%E6%B1%BD%E8%BD%A6.png" width="100" height="50">|极速汽车|https://iptv-pro.github.io/logo/%E6%9E%81%E9%80%9F%E6%B1%BD%E8%BD%A6.png|
