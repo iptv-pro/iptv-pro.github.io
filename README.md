@@ -300,6 +300,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/CIBN%E7%BA%AA%E5%BD%95%E7%89%87.png" width="100" height="50">|CIBN纪录片|https://iptv-pro.github.io/logo/CIBN%E7%BA%AA%E5%BD%95%E7%89%87.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E7%BB%84%E5%90%88.png" width="100" height="50">|CIBN组合|https://iptv-pro.github.io/logo/CIBN%E7%BB%84%E5%90%88.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E7%BB%8F%E5%85%B8%E5%89%A7%E5%9C%BA.png" width="100" height="50">|CIBN经典剧场|https://iptv-pro.github.io/logo/CIBN%E7%BB%8F%E5%85%B8%E5%89%A7%E5%9C%BA.png|
+|<img src="https://iptv-pro.github.io/logo/CIBN%E7%BB%BC%E5%90%88.png" width="100" height="50">|CIBN综合|https://iptv-pro.github.io/logo/CIBN%E7%BB%BC%E5%90%88.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E8%81%9A%E9%B2%A8%E7%B2%BE%E9%80%89.png" width="100" height="50">|CIBN聚鲨精选|https://iptv-pro.github.io/logo/CIBN%E8%81%9A%E9%B2%A8%E7%B2%BE%E9%80%89.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E8%89%BA%E6%9C%AF%E9%99%A2%E7%BA%BF.png" width="100" height="50">|CIBN艺术院线|https://iptv-pro.github.io/logo/CIBN%E8%89%BA%E6%9C%AF%E9%99%A2%E7%BA%BF.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%E8%B4%A2%E7%BB%8F.png" width="100" height="50">|CIBN财经|https://iptv-pro.github.io/logo/CIBN%E8%B4%A2%E7%BB%8F.png|
@@ -1985,7 +1986,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E.png" width="100" height="50">|浙江经济|https://iptv-pro.github.io/logo/%E6%B5%99%E6%B1%9F%E7%BB%8F%E6%B5%8E.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1.png" width="100" height="50">|海南公共|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%85%AC%E5%85%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" width="100" height="50">|海南卫视|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png|
-|<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86png.png" width="100" height="50">|海南卫视png|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86png.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" width="100" height="50">|海南卫视HD|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF.png" width="100" height="50">|海南少儿|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%B0%91%E5%84%BF.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E6%96%87%E6%97%85.png" width="100" height="50">|海南文旅|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E6%96%87%E6%97%85.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB.png" width="100" height="50">|海南新闻|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB.png|
