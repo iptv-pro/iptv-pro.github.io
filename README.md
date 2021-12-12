@@ -506,6 +506,13 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E9%99%A2%E7%BA%BF.png" width="100" height="50">|IHOT-爱院线|https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E9%99%A2%E7%BA%BF.png|
 |<img src="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E9%9D%92%E6%98%A5.png" width="100" height="50">|IHOT-爱青春|https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E9%9D%92%E6%98%A5.png|
 |<img src="https://iptv-pro.github.io/logo/INDIA%20BEAT.png" width="100" height="50">|INDIA BEAT|https://iptv-pro.github.io/logo/INDIA%20BEAT.png|
+|<img src="https://iptv-pro.github.io/logo/IPTV3%2B.png" width="100" height="50">|IPTV3+|https://iptv-pro.github.io/logo/IPTV3%2B.png|
+|<img src="https://iptv-pro.github.io/logo/IPTV5%2B.png" width="100" height="50">|IPTV5+|https://iptv-pro.github.io/logo/IPTV5%2B.png|
+|<img src="https://iptv-pro.github.io/logo/IPTV6%2B.png" width="100" height="50">|IPTV6+|https://iptv-pro.github.io/logo/IPTV6%2B.png|
+|<img src="https://iptv-pro.github.io/logo/IPTV%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png" width="100" height="50">|IPTV少儿动画|https://iptv-pro.github.io/logo/IPTV%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png|
+|<img src="https://iptv-pro.github.io/logo/IPTV%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA.png" width="100" height="50">|IPTV热播剧场|https://iptv-pro.github.io/logo/IPTV%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA.png|
+|<img src="https://iptv-pro.github.io/logo/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" width="100" height="50">|IPTV经典电影|https://iptv-pro.github.io/logo/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png|
+|<img src="https://iptv-pro.github.io/logo/IPTV%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A.png" width="100" height="50">|IPTV魅力时尚|https://iptv-pro.github.io/logo/IPTV%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A.png|
 |<img src="https://iptv-pro.github.io/logo/IP%E7%94%B5%E5%BD%B1.png" width="100" height="50">|IP电影|https://iptv-pro.github.io/logo/IP%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/JAZZ.png" width="100" height="50">|JAZZ|https://iptv-pro.github.io/logo/JAZZ.png|
 |<img src="https://iptv-pro.github.io/logo/KBS%20World.png" width="100" height="50">|KBS World|https://iptv-pro.github.io/logo/KBS%20World.png|
