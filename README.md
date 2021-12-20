@@ -1643,9 +1643,9 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%86%B0%E7%81%AB%E9%A2%91%E9%81%93.png" width="100" height="50">|冰火频道|https://iptv-pro.github.io/logo/%E5%86%B0%E7%81%AB%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" width="100" height="50">|凤凰中文|https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png" width="100" height="50">|凤凰卫视中文台|https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E7%94%B5%E5%BD%B1%E5%8F%B0.png" width="100" height="50">|凤凰卫视电影台|https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E7%94%B5%E5%BD%B1%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png" width="100" height="50">|凤凰卫视资讯台|https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png" width="100" height="50">|凤凰卫视香港台|https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png|
-|<img src="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1.png" width="100" height="50">|凤凰电影|https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" width="100" height="50">|凤凰资讯|https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" width="100" height="50">|凤凰香港|https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" width="100" height="50">|动漫秀场|https://iptv-pro.github.io/logo/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png|
