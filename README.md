@@ -468,6 +468,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/HK01.png" width="100" height="50">|HK01|https://iptv-pro.github.io/logo/HK01.png|
 |<img src="https://iptv-pro.github.io/logo/HKIBC.png" width="100" height="50">|HKIBC|https://iptv-pro.github.io/logo/HKIBC.png|
 |<img src="https://iptv-pro.github.io/logo/HOLLYWOOD%20MOVIE.png" width="100" height="50">|HOLLYWOOD MOVIE|https://iptv-pro.github.io/logo/HOLLYWOOD%20MOVIE.png|
+|<img src="https://iptv-pro.github.io/logo/HandsUpChannel.png" width="100" height="50">|HandsUpChannel|https://iptv-pro.github.io/logo/HandsUpChannel.png|
 |<img src="https://iptv-pro.github.io/logo/Hello.png" width="100" height="50">|Hello|https://iptv-pro.github.io/logo/Hello.png|
 |<img src="https://iptv-pro.github.io/logo/HelloTV.png" width="100" height="50">|HelloTV|https://iptv-pro.github.io/logo/HelloTV.png|
 |<img src="https://iptv-pro.github.io/logo/Hijrah.png" width="100" height="50">|Hijrah|https://iptv-pro.github.io/logo/Hijrah.png|
@@ -775,6 +776,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png" width="100" height="50">|TVBS新闻|https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png|
 |<img src="https://iptv-pro.github.io/logo/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png" width="100" height="50">|TVBS欢乐台|https://iptv-pro.github.io/logo/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png" width="100" height="50">|TVBS精采台|https://iptv-pro.github.io/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png|
+|<img src="https://iptv-pro.github.io/logo/TVB%E4%B8%BA%E9%A3%9F%E5%8F%B0.png" width="100" height="50">|TVB为食台|https://iptv-pro.github.io/logo/TVB%E4%B8%BA%E9%A3%9F%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0png.png" width="100" height="50">|TVB无线新闻台png|https://iptv-pro.github.io/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0png.png|
 |<img src="https://iptv-pro.github.io/logo/TVB%E6%98%9F%E6%B2%B3.png" width="100" height="50">|TVB星河|https://iptv-pro.github.io/logo/TVB%E6%98%9F%E6%B2%B3.png|
 |<img src="https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png" width="100" height="50">|TVB武术台|https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png|

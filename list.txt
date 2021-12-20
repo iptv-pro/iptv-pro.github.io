@@ -453,6 +453,7 @@ HITZ FM,https://iptv-pro.github.io/logo/HITZ%20FM.png
 HK01,https://iptv-pro.github.io/logo/HK01.png
 HKIBC,https://iptv-pro.github.io/logo/HKIBC.png
 HOLLYWOOD MOVIE,https://iptv-pro.github.io/logo/HOLLYWOOD%20MOVIE.png
+HandsUpChannel,https://iptv-pro.github.io/logo/HandsUpChannel.png
 Hello,https://iptv-pro.github.io/logo/Hello.png
 HelloTV,https://iptv-pro.github.io/logo/HelloTV.png
 Hijrah,https://iptv-pro.github.io/logo/Hijrah.png
@@ -760,6 +761,7 @@ TVBS,https://iptv-pro.github.io/logo/TVBS.png
 TVBS新闻,https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png
 TVBS欢乐台,https://iptv-pro.github.io/logo/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png
 TVBS精采台,https://iptv-pro.github.io/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png
+TVB为食台,https://iptv-pro.github.io/logo/TVB%E4%B8%BA%E9%A3%9F%E5%8F%B0.png
 TVB无线新闻台png,https://iptv-pro.github.io/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0png.png
 TVB星河,https://iptv-pro.github.io/logo/TVB%E6%98%9F%E6%B2%B3.png
 TVB武术台,https://iptv-pro.github.io/logo/TVB%E6%AD%A6%E6%9C%AF%E5%8F%B0.png
