@@ -612,10 +612,12 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/NewTV%E6%B5%B7%E5%A4%96%E5%89%A7%E5%9C%BA.png" width="100" height="50">|NewTV海外剧场|https://iptv-pro.github.io/logo/NewTV%E6%B5%B7%E5%A4%96%E5%89%A7%E5%9C%BA.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png" width="100" height="50">|NewTV潮妈辣婆|https://iptv-pro.github.io/logo/NewTV%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E7%82%AB%E8%88%9E%E6%9C%AA%E6%9D%A5.png" width="100" height="50">|NewTV炫舞未来|https://iptv-pro.github.io/logo/NewTV%E7%82%AB%E8%88%9E%E6%9C%AA%E6%9D%A5.png|
+|<img src="https://iptv-pro.github.io/logo/NewTV%E7%83%AD%E6%92%AD%E7%B2%BE%E9%80%89.png" width="100" height="50">|NewTV热播精选|https://iptv-pro.github.io/logo/NewTV%E7%83%AD%E6%92%AD%E7%B2%BE%E9%80%89.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7.png" width="100" height="50">|NewTV爱情喜剧|https://iptv-pro.github.io/logo/NewTV%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E4%BD%93%E8%82%B2.png" width="100" height="50">|NewTV精品体育|https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E4%BD%93%E8%82%B2.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png" width="100" height="50">|NewTV精品大剧|https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E7%BA%AA%E5%BD%95.png" width="100" height="50">|NewTV精品纪录|https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E7%BA%AA%E5%BD%95.png|
+|<img src="https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E7%BB%BC%E5%90%88.png" width="100" height="50">|NewTV精品综合|https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%93%81%E7%BB%BC%E5%90%88.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%BD%A9%E6%90%8F%E5%87%BB.png" width="100" height="50">|NewTV精彩搏击|https://iptv-pro.github.io/logo/NewTV%E7%B2%BE%E5%BD%A9%E6%90%8F%E5%87%BB.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png" width="100" height="50">|NewTV超级体育|https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E4%BD%93%E8%82%B2.png|
 |<img src="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png" width="100" height="50">|NewTV超级电影|https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png|
