@@ -199,6 +199,10 @@ http://192.168.190.1:4022/udp/239.45.1.51:5140
 http://192.168.190.1:4022/udp/239.45.1.52:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="教育台",教育4台
 http://192.168.190.1:4022/udp/239.45.1.50:5140
+#EXTINF:-1 tvg-id="" tvg-name="上海教育电视台" tvg-logo="https://iptv-pro.github.io/logo/上海教育电视台.png" group-title="教育台",上海教育电视台 FHD
+http://192.168.190.1:4022/udp/239.45.1.106:5140
+#EXTINF:-1 tvg-id="" tvg-name="上海教育电视台" tvg-logo="https://iptv-pro.github.io/logo/上海教育电视台.png" group-title="上海",上海教育电视台 FHD
+http://192.168.190.1:4022/udp/239.45.1.106:5140
 #EXTINF:-1 tvg-id="" tvg-name="法治天地 " tvg-logo="https://iptv-pro.github.io/logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="上海",法治天地  FHD
 http://192.168.190.1:4022/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-id="" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道 FHD
@@ -287,8 +291,12 @@ http://192.168.190.1:4022/udp/239.45.1.10:5140
 http://192.168.190.1:4022/udp/239.45.1.11:5140
 #EXTINF:-1 tvg-id="" tvg-name="BesTV体育赛事" tvg-logo="https://iptv-pro.github.io/logo/BesTV.png" group-title="BesTV",BesTV体育赛事
 http://192.168.190.1:4022/udp/239.45.1.110:5140
-#EXTINF:-1 tvg-id="" tvg-name="BesTV怀旧金曲" tvg-logo="https://iptv-pro.github.io/logo/BesTV.png" group-title="BesTV",BesTV怀旧金曲
+#EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P1241A52D10.png" group-title="财经频道",家庭理财
 http://192.168.190.1:4022/udp/239.45.1.107:5140
+#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="财经频道",第一财经
+http://192.168.190.1:4022/udp/239.45.3.111:5140
+#EXTINF:-1 tvg-id="东方财经" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/东方财经.jpeg" group-title="财经频道",东方财经
+http://192.168.190.1:4022/udp/239.45.1.119:5140
 #EXTINF:-1 tvg-id="" tvg-name="PP体育 " tvg-logo="http://www.tvyan.com/uploads/dianshi/pptiyu.jpg" group-title="咪咕视频",PP体育  FHD
 http://192.168.190.1:4022/udp/239.45.3.164:5140
 #EXTINF:-1 tvg-id="" tvg-name="一年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",一年级
