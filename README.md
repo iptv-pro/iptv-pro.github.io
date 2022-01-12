@@ -1960,9 +1960,13 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E6%97%85%E6%B8%B8%E5%8F%B0.png" width="100" height="50">|民视旅游台|https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E6%97%85%E6%B8%B8%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0.png" width="100" height="50">|民视第一台|https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0.png" width="100" height="50">|民视综艺台|https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E5%8A%A8%E7%89%A9%281%29.png" width="100" height="50">|求索动物(1)|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E5%8A%A8%E7%89%A9%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E5%8A%A8%E7%89%A9.png" width="100" height="50">|求索动物|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E5%8A%A8%E7%89%A9.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%94%9F%E6%B4%BB%281%29.png" width="100" height="50">|求索生活(1)|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%94%9F%E6%B4%BB%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%94%9F%E6%B4%BB.png" width="100" height="50">|求索生活|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%94%9F%E6%B4%BB.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%A7%91%E5%AD%A6%281%29.png" width="100" height="50">|求索科学(1)|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%A7%91%E5%AD%A6%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%A7%91%E5%AD%A6.png" width="100" height="50">|求索科学|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%A7%91%E5%AD%A6.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95%281%29.png" width="100" height="50">|求索纪录(1)|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" width="100" height="50">|求索纪录|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-1.png" width="100" height="50">|汉中-1|https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-1.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-2.png" width="100" height="50">|汉中-2|https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-2.png|
