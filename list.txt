@@ -1128,6 +1128,7 @@ ihot6,https://iptv-pro.github.io/logo/ihot6.png
 ihot7,https://iptv-pro.github.io/logo/ihot7.png
 ihot8,https://iptv-pro.github.io/logo/ihot8.png
 ihot9,https://iptv-pro.github.io/logo/ihot9.png
+image,https://iptv-pro.github.io/logo/image.png
 iptvdy,https://iptv-pro.github.io/logo/iptvdy.png
 iptvyy,https://iptv-pro.github.io/logo/iptvyy.png
 jbty,https://iptv-pro.github.io/logo/jbty.png
@@ -1716,6 +1717,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 咪咕4k,https://iptv-pro.github.io/logo/%E5%92%AA%E5%92%954k.png
 咪咕体育,https://iptv-pro.github.io/logo/%E5%92%AA%E5%92%95%E4%BD%93%E8%82%B2.png
 哈哈炫动,https://iptv-pro.github.io/logo/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png
+哒啵赛事,https://iptv-pro.github.io/logo/%E5%93%92%E5%95%B5%E8%B5%9B%E4%BA%8B.png
 唯心电视台,https://iptv-pro.github.io/logo/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86%E5%8F%B0.png
 嘉佳卡通,https://iptv-pro.github.io/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png
 嘉定电视台,https://iptv-pro.github.io/logo/%E5%98%89%E5%AE%9A%E7%94%B5%E8%A7%86%E5%8F%B0.png
@@ -2152,7 +2154,9 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 高点综合,https://iptv-pro.github.io/logo/%E9%AB%98%E7%82%B9%E7%BB%BC%E5%90%88.png
 魅力足球,https://iptv-pro.github.io/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png
 黄河电视台,https://iptv-pro.github.io/logo/%E9%BB%84%E6%B2%B3%E7%94%B5%E8%A7%86%E5%8F%B0.png
+黑莓动画(1),https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB%281%29.png
 黑莓动画,https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png
+黑莓电影(1),https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1%281%29.png
 黑莓电影,https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png
 黑莓电竞,https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E7%AB%9E.png
 黑龙江卫视,https://iptv-pro.github.io/logo/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png
