@@ -575,7 +575,9 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/NHK%20World%20Premium.png" width="100" height="50">|NHK World Premium|https://iptv-pro.github.io/logo/NHK%20World%20Premium.png|
 |<img src="https://iptv-pro.github.io/logo/NHK%20World.png" width="100" height="50">|NHK World|https://iptv-pro.github.io/logo/NHK%20World.png|
 |<img src="https://iptv-pro.github.io/logo/NHKChinese.png" width="100" height="50">|NHKChinese|https://iptv-pro.github.io/logo/NHKChinese.png|
+|<img src="https://iptv-pro.github.io/logo/NHK%E6%95%99%E8%82%B2.png" width="100" height="50">|NHK教育|https://iptv-pro.github.io/logo/NHK%E6%95%99%E8%82%B2.png|
 |<img src="https://iptv-pro.github.io/logo/NHK%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E5%8F%B0.png" width="100" height="50">|NHK新闻资讯台|https://iptv-pro.github.io/logo/NHK%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E5%8F%B0.png|
+|<img src="https://iptv-pro.github.io/logo/NHK%E7%BB%BC%E5%90%88.png" width="100" height="50">|NHK综合|https://iptv-pro.github.io/logo/NHK%E7%BB%BC%E5%90%88.png|
 |<img src="https://iptv-pro.github.io/logo/NJOI%20TV.png" width="100" height="50">|NJOI TV|https://iptv-pro.github.io/logo/NJOI%20TV.png|
 |<img src="https://iptv-pro.github.io/logo/NOW%20TV.png" width="100" height="50">|NOW TV|https://iptv-pro.github.io/logo/NOW%20TV.png|
 |<img src="https://iptv-pro.github.io/logo/NOW%E6%96%B0%E9%97%BB.png" width="100" height="50">|NOW新闻|https://iptv-pro.github.io/logo/NOW%E6%96%B0%E9%97%BB.png|
@@ -1143,7 +1145,6 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/ihot7.png" width="100" height="50">|ihot7|https://iptv-pro.github.io/logo/ihot7.png|
 |<img src="https://iptv-pro.github.io/logo/ihot8.png" width="100" height="50">|ihot8|https://iptv-pro.github.io/logo/ihot8.png|
 |<img src="https://iptv-pro.github.io/logo/ihot9.png" width="100" height="50">|ihot9|https://iptv-pro.github.io/logo/ihot9.png|
-|<img src="https://iptv-pro.github.io/logo/image.png" width="100" height="50">|image|https://iptv-pro.github.io/logo/image.png|
 |<img src="https://iptv-pro.github.io/logo/iptvdy.png" width="100" height="50">|iptvdy|https://iptv-pro.github.io/logo/iptvdy.png|
 |<img src="https://iptv-pro.github.io/logo/iptvyy.png" width="100" height="50">|iptvyy|https://iptv-pro.github.io/logo/iptvyy.png|
 |<img src="https://iptv-pro.github.io/logo/jbty.png" width="100" height="50">|jbty|https://iptv-pro.github.io/logo/jbty.png|

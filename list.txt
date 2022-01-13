@@ -560,7 +560,9 @@ NHK WORLD-JAPAN,https://iptv-pro.github.io/logo/NHK%20WORLD-JAPAN.png
 NHK World Premium,https://iptv-pro.github.io/logo/NHK%20World%20Premium.png
 NHK World,https://iptv-pro.github.io/logo/NHK%20World.png
 NHKChinese,https://iptv-pro.github.io/logo/NHKChinese.png
+NHK教育,https://iptv-pro.github.io/logo/NHK%E6%95%99%E8%82%B2.png
 NHK新闻资讯台,https://iptv-pro.github.io/logo/NHK%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E5%8F%B0.png
+NHK综合,https://iptv-pro.github.io/logo/NHK%E7%BB%BC%E5%90%88.png
 NJOI TV,https://iptv-pro.github.io/logo/NJOI%20TV.png
 NOW TV,https://iptv-pro.github.io/logo/NOW%20TV.png
 NOW新闻,https://iptv-pro.github.io/logo/NOW%E6%96%B0%E9%97%BB.png
@@ -1128,7 +1130,6 @@ ihot6,https://iptv-pro.github.io/logo/ihot6.png
 ihot7,https://iptv-pro.github.io/logo/ihot7.png
 ihot8,https://iptv-pro.github.io/logo/ihot8.png
 ihot9,https://iptv-pro.github.io/logo/ihot9.png
-image,https://iptv-pro.github.io/logo/image.png
 iptvdy,https://iptv-pro.github.io/logo/iptvdy.png
 iptvyy,https://iptv-pro.github.io/logo/iptvyy.png
 jbty,https://iptv-pro.github.io/logo/jbty.png
