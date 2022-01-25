@@ -282,7 +282,7 @@ http://192.168.190.1:4022/udp/239.45.3.64:5140
 #EXTINF:-1 tvg-id="" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场
 http://192.168.190.1:4022/udp/239.45.1.4:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://iptv-pro.github.io/logo/CCTV-16.png" group-title="4K",CCTV-16奥林匹克 4K
-http://192.168.190.1:4022/udp/239.45.1.106:5140
+http://192.168.190.1:4022/udp/239.45.0.12:5140
 #EXTINF:-1 tvg-id="" tvg-name="百事通4K电影" tvg-logo="https://iptv-pro.github.io/logo/BesTV4K.png" group-title="4K",百事通4K电影
 http://192.168.190.1:4022/udp/239.45.1.9:5140
 #EXTINF:-1 tvg-id="" tvg-name="百事通4K纪实" tvg-logo="https://iptv-pro.github.io/logo/BesTV4K.png" group-title="4K",百事通4K纪实
