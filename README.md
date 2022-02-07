@@ -213,6 +213,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/CCTV7.png" width="100" height="50">|CCTV7|https://iptv-pro.github.io/logo/CCTV7.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV7%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png" width="100" height="50">|CCTV7国防军事|https://iptv-pro.github.io/logo/CCTV7%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV8.png" width="100" height="50">|CCTV8|https://iptv-pro.github.io/logo/CCTV8.png|
+|<img src="https://iptv-pro.github.io/logo/CCTV8K.png" width="100" height="50">|CCTV8K|https://iptv-pro.github.io/logo/CCTV8K.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV8%E7%94%B5%E8%A7%86%E5%89%A7.png" width="100" height="50">|CCTV8电视剧|https://iptv-pro.github.io/logo/CCTV8%E7%94%B5%E8%A7%86%E5%89%A7.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV9.png" width="100" height="50">|CCTV9|https://iptv-pro.github.io/logo/CCTV9.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV9%E7%BA%AA%E5%BD%95.png" width="100" height="50">|CCTV9纪录|https://iptv-pro.github.io/logo/CCTV9%E7%BA%AA%E5%BD%95.png|
