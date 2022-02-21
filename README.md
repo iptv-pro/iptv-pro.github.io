@@ -152,6 +152,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/CCTV-6.png" width="100" height="50">|CCTV-6|https://iptv-pro.github.io/logo/CCTV-6.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-7.png" width="100" height="50">|CCTV-7|https://iptv-pro.github.io/logo/CCTV-7.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-8.png" width="100" height="50">|CCTV-8|https://iptv-pro.github.io/logo/CCTV-8.png|
+|<img src="https://iptv-pro.github.io/logo/CCTV-8K.png" width="100" height="50">|CCTV-8K|https://iptv-pro.github.io/logo/CCTV-8K.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-9.png" width="100" height="50">|CCTV-9|https://iptv-pro.github.io/logo/CCTV-9.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" width="100" height="50">|CCTV-世界地理|https://iptv-pro.github.io/logo/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png|
 |<img src="https://iptv-pro.github.io/logo/CCTV-%E4%B8%AD%E5%AD%A6%E7%94%9F.png" width="100" height="50">|CCTV-中学生|https://iptv-pro.github.io/logo/CCTV-%E4%B8%AD%E5%AD%A6%E7%94%9F.png|
@@ -1973,6 +1974,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%A7%91%E5%AD%A6.png" width="100" height="50">|求索科学|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%A7%91%E5%AD%A6.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95%281%29.png" width="100" height="50">|求索纪录(1)|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95%281%29.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" width="100" height="50">|求索纪录|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%954K.png" width="100" height="50">|求索纪录4K|https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%954K.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-1.png" width="100" height="50">|汉中-1|https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-1.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-2.png" width="100" height="50">|汉中-2|https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-2.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-3.png" width="100" height="50">|汉中-3|https://iptv-pro.github.io/logo/%E6%B1%89%E4%B8%AD-3.png|
