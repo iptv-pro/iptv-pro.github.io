@@ -243,7 +243,7 @@ http://192.168.190.1:4022/udp/239.45.3.131:5140
 http://192.168.190.1:4022/udp/239.45.3.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",MAX极速汽车 FHD
 http://192.168.190.1:4022/udp/239.45.3.49:5140
-#EXTINF:-1 tvg-id="" tvg-name="金色学堂 " tvg-logo="http://www.tvyan.com/uploads/dianshi/jingshexuetang.jpg" group-title="上海",金色学堂  FHD
+#EXTINF:-1 tvg-id="" tvg-name="金色学堂 " tvg-logo="https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="上海",金色学堂  FHD
 http://192.168.190.1:4022/udp/239.45.0.9:5140
 #EXTINF:-1 tvg-id="" tvg-name="崇明电视台 " tvg-logo="https://iptv-pro.github.io/logo/%E5%B4%87%E6%98%8E%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="上海",崇明电视台  FHD
 http://192.168.190.1:4022/udp/239.45.1.54:5140
@@ -251,7 +251,7 @@ http://192.168.190.1:4022/udp/239.45.1.54:5140
 http://192.168.190.1:4022/udp/239.45.1.40:5140
 #EXTINF:-1 tvg-id="" tvg-name="嘉定电视台" tvg-logo="https://iptv-pro.github.io/logo/%E5%98%89%E5%AE%9A%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="上海",嘉定电视台
 http://192.168.190.1:4022/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="http://www.tvyan.com/uploads/dianshi/jingshexuetang.jpg" group-title="上海",金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="金色学堂 " tvg-logo="https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="上海",金色学堂
 http://192.168.190.1:4022/udp/239.45.1.118:5140
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="上海",东方财经
 http://192.168.190.1:4022/udp/239.45.1.119:5140
