@@ -614,6 +614,7 @@ NewTV超级电视剧,https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%
 NewTV超级综艺,https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png
 NewTV金牌综艺,https://iptv-pro.github.io/logo/NewTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png
 NewTV魅力潇湘,https://iptv-pro.github.io/logo/NewTV%E9%AD%85%E5%8A%9B%E6%BD%87%E6%B9%98.png
+NewTV黑龙江,https://iptv-pro.github.io/logo/NewTV%E9%BB%91%E9%BE%99%E6%B1%9F.png
 Nice TV 靖天欢乐台,https://iptv-pro.github.io/logo/Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90%E5%8F%B0.png
 Nick Jr. 儿童频道,https://iptv-pro.github.io/logo/Nick%20Jr.%20%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93.png
 Nick Jr.,https://iptv-pro.github.io/logo/Nick%20Jr..png
@@ -2111,6 +2112,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 重庆国际,https://iptv-pro.github.io/logo/%E9%87%8D%E5%BA%86%E5%9B%BD%E9%99%85.png
 重庆汽摩频道,https://iptv-pro.github.io/logo/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9%E9%A2%91%E9%81%93.png
 金光布袋戏,https://iptv-pro.github.io/logo/%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%8F.png
+金色学堂,https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png
 金色频道,https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E9%A2%91%E9%81%93.png
 金色频道HD,https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E9%A2%91%E9%81%93HD.png
 金鹰卡通,https://iptv-pro.github.io/logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png
