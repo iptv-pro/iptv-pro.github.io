@@ -503,6 +503,7 @@ IPTV经典电影,https://iptv-pro.github.io/logo/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5
 IPTV魅力时尚,https://iptv-pro.github.io/logo/IPTV%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A.png
 IP电影,https://iptv-pro.github.io/logo/IP%E7%94%B5%E5%BD%B1.png
 JAZZ,https://iptv-pro.github.io/logo/JAZZ.png
+JStar极限电影台,https://iptv-pro.github.io/logo/JStar%E6%9E%81%E9%99%90%E7%94%B5%E5%BD%B1%E5%8F%B0.png
 KBS World,https://iptv-pro.github.io/logo/KBS%20World.png
 KBS1,https://iptv-pro.github.io/logo/KBS1.png
 KBS2,https://iptv-pro.github.io/logo/KBS2.png
@@ -516,6 +517,7 @@ KBSWorld,https://iptv-pro.github.io/logo/KBSWorld.png
 KENYALANG,https://iptv-pro.github.io/logo/KENYALANG.png
 KIX,https://iptv-pro.github.io/logo/KIX.png
 KLT-靖天国际台,https://iptv-pro.github.io/logo/KLT-%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0.png
+K频道,https://iptv-pro.github.io/logo/K%E9%A2%91%E9%81%93.png
 LITE FM,https://iptv-pro.github.io/logo/LITE%20FM.png
 LOOKHD,https://iptv-pro.github.io/logo/LOOKHD.png
 LOVE NATURE,https://iptv-pro.github.io/logo/LOVE%20NATURE.png
@@ -1278,6 +1280,8 @@ onstyle,https://iptv-pro.github.io/logo/onstyle.png
 otvn,https://iptv-pro.github.io/logo/otvn.png
 panda,https://iptv-pro.github.io/logo/panda.png
 panyu,https://iptv-pro.github.io/logo/panyu.png
+penthousegold,https://iptv-pro.github.io/logo/penthousegold.png
+penthousepassion,https://iptv-pro.github.io/logo/penthousepassion.png
 playboy,https://iptv-pro.github.io/logo/playboy.png
 pzhtv,https://iptv-pro.github.io/logo/pzhtv.png
 pzzh,https://iptv-pro.github.io/logo/pzzh.png
@@ -1880,6 +1884,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 影迷数位纪实台,https://iptv-pro.github.io/logo/%E5%BD%B1%E8%BF%B7%E6%95%B0%E4%BD%8D%E7%BA%AA%E5%AE%9E%E5%8F%B0.png
 德国之声电视台,https://iptv-pro.github.io/logo/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E7%94%B5%E8%A7%86%E5%8F%B0.png
 快乐垂钓,https://iptv-pro.github.io/logo/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png
+惊艳台,https://iptv-pro.github.io/logo/%E6%83%8A%E8%89%B3%E5%8F%B0.png
 成人极品台,https://iptv-pro.github.io/logo/%E6%88%90%E4%BA%BA%E6%9E%81%E5%93%81%E5%8F%B0.png
 成人节目资讯,https://iptv-pro.github.io/logo/%E6%88%90%E4%BA%BA%E8%8A%82%E7%9B%AE%E8%B5%84%E8%AE%AF.png
 成都公共,https://iptv-pro.github.io/logo/%E6%88%90%E9%83%BD%E5%85%AC%E5%85%B1.png
@@ -1937,6 +1942,10 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 杭州生活,https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E7%94%9F%E6%B4%BB.png
 杭州西湖明珠频道,https://iptv-pro.github.io/logo/%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E6%98%8E%E7%8F%A0%E9%A2%91%E9%81%93.png
 松江电视台,https://iptv-pro.github.io/logo/%E6%9D%BE%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png
+松视1台,https://iptv-pro.github.io/logo/%E6%9D%BE%E8%A7%861%E5%8F%B0.png
+松视2台,https://iptv-pro.github.io/logo/%E6%9D%BE%E8%A7%862%E5%8F%B0.png
+松视3台,https://iptv-pro.github.io/logo/%E6%9D%BE%E8%A7%863%E5%8F%B0.png
+松视4台,https://iptv-pro.github.io/logo/%E6%9D%BE%E8%A7%864%E5%8F%B0.png
 极速汽车,https://iptv-pro.github.io/logo/%E6%9E%81%E9%80%9F%E6%B1%BD%E8%BD%A6.png
 梨园频道,https://iptv-pro.github.io/logo/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png
 榕江电视台,https://iptv-pro.github.io/logo/%E6%A6%95%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png
