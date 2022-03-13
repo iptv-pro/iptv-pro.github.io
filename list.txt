@@ -407,12 +407,12 @@ Food Network,https://iptv-pro.github.io/logo/Food%20Network.png
 Food,https://iptv-pro.github.io/logo/Food.png
 Fox News,https://iptv-pro.github.io/logo/Fox%20News.png
 Fox,https://iptv-pro.github.io/logo/Fox.png
+Fox2 News,https://iptv-pro.github.io/logo/Fox2%20News.png
 FoxActionMovies,https://iptv-pro.github.io/logo/FoxActionMovies.png
 FoxCrime,https://iptv-pro.github.io/logo/FoxCrime.png
 FoxFamilyMovies,https://iptv-pro.github.io/logo/FoxFamilyMovies.png
 FoxLife,https://iptv-pro.github.io/logo/FoxLife.png
 FoxMovies,https://iptv-pro.github.io/logo/FoxMovies.png
-FoxNews,https://iptv-pro.github.io/logo/FoxNews.png
 FoxSports,https://iptv-pro.github.io/logo/FoxSports.png
 FoxSports2,https://iptv-pro.github.io/logo/FoxSports2.png
 FoxSports3,https://iptv-pro.github.io/logo/FoxSports3.png

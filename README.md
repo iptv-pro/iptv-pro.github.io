@@ -422,12 +422,12 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/Food.png" width="100" height="50">|Food|https://iptv-pro.github.io/logo/Food.png|
 |<img src="https://iptv-pro.github.io/logo/Fox%20News.png" width="100" height="50">|Fox News|https://iptv-pro.github.io/logo/Fox%20News.png|
 |<img src="https://iptv-pro.github.io/logo/Fox.png" width="100" height="50">|Fox|https://iptv-pro.github.io/logo/Fox.png|
+|<img src="https://iptv-pro.github.io/logo/Fox2%20News.png" width="100" height="50">|Fox2 News|https://iptv-pro.github.io/logo/Fox2%20News.png|
 |<img src="https://iptv-pro.github.io/logo/FoxActionMovies.png" width="100" height="50">|FoxActionMovies|https://iptv-pro.github.io/logo/FoxActionMovies.png|
 |<img src="https://iptv-pro.github.io/logo/FoxCrime.png" width="100" height="50">|FoxCrime|https://iptv-pro.github.io/logo/FoxCrime.png|
 |<img src="https://iptv-pro.github.io/logo/FoxFamilyMovies.png" width="100" height="50">|FoxFamilyMovies|https://iptv-pro.github.io/logo/FoxFamilyMovies.png|
 |<img src="https://iptv-pro.github.io/logo/FoxLife.png" width="100" height="50">|FoxLife|https://iptv-pro.github.io/logo/FoxLife.png|
 |<img src="https://iptv-pro.github.io/logo/FoxMovies.png" width="100" height="50">|FoxMovies|https://iptv-pro.github.io/logo/FoxMovies.png|
-|<img src="https://iptv-pro.github.io/logo/FoxNews.png" width="100" height="50">|FoxNews|https://iptv-pro.github.io/logo/FoxNews.png|
 |<img src="https://iptv-pro.github.io/logo/FoxSports.png" width="100" height="50">|FoxSports|https://iptv-pro.github.io/logo/FoxSports.png|
 |<img src="https://iptv-pro.github.io/logo/FoxSports2.png" width="100" height="50">|FoxSports2|https://iptv-pro.github.io/logo/FoxSports2.png|
 |<img src="https://iptv-pro.github.io/logo/FoxSports3.png" width="100" height="50">|FoxSports3|https://iptv-pro.github.io/logo/FoxSports3.png|
