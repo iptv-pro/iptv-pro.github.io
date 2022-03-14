@@ -398,7 +398,7 @@ FOXlife,https://iptv-pro.github.io/logo/FOXlife.png
 FOX频道,https://iptv-pro.github.io/logo/FOX%E9%A2%91%E9%81%93.png
 FRANCE24(English),https://iptv-pro.github.io/logo/FRANCE24%28English%29.png
 FRANCE24(French),https://iptv-pro.github.io/logo/FRANCE24%28French%29.png
-FTV足球频道,https://iptv-pro.github.io/logo/FTV%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93.webp
+FTV足球频道,https://iptv-pro.github.io/logo/FTV%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93.png
 FX,https://iptv-pro.github.io/logo/FX.png
 Fashion One,https://iptv-pro.github.io/logo/Fashion%20One.png
 First Moives,https://iptv-pro.github.io/logo/First%20Moives.png
@@ -2107,6 +2107,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 西藏藏语,https://iptv-pro.github.io/logo/%E8%A5%BF%E8%97%8F%E8%97%8F%E8%AF%AD.png
 视纳华仁纪实台,https://iptv-pro.github.io/logo/%E8%A7%86%E7%BA%B3%E5%8D%8E%E4%BB%81%E7%BA%AA%E5%AE%9E%E5%8F%B0.png
 视纳华仁纪实频道,https://iptv-pro.github.io/logo/%E8%A7%86%E7%BA%B3%E5%8D%8E%E4%BB%81%E7%BA%AA%E5%AE%9E%E9%A2%91%E9%81%93.png
+财富天下,https://iptv-pro.github.io/logo/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png
 贵州1,https://iptv-pro.github.io/logo/%E8%B4%B5%E5%B7%9E1.png
 贵州2,https://iptv-pro.github.io/logo/%E8%B4%B5%E5%B7%9E2.png
 贵州卫视,https://iptv-pro.github.io/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png
