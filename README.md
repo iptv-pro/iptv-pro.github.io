@@ -2107,6 +2107,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E7%BA%AF%E4%BA%AB4K%E8%B6%85%E9%AB%98%E6%B8%85.png" width="100" height="50">|纯享4K超高清|https://iptv-pro.github.io/logo/%E7%BA%AF%E4%BA%AB4K%E8%B6%85%E9%AB%98%E6%B8%85.png|
 |<img src="https://iptv-pro.github.io/logo/%E7%BB%8F%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0.png" width="100" height="50">|经典卡通台|https://iptv-pro.github.io/logo/%E7%BB%8F%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E5%8F%B0.png" width="100" height="50">|经典电影台|https://iptv-pro.github.io/logo/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E5%8F%B0.png|
+|<img src="https://iptv-pro.github.io/logo/%E7%BB%9A%E5%BD%B14K.png" width="100" height="50">|绚影4K|https://iptv-pro.github.io/logo/%E7%BB%9A%E5%BD%B14K.png|
 |<img src="https://iptv-pro.github.io/logo/%E7%BD%AA%E6%A1%88%E4%BE%A6%E7%BC%89%E9%A2%91%E9%81%93.png" width="100" height="50">|罪案侦缉频道|https://iptv-pro.github.io/logo/%E7%BD%AA%E6%A1%88%E4%BE%A6%E7%BC%89%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0.png" width="100" height="50">|美亚电影台|https://iptv-pro.github.io/logo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E7%BE%8E%E4%BA%BA%E9%A2%91%E9%81%93.png" width="100" height="50">|美人频道|https://iptv-pro.github.io/logo/%E7%BE%8E%E4%BA%BA%E9%A2%91%E9%81%93.png|
