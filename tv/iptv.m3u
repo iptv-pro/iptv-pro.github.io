@@ -317,27 +317,27 @@ http://192.168.190.1:4022/udp/239.45.3.111:5140
 http://192.168.190.1:4022/udp/239.45.1.119:5140
 #EXTINF:-1 tvg-id="" tvg-name="PP体育 " tvg-logo="http://www.tvyan.com/uploads/dianshi/pptiyu.jpg" group-title="咪咕视频",PP体育 FHD
 #http://192.168.190.1:4022/udp/239.45.3.164:5140
-#EXTINF:-1 tvg-id="" tvg-name="一年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",一年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂一年级" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/94/20210616093758091wuh.jpg" group-title="空中课堂",一年级
 http://192.168.190.1:4022/udp/239.45.1.28:5140
-#EXTINF:-1 tvg-id="" tvg-name="二年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",二年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂二年级" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/68/202106160938480905qb.jpg" group-title="空中课堂",二年级
 http://192.168.190.1:4022/udp/239.45.1.29:5140
-#EXTINF:-1 tvg-id="" tvg-name="三年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",三年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂三年级" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/25/2021061609402318693s.jpg" group-title="空中课堂",三年级
 http://192.168.190.1:4022/udp/239.45.1.30:5140
-#EXTINF:-1 tvg-id="" tvg-name="四年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",四年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂四年级" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/70/20210616094108410for.jpg" group-title="空中课堂",四年级
 http://192.168.190.1:4022/udp/239.45.1.31:5140
-#EXTINF:-1 tvg-id="" tvg-name="五年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",五年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂五年级" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/14/20210616094158246m8m.jpg" group-title="空中课堂",五年级
 http://192.168.190.1:4022/udp/239.45.1.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="六年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",六年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂六年级" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/48/20210616094218247zti.jpg" group-title="空中课堂",六年级
 http://192.168.190.1:4022/udp/239.45.1.33:5140
-#EXTINF:-1 tvg-id="" tvg-name="七年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",七年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂七年级" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/44/20210616094303313fa1.jpg" group-title="空中课堂",七年级
 http://192.168.190.1:4022/udp/239.45.1.34:5140
-#EXTINF:-1 tvg-id="" tvg-name="八年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",八年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂八年级" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/65/20210616094333087q2k.jpg" group-title="空中课堂",八年级
 http://192.168.190.1:4022/udp/239.45.1.35:5140
-#EXTINF:-1 tvg-id="" tvg-name="九年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",九年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂九年级" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/45/20210616094403086jbz.jpg" group-title="空中课堂",九年级
 http://192.168.190.1:4022/udp/239.45.1.36:5140
-#EXTINF:-1 tvg-id="" tvg-name="高一年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",高一年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂高一" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/90/202106160945131087x3.jpg" group-title="空中课堂",高一年级
 http://192.168.190.1:4022/udp/239.45.1.37:5140
-#EXTINF:-1 tvg-id="" tvg-name="高二年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",高二年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂高二" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/77/202106160946180912ob.jpg" group-title="空中课堂",高二年级
 http://192.168.190.1:4022/udp/239.45.1.38:5140
-#EXTINF:-1 tvg-id="" tvg-name="高三年级" tvg-logo="https://iptv-pro.github.io/logo/bestv1.png" group-title="空中课堂",高三年级
+#EXTINF:-1 tvg-id="" tvg-name="空中课堂高三" tvg-logo="http://image.aikan.miguvideo.com/CPS/images/universal/film/logo/202106/20210616/22/20210616094712961raf.jpg" group-title="空中课堂",高三年级
 http://192.168.190.1:4022/udp/239.45.1.39:5140
