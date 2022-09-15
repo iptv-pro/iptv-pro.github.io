@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合 FHD
 http://192.168.190.1:4022/udp/239.45.3.145:5140
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合 FHD
+http://192.168.190.1:4022/udp/239.45.0.18:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经 FHD
 http://192.168.190.1:4022/udp/239.45.0.1:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺 FHD
@@ -21,8 +23,12 @@ http://192.168.190.1:4022/udp/239.45.3.4:5140
 http://192.168.190.1:4022/udp/239.45.3.8:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法 FHD
 http://192.168.190.1:4022/udp/239.45.3.10:5140
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻 FHD
+http://192.168.190.1:4022/udp/239.45.0.19:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿 FHD
 http://192.168.190.1:4022/udp/239.45.3.23:5140
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐 FHD
+http://192.168.190.1:4022/udp/239.45.0.20:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://iptv-pro.github.io/logo/CCTV-16.png" group-title="央视",CCTV-16奥林匹克 FHD
 http://192.168.190.1:4022/udp/239.45.0.11:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业 FHD
@@ -200,7 +206,7 @@ http://192.168.190.1:4022/udp/239.45.1.51:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="教育台",教育2台
 http://192.168.190.1:4022/udp/239.45.1.52:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="教育台",教育4台 FHD
-http://192.168.190.1:4022/udp/239.45.1.22:5140
+http://192.168.190.1:4022/udp/239.45.0.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="教育台",教育4台
 http://192.168.190.1:4022/udp/239.45.1.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="上海教育电视台" tvg-logo="https://iptv-pro.github.io/logo/上海教育电视台.png" group-title="教育台",上海教育电视台 FHD
@@ -252,7 +258,9 @@ http://192.168.190.1:4022/udp/239.45.0.9:5140
 #EXTINF:-1 tvg-id="" tvg-name="崇明电视台 " tvg-logo="https://iptv-pro.github.io/logo/%E5%B4%87%E6%98%8E%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="上海",崇明电视台 FHD
 http://192.168.190.1:4022/udp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧 FHD
-http://192.168.190.1:4022/udp/239.45.1.21:5140
+http://192.168.190.1:4022/udp/239.45.0.16:5140
+#EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="上海",东方财经 FHD
+http://192.168.190.1:4022/udp/239.45.0.17:5140
 #EXTINF:-1 tvg-id="" tvg-name="松江电视台" tvg-logo="https://iptv-pro.github.io/logo/%E6%9D%BE%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="上海",松江电视台
 http://192.168.190.1:4022/udp/239.45.1.40:5140
 #EXTINF:-1 tvg-id="" tvg-name="嘉定电视台" tvg-logo="https://iptv-pro.github.io/logo/%E5%98%89%E5%AE%9A%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="上海",嘉定电视台
@@ -307,6 +315,10 @@ http://192.168.190.1:4022/udp/239.45.1.107:5140
 http://192.168.190.1:4022/udp/239.45.1.108:5140
 #EXTINF:-1 tvg-id="" tvg-name="BesTV4K" tvg-logo="https://iptv-pro.github.io/logo/BesTV.png" group-title="BesTV",BesTV4K 测试
 http://192.168.190.1:4022/udp/239.45.1.109:5140
+#EXTINF:-1 tvg-id="" tvg-name="BesTV4K" tvg-logo="https://iptv-pro.github.io/logo/BesTV.png" group-title="BesTV",BesTV4K 测试
+http://192.168.190.1:4022/udp/239.45.1.22:5140
+#EXTINF:-1 tvg-id="" tvg-name="BesTV4K" tvg-logo="https://iptv-pro.github.io/logo/BesTV.png" group-title="BesTV",BesTV4K 测试
+http://192.168.190.1:4022/udp/239.45.1.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png" group-title="财经频道",家庭理财
 http://192.168.190.1:4022/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png" group-title="财经频道",家庭理财
