@@ -244,7 +244,7 @@ http://192.168.190.1:4022/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场 " tvg-logo="https://iptv-pro.github.io/logo/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="上海",动漫秀场 FHD
 http://192.168.190.1:4022/udp/239.45.3.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实 FHD
-http://192.168.190.1:4022/udp/239.45.3.135:5140
+#http://192.168.190.1:4022/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚 FHD
 http://192.168.190.1:4022/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云 FHD
