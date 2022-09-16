@@ -229,7 +229,7 @@ http://192.168.190.1:4022/udp/239.45.3.211:5140
 http://192.168.190.1:4022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动 FHD
 http://192.168.190.1:4022/udp/239.45.1.55:5140
-#EXTINF:-1 tvg-id="" tvg-name="乐游" tvg-logo="https://iptv-pro.github.io/logo/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="上海",乐游 FHD
+#EXTINF:-1 tvg-id="" tvg-name="乐游" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P512164S50-L.jpg" group-title="上海",乐游 FHD
 http://192.168.190.1:4022/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="https://iptv-pro.github.io/logo/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="上海",都市剧场 FHD
 http://192.168.190.1:4022/udp/239.45.3.136:5140
