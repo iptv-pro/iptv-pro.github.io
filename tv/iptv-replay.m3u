@@ -11,6 +11,14 @@ rtsp://124.75.34.37/PLTV/88888888/224/3221226366/1000010000000006000000000271868
 rtsp://124.75.34.37/PLTV/88888888/224/3221226391/10000100000000060000000002718687_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录 FHD
 rtsp://124.75.34.37/PLTV/88888888/224/0/3221225640/000000001suk.smil
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲 FHD
+rtsp://124.75.35.17:554/PLTV/88888888/224/3221226493/10000100000000060000000004084470_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻 FHD
+rtsp://124.75.35.18:554/PLTV/88888888/224/3221226474/10000100000000060000000004084471_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐 FHD
+rtsp://124.75.35.17:554/PLTV/88888888/224/3221226495/10000100000000060000000004084472_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧 FHD
+rtsp://124.75.35.17:554/PLTV/88888888/224/3221226491/10000100000000060000000004084468_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 rtsp://124.75.34.37/PLTV/88888888/224/3221226079/00000100000000060000000000000305_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
@@ -145,6 +153,8 @@ rtsp://124.75.34.37/PLTV/88888888/224/3221226249/1000010000000006000000000100595
 rtsp://124.75.34.37/PLTV/88888888/224/3221226321/10000100000000060000000002340601_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",MAX极速汽车 FHD
 rtsp://124.75.34.37/PLTV/88888888/224/3221226323/10000100000000060000000002340613_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="上海",东方财经 FHD
+rtsp://124.75.34.37/PLTV/88888888/224/3221226472/10000100000000060000000004084469_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="http://www.tvyan.com/uploads/dianshi/jingshexuetang.jpg" group-title="上海",金色学堂
 rtsp://124.75.34.37/PLTV/88888888/224/3221226334/10000100000000060000000002544041_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="上海",东方财经
@@ -165,11 +175,13 @@ rtsp://124.75.34.37/PLTV/88888888/224/3221226107/0000010000000006000000000002237
 rtsp://124.75.34.37/PLTV/88888888/224/3221226077/00000100000000060000000000000293_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语频道
 rtsp://124.75.34.37/PLTV/88888888/224/3221226097/00000100000000060000000000007696_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="上海教育电视台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="上海",上海教育电视台
-rtsp://124.75.34.37/PLTV/88888888/224/3221226088/00000100000000060000000000007667_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
 rtsp://124.75.34.37/PLTV/88888888/224/3221226347/10000100000000060000000002544035_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://iptv-pro.github.io/logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="上海",法治天地
 rtsp://124.75.34.37/PLTV/88888888/224/3221226162/00000100000000060000000000087194_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 rtsp://124.75.34.37/PLTV/88888888/224/0/3221225478/00000000010t.smil
+#EXTINF:-1 tvg-id="" tvg-name="上海教育电视台" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="教育台",上海教育电视台
+rtsp://124.75.34.37/PLTV/88888888/224/3221226088/00000100000000060000000000007667_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="教育台",教育4台 FHD
+rtsp://124.75.35.18:554/PLTV/88888888/224/3221226476/10000100000000060000000004084473_0.smi
