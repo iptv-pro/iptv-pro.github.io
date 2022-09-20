@@ -125,6 +125,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/C%2B%E9%A2%91%E9%81%93.jpg" width="100" height="50">|C+频道|https://iptv-pro.github.io/logo/C%2B%E9%A2%91%E9%81%93.jpg|
 |<img src="https://iptv-pro.github.io/logo/CATCHPLAY%20Beyond.png" width="100" height="50">|CATCHPLAY Beyond|https://iptv-pro.github.io/logo/CATCHPLAY%20Beyond.png|
 |<img src="https://iptv-pro.github.io/logo/CATCHPLAY%E7%94%B5%E5%BD%B1%E5%8F%B0.png" width="100" height="50">|CATCHPLAY电影台|https://iptv-pro.github.io/logo/CATCHPLAY%E7%94%B5%E5%BD%B1%E5%8F%B0.png|
+|<img src="https://iptv-pro.github.io/logo/CBBC.png" width="100" height="50">|CBBC|https://iptv-pro.github.io/logo/CBBC.png|
 |<img src="https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%89%A7%E5%9C%BA.png" width="100" height="50">|CBN-幸福剧场|https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%89%A7%E5%9C%BA.png|
 |<img src="https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%A8%B1%E4%B9%90.png" width="100" height="50">|CBN-幸福娱乐|https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%A8%B1%E4%B9%90.png|
 |<img src="https://iptv-pro.github.io/logo/CBN-%E6%AF%8F%E6%97%A5%E5%BD%B1%E9%99%A2.png" width="100" height="50">|CBN-每日影院|https://iptv-pro.github.io/logo/CBN-%E6%AF%8F%E6%97%A5%E5%BD%B1%E9%99%A2.png|
