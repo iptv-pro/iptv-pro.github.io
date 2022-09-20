@@ -89,6 +89,8 @@ BLUE ANT Entertainment,https://iptv-pro.github.io/logo/BLUE%20ANT%20Entertainmen
 BOO,https://iptv-pro.github.io/logo/BOO.png
 BOOMERANG,https://iptv-pro.github.io/logo/BOOMERANG.png
 BSTV,https://iptv-pro.github.io/logo/BSTV.png
+BT Sport 1,https://iptv-pro.github.io/logo/BT%20Sport%201.png
+BT Sport 2,https://iptv-pro.github.io/logo/BT%20Sport%202.png
 BTV卡酷少儿,https://iptv-pro.github.io/logo/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png
 BTV影视,https://iptv-pro.github.io/logo/BTV%E5%BD%B1%E8%A7%86.png
 BTV文艺,https://iptv-pro.github.io/logo/BTV%E6%96%87%E8%89%BA.png

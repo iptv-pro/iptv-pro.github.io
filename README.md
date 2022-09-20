@@ -104,6 +104,8 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/BOO.png" width="100" height="50">|BOO|https://iptv-pro.github.io/logo/BOO.png|
 |<img src="https://iptv-pro.github.io/logo/BOOMERANG.png" width="100" height="50">|BOOMERANG|https://iptv-pro.github.io/logo/BOOMERANG.png|
 |<img src="https://iptv-pro.github.io/logo/BSTV.png" width="100" height="50">|BSTV|https://iptv-pro.github.io/logo/BSTV.png|
+|<img src="https://iptv-pro.github.io/logo/BT%20Sport%201.png" width="100" height="50">|BT Sport 1|https://iptv-pro.github.io/logo/BT%20Sport%201.png|
+|<img src="https://iptv-pro.github.io/logo/BT%20Sport%202.png" width="100" height="50">|BT Sport 2|https://iptv-pro.github.io/logo/BT%20Sport%202.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" width="100" height="50">|BTV卡酷少儿|https://iptv-pro.github.io/logo/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E5%BD%B1%E8%A7%86.png" width="100" height="50">|BTV影视|https://iptv-pro.github.io/logo/BTV%E5%BD%B1%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E6%96%87%E8%89%BA.png" width="100" height="50">|BTV文艺|https://iptv-pro.github.io/logo/BTV%E6%96%87%E8%89%BA.png|
