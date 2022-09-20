@@ -81,6 +81,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/Astro%20Vaanavil.png" width="100" height="50">|Astro Vaanavil|https://iptv-pro.github.io/logo/Astro%20Vaanavil.png|
 |<img src="https://iptv-pro.github.io/logo/Astro%20Vellithirai.png" width="100" height="50">|Astro Vellithirai|https://iptv-pro.github.io/logo/Astro%20Vellithirai.png|
 |<img src="https://iptv-pro.github.io/logo/Astro%20Vinmeen.png" width="100" height="50">|Astro Vinmeen|https://iptv-pro.github.io/logo/Astro%20Vinmeen.png|
+|<img src="https://iptv-pro.github.io/logo/Astro%20Wah%20Lai%20Toi.png" width="100" height="50">|Astro Wah Lai Toi|https://iptv-pro.github.io/logo/Astro%20Wah%20Lai%20Toi.png|
 |<img src="https://iptv-pro.github.io/logo/Astro%20Warna.png" width="100" height="50">|Astro Warna|https://iptv-pro.github.io/logo/Astro%20Warna.png|
 |<img src="https://iptv-pro.github.io/logo/Astro%20Xiao%20Tai%20Yang.png" width="100" height="50">|Astro Xiao Tai Yang|https://iptv-pro.github.io/logo/Astro%20Xiao%20Tai%20Yang.png|
 |<img src="https://iptv-pro.github.io/logo/Aura.png" width="100" height="50">|Aura|https://iptv-pro.github.io/logo/Aura.png|
@@ -1009,6 +1010,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/dztv1.png" width="100" height="50">|dztv1|https://iptv-pro.github.io/logo/dztv1.png|
 |<img src="https://iptv-pro.github.io/logo/dzzh.png" width="100" height="50">|dzzh|https://iptv-pro.github.io/logo/dzzh.png|
 |<img src="https://iptv-pro.github.io/logo/eGG%20Network.png" width="100" height="50">|eGG Network|https://iptv-pro.github.io/logo/eGG%20Network.png|
+|<img src="https://iptv-pro.github.io/logo/earthtv.png" width="100" height="50">|earthtv|https://iptv-pro.github.io/logo/earthtv.png|
 |<img src="https://iptv-pro.github.io/logo/ebs1.png" width="100" height="50">|ebs1|https://iptv-pro.github.io/logo/ebs1.png|
 |<img src="https://iptv-pro.github.io/logo/ebsen.png" width="100" height="50">|ebsen|https://iptv-pro.github.io/logo/ebsen.png|
 |<img src="https://iptv-pro.github.io/logo/echannel.png" width="100" height="50">|echannel|https://iptv-pro.github.io/logo/echannel.png|
@@ -1612,6 +1614,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8%E5%8F%B0.png" width="100" height="50">|中视经典台|https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87.png" width="100" height="50">|中视菁采|https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87.png|
 |<img src="https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87%E5%8F%B0.png" width="100" height="50">|中视菁采台|https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87%E5%8F%B0.png|
+|<img src="https://iptv-pro.github.io/logo/%E4%B9%90%E6%B8%B8.png" width="100" height="50">|乐游|https://iptv-pro.github.io/logo/%E4%B9%90%E6%B8%B8.png|
 |<img src="https://iptv-pro.github.io/logo/%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93.png" width="100" height="50">|书画频道|https://iptv-pro.github.io/logo/%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" width="100" height="50">|云南卫视|https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" width="100" height="50">|云南卫视高清|https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png|

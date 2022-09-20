@@ -66,6 +66,7 @@ Astro UHD,https://iptv-pro.github.io/logo/Astro%20UHD.png
 Astro Vaanavil,https://iptv-pro.github.io/logo/Astro%20Vaanavil.png
 Astro Vellithirai,https://iptv-pro.github.io/logo/Astro%20Vellithirai.png
 Astro Vinmeen,https://iptv-pro.github.io/logo/Astro%20Vinmeen.png
+Astro Wah Lai Toi,https://iptv-pro.github.io/logo/Astro%20Wah%20Lai%20Toi.png
 Astro Warna,https://iptv-pro.github.io/logo/Astro%20Warna.png
 Astro Xiao Tai Yang,https://iptv-pro.github.io/logo/Astro%20Xiao%20Tai%20Yang.png
 Aura,https://iptv-pro.github.io/logo/Aura.png
@@ -994,6 +995,7 @@ dzjj,https://iptv-pro.github.io/logo/dzjj.png
 dztv1,https://iptv-pro.github.io/logo/dztv1.png
 dzzh,https://iptv-pro.github.io/logo/dzzh.png
 eGG Network,https://iptv-pro.github.io/logo/eGG%20Network.png
+earthtv,https://iptv-pro.github.io/logo/earthtv.png
 ebs1,https://iptv-pro.github.io/logo/ebs1.png
 ebsen,https://iptv-pro.github.io/logo/ebsen.png
 echannel,https://iptv-pro.github.io/logo/echannel.png
@@ -1597,6 +1599,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 中视经典台,https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8%E5%8F%B0.png
 中视菁采,https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87.png
 中视菁采台,https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87%E5%8F%B0.png
+乐游,https://iptv-pro.github.io/logo/%E4%B9%90%E6%B8%B8.png
 书画频道,https://iptv-pro.github.io/logo/%E4%B9%A6%E7%94%BB%E9%A2%91%E9%81%93.png
 云南卫视,https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png
 云南卫视高清,https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png
