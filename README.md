@@ -539,6 +539,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/KBSDrama.png" width="100" height="50">|KBSDrama|https://iptv-pro.github.io/logo/KBSDrama.png|
 |<img src="https://iptv-pro.github.io/logo/KBSJOY.png" width="100" height="50">|KBSJOY|https://iptv-pro.github.io/logo/KBSJOY.png|
 |<img src="https://iptv-pro.github.io/logo/KBSKids.png" width="100" height="50">|KBSKids|https://iptv-pro.github.io/logo/KBSKids.png|
+|<img src="https://iptv-pro.github.io/logo/KBSNEWSD.png" width="100" height="50">|KBSNEWSD|https://iptv-pro.github.io/logo/KBSNEWSD.png|
 |<img src="https://iptv-pro.github.io/logo/KBSNLife.png" width="100" height="50">|KBSNLife|https://iptv-pro.github.io/logo/KBSNLife.png|
 |<img src="https://iptv-pro.github.io/logo/KBSNSports.png" width="100" height="50">|KBSNSports|https://iptv-pro.github.io/logo/KBSNSports.png|
 |<img src="https://iptv-pro.github.io/logo/KBSWorld.png" width="100" height="50">|KBSWorld|https://iptv-pro.github.io/logo/KBSWorld.png|
