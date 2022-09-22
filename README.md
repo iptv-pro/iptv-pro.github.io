@@ -106,12 +106,16 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/BSTV.png" width="100" height="50">|BSTV|https://iptv-pro.github.io/logo/BSTV.png|
 |<img src="https://iptv-pro.github.io/logo/BTSport1.png" width="100" height="50">|BTSport1|https://iptv-pro.github.io/logo/BTSport1.png|
 |<img src="https://iptv-pro.github.io/logo/BTSport2.png" width="100" height="50">|BTSport2|https://iptv-pro.github.io/logo/BTSport2.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" width="100" height="50">|BTV体育休闲|https://iptv-pro.github.io/logo/BTV%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B24K.png" width="100" height="50">|BTV体育休闲4K|https://iptv-pro.github.io/logo/BTV%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B24K.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" width="100" height="50">|BTV卡酷少儿|https://iptv-pro.github.io/logo/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E5%BD%B1%E8%A7%86.png" width="100" height="50">|BTV影视|https://iptv-pro.github.io/logo/BTV%E5%BD%B1%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E6%96%87%E8%89%BA.png" width="100" height="50">|BTV文艺|https://iptv-pro.github.io/logo/BTV%E6%96%87%E8%89%BA.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E6%96%B0%E9%97%BB.png" width="100" height="50">|BTV新闻|https://iptv-pro.github.io/logo/BTV%E6%96%B0%E9%97%BB.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E7%94%9F%E6%B4%BB.png" width="100" height="50">|BTV生活|https://iptv-pro.github.io/logo/BTV%E7%94%9F%E6%B4%BB.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E7%A7%91%E6%95%99.png" width="100" height="50">|BTV科教|https://iptv-pro.github.io/logo/BTV%E7%A7%91%E6%95%99.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" width="100" height="50">|BTV纪实科教|https://iptv-pro.github.io/logo/BTV%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png|
+|<img src="https://iptv-pro.github.io/logo/BTV%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%998K.png" width="100" height="50">|BTV纪实科教8K|https://iptv-pro.github.io/logo/BTV%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%998K.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E8%B4%A2%E7%BB%8F.png" width="100" height="50">|BTV财经|https://iptv-pro.github.io/logo/BTV%E8%B4%A2%E7%BB%8F.png|
 |<img src="https://iptv-pro.github.io/logo/BTV%E9%9D%92%E5%B9%B4.png" width="100" height="50">|BTV青年|https://iptv-pro.github.io/logo/BTV%E9%9D%92%E5%B9%B4.png|
 |<img src="https://iptv-pro.github.io/logo/Baby%20TV.png" width="100" height="50">|Baby TV|https://iptv-pro.github.io/logo/Baby%20TV.png|
@@ -347,6 +351,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/Channel%20V%E5%9B%BD%E9%99%85%E5%A8%B1%E4%B9%90%E5%8F%B0HD.png" width="100" height="50">|Channel V国际娱乐台HD|https://iptv-pro.github.io/logo/Channel%20V%E5%9B%BD%E9%99%85%E5%A8%B1%E4%B9%90%E5%8F%B0HD.png|
 |<img src="https://iptv-pro.github.io/logo/Channel%20%5BV%5D%20%E4%B8%AD%E5%9B%BD.png" width="100" height="50">|Channel [V] 中国|https://iptv-pro.github.io/logo/Channel%20%5BV%5D%20%E4%B8%AD%E5%9B%BD.png|
 |<img src="https://iptv-pro.github.io/logo/Channel%20%5BV%5D%20%E5%9B%BD%E9%99%85.png" width="100" height="50">|Channel [V] 国际|https://iptv-pro.github.io/logo/Channel%20%5BV%5D%20%E5%9B%BD%E9%99%85.png|
+|<img src="https://iptv-pro.github.io/logo/ChannelU.png" width="100" height="50">|ChannelU|https://iptv-pro.github.io/logo/ChannelU.png|
 |<img src="https://iptv-pro.github.io/logo/Chutti%20TV.png" width="100" height="50">|Chutti TV|https://iptv-pro.github.io/logo/Chutti%20TV.png|
 |<img src="https://iptv-pro.github.io/logo/CinemaWorld.png" width="100" height="50">|CinemaWorld|https://iptv-pro.github.io/logo/CinemaWorld.png|
 |<img src="https://iptv-pro.github.io/logo/Cinemax.png" width="100" height="50">|Cinemax|https://iptv-pro.github.io/logo/Cinemax.png|
