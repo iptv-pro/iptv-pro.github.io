@@ -2046,6 +2046,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E6%96%87%E6%97%85.png" width="100" height="50">|海南文旅|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E6%96%87%E6%97%85.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB.png" width="100" height="50">|海南新闻|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E6%96%B0%E9%97%BB.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E7%BB%8F%E6%B5%8E.png" width="100" height="50">|海南经济|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E7%BB%8F%E6%B5%8E.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8.png" width="100" height="50">|海南自贸|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png" width="100" height="50">|海峡卫视|https://iptv-pro.github.io/logo/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E7%9C%8B4K.png" width="100" height="50">|海看4K|https://iptv-pro.github.io/logo/%E6%B5%B7%E7%9C%8B4K.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B5%B7%E7%9C%8B%E5%81%A5%E5%BA%B7.png" width="100" height="50">|海看健康|https://iptv-pro.github.io/logo/%E6%B5%B7%E7%9C%8B%E5%81%A5%E5%BA%B7.png|
