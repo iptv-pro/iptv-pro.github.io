@@ -1721,6 +1721,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png" width="100" height="50">|南国都市4K|https://iptv-pro.github.io/logo/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86-B.png" width="100" height="50">|南方卫视-B|https://iptv-pro.github.io/logo/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86-B.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" width="100" height="50">|南方卫视|https://iptv-pro.github.io/logo/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%8D%97%E6%98%8C%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|南昌电视台|https://iptv-pro.github.io/logo/%E5%8D%97%E6%98%8C%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90%E4%BA%8C%E5%8F%B0.png" width="100" height="50">|博斯无限二台|https://iptv-pro.github.io/logo/%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90%E4%BA%8C%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90%E5%8F%B0.png" width="100" height="50">|博斯无限台|https://iptv-pro.github.io/logo/%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83%E5%8F%B0.png" width="100" height="50">|博斯网球台|https://iptv-pro.github.io/logo/%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83%E5%8F%B0.png|
@@ -2018,6 +2019,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85.png" width="100" height="50">|江苏国际|https://iptv-pro.github.io/logo/%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86.png" width="100" height="50">|江苏影视|https://iptv-pro.github.io/logo/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" width="100" height="50">|江西卫视|https://iptv-pro.github.io/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png|
+|<img src="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%A5%BF%E6%95%99%E8%82%B2%E5%8F%B0.png" width="100" height="50">|江西教育台|https://iptv-pro.github.io/logo/%E6%B1%9F%E8%A5%BF%E6%95%99%E8%82%B2%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B1%BD%E6%91%A9%E9%A2%91%E9%81%93.png" width="100" height="50">|汽摩频道|https://iptv-pro.github.io/logo/%E6%B1%BD%E6%91%A9%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B2%B3%E5%8C%97%E5%86%9C%E6%B0%91%E9%A2%91%E9%81%93.png" width="100" height="50">|河北农民频道|https://iptv-pro.github.io/logo/%E6%B2%B3%E5%8C%97%E5%86%9C%E6%B0%91%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" width="100" height="50">|河北卫视|https://iptv-pro.github.io/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png|
