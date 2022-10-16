@@ -11,6 +11,8 @@ http://192.168.190.1:4022/udp/239.45.1.68:5140
 http://192.168.190.1:4022/udp/239.45.0.2:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育 FHD
 http://192.168.190.1:4022/udp/239.45.1.69:5140
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事 FHD
+http://192.168.190.1:4022/udp/239.45.1.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影 FHD
 http://192.168.190.1:4022/udp/239.45.1.70:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事 FHD
@@ -317,8 +319,6 @@ http://192.168.190.1:4022/udp/239.45.1.108:5140
 http://192.168.190.1:4022/udp/239.45.1.109:5140
 #EXTINF:-1 tvg-id="" tvg-name="BesTV4K" tvg-logo="https://iptv-pro.github.io/logo/BesTV.png" group-title="BesTV",BesTV4K 测试
 http://192.168.190.1:4022/udp/239.45.1.22:5140
-#EXTINF:-1 tvg-id="" tvg-name="BesTV4K" tvg-logo="https://iptv-pro.github.io/logo/BesTV.png" group-title="BesTV",BesTV4K 测试
-http://192.168.190.1:4022/udp/239.45.1.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="BesTV4K" tvg-logo="https://iptv-pro.github.io/logo/BesTV.png" group-title="BesTV",BesTV4K 测试
 http://192.168.190.1:4022/udp/239.45.0.33:5140
 #EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png" group-title="财经频道",家庭理财
