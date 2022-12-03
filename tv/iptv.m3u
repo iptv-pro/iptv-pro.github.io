@@ -32,7 +32,7 @@ http://192.168.190.1:4022/udp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐 FHD
 http://192.168.190.1:4022/udp/239.45.0.20:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://iptv-pro.github.io/logo/CCTV-16.png" group-title="央视",CCTV-16奥林匹克 FHD
-http://192.168.190.1:4022/udp/239.45.0.21:5140
+http://192.168.190.1:4022/udp/239.45.1.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业 FHD
 http://192.168.190.1:4022/udp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
