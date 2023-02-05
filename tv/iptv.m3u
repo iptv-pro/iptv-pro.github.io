@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合 FHD
 http://192.168.190.1:4022/udp/239.45.3.145:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合 FHD
-http://192.168.190.1:4022/udp/239.45.0.18:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经 FHD
 http://192.168.190.1:4022/udp/239.45.0.1:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺 FHD
@@ -23,6 +21,8 @@ http://192.168.190.1:4022/udp/239.45.1.71:5140
 http://192.168.190.1:4022/udp/239.45.3.4:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教 FHD
 http://192.168.190.1:4022/udp/239.45.3.8:5140
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
+http://192.168.190.1:4022/udp/239.45.0.18:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法 FHD
 http://192.168.190.1:4022/udp/239.45.3.10:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻 FHD
