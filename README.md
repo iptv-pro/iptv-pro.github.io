@@ -489,6 +489,8 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/HK01.png" width="100" height="50">|HK01|https://iptv-pro.github.io/logo/HK01.png|
 |<img src="https://iptv-pro.github.io/logo/HKIBC.png" width="100" height="50">|HKIBC|https://iptv-pro.github.io/logo/HKIBC.png|
 |<img src="https://iptv-pro.github.io/logo/HOLLYWOOD%20MOVIE.png" width="100" height="50">|HOLLYWOOD MOVIE|https://iptv-pro.github.io/logo/HOLLYWOOD%20MOVIE.png|
+|<img src="https://iptv-pro.github.io/logo/HOYTV.png" width="100" height="50">|HOYTV|https://iptv-pro.github.io/logo/HOYTV.png|
+|<img src="https://iptv-pro.github.io/logo/HOY%E8%B5%84%E8%AE%AF%E5%8F%B0.png" width="100" height="50">|HOY资讯台|https://iptv-pro.github.io/logo/HOY%E8%B5%84%E8%AE%AF%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/HandsUpChannel.png" width="100" height="50">|HandsUpChannel|https://iptv-pro.github.io/logo/HandsUpChannel.png|
 |<img src="https://iptv-pro.github.io/logo/Hello.png" width="100" height="50">|Hello|https://iptv-pro.github.io/logo/Hello.png|
 |<img src="https://iptv-pro.github.io/logo/HelloTV.png" width="100" height="50">|HelloTV|https://iptv-pro.github.io/logo/HelloTV.png|

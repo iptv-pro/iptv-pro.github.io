@@ -474,6 +474,8 @@ HITZ FM,https://iptv-pro.github.io/logo/HITZ%20FM.png
 HK01,https://iptv-pro.github.io/logo/HK01.png
 HKIBC,https://iptv-pro.github.io/logo/HKIBC.png
 HOLLYWOOD MOVIE,https://iptv-pro.github.io/logo/HOLLYWOOD%20MOVIE.png
+HOYTV,https://iptv-pro.github.io/logo/HOYTV.png
+HOY资讯台,https://iptv-pro.github.io/logo/HOY%E8%B5%84%E8%AE%AF%E5%8F%B0.png
 HandsUpChannel,https://iptv-pro.github.io/logo/HandsUpChannel.png
 Hello,https://iptv-pro.github.io/logo/Hello.png
 HelloTV,https://iptv-pro.github.io/logo/HelloTV.png
