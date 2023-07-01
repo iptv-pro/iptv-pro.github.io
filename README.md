@@ -722,6 +722,8 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/RTHK31.png" width="100" height="50">|RTHK31|https://iptv-pro.github.io/logo/RTHK31.png|
 |<img src="https://iptv-pro.github.io/logo/RTHK32.png" width="100" height="50">|RTHK32|https://iptv-pro.github.io/logo/RTHK32.png|
 |<img src="https://iptv-pro.github.io/logo/RTHK33.png" width="100" height="50">|RTHK33|https://iptv-pro.github.io/logo/RTHK33.png|
+|<img src="https://iptv-pro.github.io/logo/RTHK34.png" width="100" height="50">|RTHK34|https://iptv-pro.github.io/logo/RTHK34.png|
+|<img src="https://iptv-pro.github.io/logo/RTHK35.png" width="100" height="50">|RTHK35|https://iptv-pro.github.io/logo/RTHK35.png|
 |<img src="https://iptv-pro.github.io/logo/RTHKPTHRadio.png" width="100" height="50">|RTHKPTHRadio|https://iptv-pro.github.io/logo/RTHKPTHRadio.png|
 |<img src="https://iptv-pro.github.io/logo/RTM_Sports.png" width="100" height="50">|RTM_Sports|https://iptv-pro.github.io/logo/RTM_Sports.png|
 |<img src="https://iptv-pro.github.io/logo/Radio%20ARENA.png" width="100" height="50">|Radio ARENA|https://iptv-pro.github.io/logo/Radio%20ARENA.png|

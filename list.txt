@@ -707,6 +707,8 @@ RTHK,https://iptv-pro.github.io/logo/RTHK.png
 RTHK31,https://iptv-pro.github.io/logo/RTHK31.png
 RTHK32,https://iptv-pro.github.io/logo/RTHK32.png
 RTHK33,https://iptv-pro.github.io/logo/RTHK33.png
+RTHK34,https://iptv-pro.github.io/logo/RTHK34.png
+RTHK35,https://iptv-pro.github.io/logo/RTHK35.png
 RTHKPTHRadio,https://iptv-pro.github.io/logo/RTHKPTHRadio.png
 RTM_Sports,https://iptv-pro.github.io/logo/RTM_Sports.png
 Radio ARENA,https://iptv-pro.github.io/logo/Radio%20ARENA.png
