@@ -1836,6 +1836,7 @@ zxs,https://iptv-pro.github.io/logo/zxs.png
 好消息2台,https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0.png
 好消息卫星电视台,https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF%E5%8D%AB%E6%98%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png
 好莱坞电影,https://iptv-pro.github.io/logo/%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1.png
+娱乐新闻台,https://iptv-pro.github.io/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png
 宁夏卫视,https://iptv-pro.github.io/logo/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png
 安徽人物,https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E4%BA%BA%E7%89%A9.png
 安徽公共,https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1.jpg
