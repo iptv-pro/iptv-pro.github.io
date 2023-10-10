@@ -810,6 +810,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png" width="100" height="50">|TVBS新闻|https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png|
 |<img src="https://iptv-pro.github.io/logo/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png" width="100" height="50">|TVBS欢乐台|https://iptv-pro.github.io/logo/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png" width="100" height="50">|TVBS精采台|https://iptv-pro.github.io/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png|
+|<img src="https://iptv-pro.github.io/logo/TVBThai.png" width="100" height="50">|TVBThai|https://iptv-pro.github.io/logo/TVBThai.png|
 |<img src="https://iptv-pro.github.io/logo/TVB%E4%B8%BA%E9%A3%9F%E5%8F%B0.png" width="100" height="50">|TVB为食台|https://iptv-pro.github.io/logo/TVB%E4%B8%BA%E9%A3%9F%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0png.png" width="100" height="50">|TVB无线新闻台png|https://iptv-pro.github.io/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0png.png|
 |<img src="https://iptv-pro.github.io/logo/TVB%E6%98%9F%E6%B2%B3.png" width="100" height="50">|TVB星河|https://iptv-pro.github.io/logo/TVB%E6%98%9F%E6%B2%B3.png|
