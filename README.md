@@ -1847,6 +1847,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93HD.png" width="100" height="50">|天映频道HD|https://iptv-pro.github.io/logo/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93HD.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" width="100" height="50">|天津卫视|https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%A4%A9%E8%89%AF%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|天良电视台|https://iptv-pro.github.io/logo/%E5%A4%A9%E8%89%AF%E7%94%B5%E8%A7%86%E5%8F%B0.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%A5%A5%E8%A7%86OursHD.png" width="100" height="50">|奥视OursHD|https://iptv-pro.github.io/logo/%E5%A5%A5%E8%A7%86OursHD.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF.png" width="100" height="50">|好消息|https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF2.png" width="100" height="50">|好消息2|https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF2.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0.png" width="100" height="50">|好消息2台|https://iptv-pro.github.io/logo/%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0.png|
