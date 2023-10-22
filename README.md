@@ -1769,6 +1769,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E5%92%AA%E5%92%954k.png" width="100" height="50">|咪咕4k|https://iptv-pro.github.io/logo/%E5%92%AA%E5%92%954k.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%92%AA%E5%92%95%E4%BD%93%E8%82%B2.png" width="100" height="50">|咪咕体育|https://iptv-pro.github.io/logo/%E5%92%AA%E5%92%95%E4%BD%93%E8%82%B2.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png" width="100" height="50">|哈哈炫动|https://iptv-pro.github.io/logo/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png|
+|<img src="https://iptv-pro.github.io/logo/%E5%93%92%E5%95%B5%E7%94%B5%E7%AB%9E.png" width="100" height="50">|哒啵电竞|https://iptv-pro.github.io/logo/%E5%93%92%E5%95%B5%E7%94%B5%E7%AB%9E.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%93%92%E5%95%B5%E8%B5%9B%E4%BA%8B.png" width="100" height="50">|哒啵赛事|https://iptv-pro.github.io/logo/%E5%93%92%E5%95%B5%E8%B5%9B%E4%BA%8B.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86%E5%8F%B0.png" width="100" height="50">|唯心电视台|https://iptv-pro.github.io/logo/%E5%94%AF%E5%BF%83%E7%94%B5%E8%A7%86%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" width="100" height="50">|嘉佳卡通|https://iptv-pro.github.io/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png|
