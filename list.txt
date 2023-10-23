@@ -804,6 +804,7 @@ TVN.PNG,https://iptv-pro.github.io/logo/TVN.PNG
 TVN,https://iptv-pro.github.io/logo/TVN.png
 TVNMovies,https://iptv-pro.github.io/logo/TVNMovies.png
 TVS,https://iptv-pro.github.io/logo/TVS.png
+TWAV,https://iptv-pro.github.io/logo/TWAV.png
 TechStorm,https://iptv-pro.github.io/logo/TechStorm.png
 Thrill,https://iptv-pro.github.io/logo/Thrill.png
 Travel Channel,https://iptv-pro.github.io/logo/Travel%20Channel.png

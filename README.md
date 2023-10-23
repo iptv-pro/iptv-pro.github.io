@@ -819,6 +819,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/TVN.png" width="100" height="50">|TVN|https://iptv-pro.github.io/logo/TVN.png|
 |<img src="https://iptv-pro.github.io/logo/TVNMovies.png" width="100" height="50">|TVNMovies|https://iptv-pro.github.io/logo/TVNMovies.png|
 |<img src="https://iptv-pro.github.io/logo/TVS.png" width="100" height="50">|TVS|https://iptv-pro.github.io/logo/TVS.png|
+|<img src="https://iptv-pro.github.io/logo/TWAV.png" width="100" height="50">|TWAV|https://iptv-pro.github.io/logo/TWAV.png|
 |<img src="https://iptv-pro.github.io/logo/TechStorm.png" width="100" height="50">|TechStorm|https://iptv-pro.github.io/logo/TechStorm.png|
 |<img src="https://iptv-pro.github.io/logo/Thrill.png" width="100" height="50">|Thrill|https://iptv-pro.github.io/logo/Thrill.png|
 |<img src="https://iptv-pro.github.io/logo/Travel%20Channel.png" width="100" height="50">|Travel Channel|https://iptv-pro.github.io/logo/Travel%20Channel.png|
