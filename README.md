@@ -855,6 +855,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/ahtv.png" width="100" height="50">|ahtv|https://iptv-pro.github.io/logo/ahtv.png|
 |<img src="https://iptv-pro.github.io/logo/ajtv.png" width="100" height="50">|ajtv|https://iptv-pro.github.io/logo/ajtv.png|
 |<img src="https://iptv-pro.github.io/logo/ajtv2.png" width="100" height="50">|ajtv2|https://iptv-pro.github.io/logo/ajtv2.png|
+|<img src="https://iptv-pro.github.io/logo/amateureuro.png" width="100" height="50">|amateureuro|https://iptv-pro.github.io/logo/amateureuro.png|
 |<img src="https://iptv-pro.github.io/logo/amc.png" width="100" height="50">|amc|https://iptv-pro.github.io/logo/amc.png|
 |<img src="https://iptv-pro.github.io/logo/amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1.png" width="100" height="50">|amc最爱电影|https://iptv-pro.github.io/logo/amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/anibox.png" width="100" height="50">|anibox|https://iptv-pro.github.io/logo/anibox.png|
@@ -1316,6 +1317,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/ocnmovie.png" width="100" height="50">|ocnmovie|https://iptv-pro.github.io/logo/ocnmovie.png|
 |<img src="https://iptv-pro.github.io/logo/ocnmovie2.png" width="100" height="50">|ocnmovie2|https://iptv-pro.github.io/logo/ocnmovie2.png|
 |<img src="https://iptv-pro.github.io/logo/ogn.png" width="100" height="50">|ogn|https://iptv-pro.github.io/logo/ogn.png|
+|<img src="https://iptv-pro.github.io/logo/olala.png" width="100" height="50">|olala|https://iptv-pro.github.io/logo/olala.png|
 |<img src="https://iptv-pro.github.io/logo/olive.png" width="100" height="50">|olive|https://iptv-pro.github.io/logo/olive.png|
 |<img src="https://iptv-pro.github.io/logo/olympic.png" width="100" height="50">|olympic|https://iptv-pro.github.io/logo/olympic.png|
 |<img src="https://iptv-pro.github.io/logo/oncc.png" width="100" height="50">|oncc|https://iptv-pro.github.io/logo/oncc.png|
@@ -1323,6 +1325,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/otvn.png" width="100" height="50">|otvn|https://iptv-pro.github.io/logo/otvn.png|
 |<img src="https://iptv-pro.github.io/logo/panda.png" width="100" height="50">|panda|https://iptv-pro.github.io/logo/panda.png|
 |<img src="https://iptv-pro.github.io/logo/panyu.png" width="100" height="50">|panyu|https://iptv-pro.github.io/logo/panyu.png|
+|<img src="https://iptv-pro.github.io/logo/passiexxx.png" width="100" height="50">|passiexxx|https://iptv-pro.github.io/logo/passiexxx.png|
 |<img src="https://iptv-pro.github.io/logo/penthousegold.png" width="100" height="50">|penthousegold|https://iptv-pro.github.io/logo/penthousegold.png|
 |<img src="https://iptv-pro.github.io/logo/penthousepassion.png" width="100" height="50">|penthousepassion|https://iptv-pro.github.io/logo/penthousepassion.png|
 |<img src="https://iptv-pro.github.io/logo/playboy.png" width="100" height="50">|playboy|https://iptv-pro.github.io/logo/playboy.png|

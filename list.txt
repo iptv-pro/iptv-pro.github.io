@@ -840,6 +840,7 @@ aedyj,https://iptv-pro.github.io/logo/aedyj.png
 ahtv,https://iptv-pro.github.io/logo/ahtv.png
 ajtv,https://iptv-pro.github.io/logo/ajtv.png
 ajtv2,https://iptv-pro.github.io/logo/ajtv2.png
+amateureuro,https://iptv-pro.github.io/logo/amateureuro.png
 amc,https://iptv-pro.github.io/logo/amc.png
 amc最爱电影,https://iptv-pro.github.io/logo/amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1.png
 anibox,https://iptv-pro.github.io/logo/anibox.png
@@ -1301,6 +1302,7 @@ ocn,https://iptv-pro.github.io/logo/ocn.png
 ocnmovie,https://iptv-pro.github.io/logo/ocnmovie.png
 ocnmovie2,https://iptv-pro.github.io/logo/ocnmovie2.png
 ogn,https://iptv-pro.github.io/logo/ogn.png
+olala,https://iptv-pro.github.io/logo/olala.png
 olive,https://iptv-pro.github.io/logo/olive.png
 olympic,https://iptv-pro.github.io/logo/olympic.png
 oncc,https://iptv-pro.github.io/logo/oncc.png
@@ -1308,6 +1310,7 @@ onstyle,https://iptv-pro.github.io/logo/onstyle.png
 otvn,https://iptv-pro.github.io/logo/otvn.png
 panda,https://iptv-pro.github.io/logo/panda.png
 panyu,https://iptv-pro.github.io/logo/panyu.png
+passiexxx,https://iptv-pro.github.io/logo/passiexxx.png
 penthousegold,https://iptv-pro.github.io/logo/penthousegold.png
 penthousepassion,https://iptv-pro.github.io/logo/penthousepassion.png
 playboy,https://iptv-pro.github.io/logo/playboy.png
