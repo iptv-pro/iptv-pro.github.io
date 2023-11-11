@@ -734,6 +734,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/Ruuma.png" width="100" height="50">|Ruuma|https://iptv-pro.github.io/logo/Ruuma.png|
 |<img src="https://iptv-pro.github.io/logo/SBN%E5%85%A8%E7%90%83%E8%B4%A2%E7%BB%8F%E5%8F%B0.png" width="100" height="50">|SBN全球财经台|https://iptv-pro.github.io/logo/SBN%E5%85%A8%E7%90%83%E8%B4%A2%E7%BB%8F%E5%8F%B0.png|
 |<img src="https://iptv-pro.github.io/logo/SINAR%20FM.png" width="100" height="50">|SINAR FM|https://iptv-pro.github.io/logo/SINAR%20FM.png|
+|<img src="https://iptv-pro.github.io/logo/SP-MGNBA.png" width="100" height="50">|SP-MGNBA|https://iptv-pro.github.io/logo/SP-MGNBA.png|
 |<img src="https://iptv-pro.github.io/logo/STAR%20Cricket%2B.png" width="100" height="50">|STAR Cricket+|https://iptv-pro.github.io/logo/STAR%20Cricket%2B.png|
 |<img src="https://iptv-pro.github.io/logo/STAR%20Cricket.png" width="100" height="50">|STAR Cricket|https://iptv-pro.github.io/logo/STAR%20Cricket.png|
 |<img src="https://iptv-pro.github.io/logo/STAR%20PLUS.png" width="100" height="50">|STAR PLUS|https://iptv-pro.github.io/logo/STAR%20PLUS.png|
@@ -1270,6 +1271,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/mbcsport.png" width="100" height="50">|mbcsport|https://iptv-pro.github.io/logo/mbcsport.png|
 |<img src="https://iptv-pro.github.io/logo/mbn.png" width="100" height="50">|mbn|https://iptv-pro.github.io/logo/mbn.png|
 |<img src="https://iptv-pro.github.io/logo/meiya.png" width="100" height="50">|meiya|https://iptv-pro.github.io/logo/meiya.png|
+|<img src="https://iptv-pro.github.io/logo/mg-zq.png" width="100" height="50">|mg-zq|https://iptv-pro.github.io/logo/mg-zq.png|
 |<img src="https://iptv-pro.github.io/logo/mgtv.png" width="100" height="50">|mgtv|https://iptv-pro.github.io/logo/mgtv.png|
 |<img src="https://iptv-pro.github.io/logo/mingzhu.png" width="100" height="50">|mingzhu|https://iptv-pro.github.io/logo/mingzhu.png|
 |<img src="https://iptv-pro.github.io/logo/minshi1.png" width="100" height="50">|minshi1|https://iptv-pro.github.io/logo/minshi1.png|

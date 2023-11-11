@@ -719,6 +719,7 @@ RugbyPass TV,https://iptv-pro.github.io/logo/RugbyPass%20TV.png
 Ruuma,https://iptv-pro.github.io/logo/Ruuma.png
 SBN全球财经台,https://iptv-pro.github.io/logo/SBN%E5%85%A8%E7%90%83%E8%B4%A2%E7%BB%8F%E5%8F%B0.png
 SINAR FM,https://iptv-pro.github.io/logo/SINAR%20FM.png
+SP-MGNBA,https://iptv-pro.github.io/logo/SP-MGNBA.png
 STAR Cricket+,https://iptv-pro.github.io/logo/STAR%20Cricket%2B.png
 STAR Cricket,https://iptv-pro.github.io/logo/STAR%20Cricket.png
 STAR PLUS,https://iptv-pro.github.io/logo/STAR%20PLUS.png
@@ -1255,6 +1256,7 @@ mbcon,https://iptv-pro.github.io/logo/mbcon.png
 mbcsport,https://iptv-pro.github.io/logo/mbcsport.png
 mbn,https://iptv-pro.github.io/logo/mbn.png
 meiya,https://iptv-pro.github.io/logo/meiya.png
+mg-zq,https://iptv-pro.github.io/logo/mg-zq.png
 mgtv,https://iptv-pro.github.io/logo/mgtv.png
 mingzhu,https://iptv-pro.github.io/logo/mingzhu.png
 minshi1,https://iptv-pro.github.io/logo/minshi1.png
