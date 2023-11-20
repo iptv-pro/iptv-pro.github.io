@@ -845,6 +845,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/WarnerTV.png" width="100" height="50">|WarnerTV|https://iptv-pro.github.io/logo/WarnerTV.png|
 |<img src="https://iptv-pro.github.io/logo/Y%2B.png" width="100" height="50">|Y+|https://iptv-pro.github.io/logo/Y%2B.png|
 |<img src="https://iptv-pro.github.io/logo/Y%2B%E5%BD%B1%E8%A7%86.png" width="100" height="50">|Y+影视|https://iptv-pro.github.io/logo/Y%2B%E5%BD%B1%E8%A7%86.png|
+|<img src="https://iptv-pro.github.io/logo/YoutubeMusic.png" width="100" height="50">|YoutubeMusic|https://iptv-pro.github.io/logo/YoutubeMusic.png|
 |<img src="https://iptv-pro.github.io/logo/ZAYAN.png" width="100" height="50">|ZAYAN|https://iptv-pro.github.io/logo/ZAYAN.png|
 |<img src="https://iptv-pro.github.io/logo/Zee%20Cinema%20International.png" width="100" height="50">|Zee Cinema International|https://iptv-pro.github.io/logo/Zee%20Cinema%20International.png|
 |<img src="https://iptv-pro.github.io/logo/Zee%20News.png" width="100" height="50">|Zee News|https://iptv-pro.github.io/logo/Zee%20News.png|

@@ -830,6 +830,7 @@ Warner TV,https://iptv-pro.github.io/logo/Warner%20TV.png
 WarnerTV,https://iptv-pro.github.io/logo/WarnerTV.png
 Y+,https://iptv-pro.github.io/logo/Y%2B.png
 Y+影视,https://iptv-pro.github.io/logo/Y%2B%E5%BD%B1%E8%A7%86.png
+YoutubeMusic,https://iptv-pro.github.io/logo/YoutubeMusic.png
 ZAYAN,https://iptv-pro.github.io/logo/ZAYAN.png
 Zee Cinema International,https://iptv-pro.github.io/logo/Zee%20Cinema%20International.png
 Zee News,https://iptv-pro.github.io/logo/Zee%20News.png
