@@ -2181,6 +2181,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" width="100" height="50">|重庆卫视高清|https://iptv-pro.github.io/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%87%8D%E5%BA%86%E5%9B%BD%E9%99%85.png" width="100" height="50">|重庆国际|https://iptv-pro.github.io/logo/%E9%87%8D%E5%BA%86%E5%9B%BD%E9%99%85.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9%E9%A2%91%E9%81%93.png" width="100" height="50">|重庆汽摩频道|https://iptv-pro.github.io/logo/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9%E9%A2%91%E9%81%93.png|
+|<img src="https://iptv-pro.github.io/logo/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" width="100" height="50">|重温经典|https://iptv-pro.github.io/logo/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%8F.png" width="100" height="50">|金光布袋戏|https://iptv-pro.github.io/logo/%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%8F.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" width="100" height="50">|金色学堂|https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png|
 |<img src="https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E9%A2%91%E9%81%93.png" width="100" height="50">|金色频道|https://iptv-pro.github.io/logo/%E9%87%91%E8%89%B2%E9%A2%91%E9%81%93.png|
