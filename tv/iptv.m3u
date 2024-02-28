@@ -111,6 +111,8 @@ http://192.168.190.1:4022/udp/239.45.1.81:5140
 http://192.168.190.1:4022/udp/239.45.1.44:5140
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视 FHD
 http://192.168.190.1:4022/udp/239.45.0.15:5140
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视 FHD
+http://192.168.190.1:4022/udp/239.45.0.37:5140
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实 FHD
 http://192.168.190.1:4022/udp/239.45.1.45:5140
 #EXTINF:-1 tvg-id="" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="卫视",北京冬奥纪实 FHD
