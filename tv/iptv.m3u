@@ -365,11 +365,11 @@ http://192.168.190.1:4022/udp/239.45.1.11:5140
 http://192.168.190.1:4022/udp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="" tvg-name="BesTV4K 测试" tvg-logo="https://iptv-pro.github.io/logo/BesTV.png" group-title="4K",BesTV4K 测试
 http://192.168.190.1:4022/udp/239.45.1.108:5140
-#EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png" group-title="财经频道",家庭理财
+#EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png" group-title="财经",家庭理财
 http://192.168.190.1:4022/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="财经",第一财经
 http://192.168.190.1:4022/udp/239.45.3.111:5140
-#EXTINF:-1 tvg-id="东方财经" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/东方财经.jpeg" group-title="财经",东方财经
+#EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://iptv-pro.github.io/logo/东方财经.jpeg" group-title="财经",东方财经
 http://192.168.190.1:4022/udp/239.45.1.119:5140
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://iptv-pro.github.io/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="CHC",CHC家庭影院
 http://192.168.190.1:4022/udp/239.45.1.22:5140
