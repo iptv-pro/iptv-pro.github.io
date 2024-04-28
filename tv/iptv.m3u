@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="央视频道",CCTV4k超高清
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="央视",CCTV4k超高清
 http://192.168.190.1:4022/udp/239.45.0.55:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合 FHD
 http://192.168.190.1:4022/udp/239.45.3.145:5140
@@ -117,13 +117,13 @@ http://192.168.190.1:4022/udp/239.45.1.17:5140
 http://192.168.190.1:4022/udp/239.45.0.44:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV电视指南" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视",CCTV电视指南
 http://192.168.190.1:4022/udp/239.45.1.73:5140
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://iptv-pro.github.io/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="CHC频道",CHC家庭影院
+#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://iptv-pro.github.io/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="CHC",CHC家庭影院
 http://192.168.190.1:4022/udp/239.45.1.22:5140
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://iptv-pro.github.io/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="CHC频道",CHC家庭影院
+#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://iptv-pro.github.io/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="CHC",CHC家庭影院
 http://192.168.190.1:4022/udp/239.45.0.40:5140
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://iptv-pro.github.io/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="CHC频道",CHC动作电影
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://iptv-pro.github.io/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="CHC",CHC动作电影
 http://192.168.190.1:4022/udp/239.45.0.41:5140
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://iptv-pro.github.io/logo/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="CHC频道",CHC高清电影
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://iptv-pro.github.io/logo/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="CHC",CHC高清电影
 http://192.168.190.1:4022/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 FHD
 http://192.168.190.1:4022/udp/239.45.3.146:5140
@@ -353,7 +353,7 @@ http://192.168.190.1:4022/udp/239.45.1.112:5140
 http://192.168.190.1:4022/udp/239.45.1.192:5140
 #EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.190.1:4022/udp/239.45.3.64:5140
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="央视频道",CCTV4k超高清
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="央视",CCTV4k超高清
 http://192.168.190.1:4022/udp/239.45.0.55:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://iptv-pro.github.io/logo/CCTV-16.png" group-title="4K",CCTV-16奥林匹克 4K
 http://192.168.190.1:4022/udp/239.45.0.12:5140
