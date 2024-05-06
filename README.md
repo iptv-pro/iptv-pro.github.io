@@ -266,6 +266,7 @@ https://github.com/m3u8playlist/tvlogo
 |<img src="https://iptv-pro.github.io/logo/CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD.png" width="100" height="50">|CGTN阿拉伯语|https://iptv-pro.github.io/logo/CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD.png|
 |<img src="https://iptv-pro.github.io/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" width="100" height="50">|CHC动作电影|https://iptv-pro.github.io/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" width="100" height="50">|CHC家庭影院|https://iptv-pro.github.io/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png|
+|<img src="https://iptv-pro.github.io/logo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" width="100" height="50">|CHC影迷电影|https://iptv-pro.github.io/logo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" width="100" height="50">|CHC高清电影|https://iptv-pro.github.io/logo/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png|
 |<img src="https://iptv-pro.github.io/logo/CI%20%E7%BD%AA%E6%A1%88%E4%BE%A6%E6%9F%A5%E9%A2%91%E9%81%93.png" width="100" height="50">|CI 罪案侦查频道|https://iptv-pro.github.io/logo/CI%20%E7%BD%AA%E6%A1%88%E4%BE%A6%E6%9F%A5%E9%A2%91%E9%81%93.png|
 |<img src="https://iptv-pro.github.io/logo/CIBN%20NIHAO%20TV.png" width="100" height="50">|CIBN NIHAO TV|https://iptv-pro.github.io/logo/CIBN%20NIHAO%20TV.png|

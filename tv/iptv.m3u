@@ -377,6 +377,6 @@ http://192.168.190.1:4022/udp/239.45.1.22:5140
 http://192.168.190.1:4022/udp/239.45.0.40:5140
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://iptv-pro.github.io/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="CHC",CHC动作电影
 http://192.168.190.1:4022/udp/239.45.0.41:5140
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://iptv-pro.github.io/logo/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="CHC",CHC高清电影
+#EXTINF:-1 tvg-id="" tvg-name="CHC影迷电影" tvg-logo="https://iptv-pro.github.io/logo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="CHC",CHC影迷电影
 http://192.168.190.1:4022/udp/239.45.0.42:5140
 
