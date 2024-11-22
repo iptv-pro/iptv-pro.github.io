@@ -84,7 +84,7 @@ http://192.168.190.1:4022/udp/239.45.3.1:5140
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://192.168.190.1:4022/udp/239.45.1.194:5140
 #EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png" group-title="央视",中国天气
-http://192.168.190.1:4022/udp/239.45.1.47:5140
+http://192.168.190.1:4022/udp/239.45.3.141:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV第一剧场" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV第一剧场
 http://192.168.190.1:4022/udp/239.45.0.51:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV风云剧场" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV风云剧场
