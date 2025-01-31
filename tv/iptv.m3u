@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://iptv-pro.github.io/epg/epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="央视",CCTV4K超高清
 http://192.168.190.1:4022/udp/239.45.0.55:5140
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="央视",CCTV4K超高清 HDR
+http://192.168.190.1:4022/udp/239.45.1.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合 FHD
 http://192.168.190.1:4022/udp/239.45.3.145:5140
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合 FHD
